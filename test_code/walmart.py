@@ -15,9 +15,9 @@ params = {
     "apiKey": api_key,
     "format": "json" # json|xml
 }
-params["query"] = "ibad"
+params["query"] = "ipad"
 
-def walmart_serch(q):
+def walmart_search(q):
     params["query"] = q
     walmart_data = requests.get(url, params=params)
     walmart_url = walmart_data.url
@@ -39,7 +39,7 @@ if arglen>1:
         k,v=sys.argv[i].split("=")
         if k in params:
             params[k] = v
-        result = walmart_serch(params["query"])
+        result = walmart_search(params["query"])
         print(params)
         print(json.dumps(result, indent=4))
     
