@@ -31,16 +31,18 @@ def walmart_search(q):
     result["items"] = walmart_data["items"]
     return walmart_data
 
-print(sys.argv)
+#print(sys.argv)
 arglen = len(sys.argv)
+#print(arglen)
 if arglen>1:
     for i in range(1,arglen):
         #print(sys.argv[i])
-        k,v=sys.argv[i].split("=")
-        if k in params:
-            params[k] = v
-        result = walmart_search(params["query"])
-        print(params)
-        print(json.dumps(result, indent=4))
+        if "=" in sys.argv[i]:
+            k,v=sys.argv[i].split("=")
+            if k in params:
+                params[k] = v
+            result = walmart_search(params["query"])
+            print(params)
+            print(json.dumps(result, indent=4))
     
 
