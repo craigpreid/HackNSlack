@@ -1,0 +1,210 @@
+{
+    "query": "laptop",
+    "categoryId": "3944",
+    "sort": "relevance",
+    "responseGroup": "base",
+    "totalResults": 1,
+    "start": 1,
+    "numItems": 1,
+    "items": [
+        {
+            "itemId": 586976837,
+            "parentItemId": 586976837,
+            "name": "Msi Gl63 I7-8750/gtx1050ti/8gb/256g+1t/win10",
+            "salePrice": 1.0,
+            "upc": "824142162644",
+            "categoryPath": "Electronics/Computers/Laptops/Shop Laptops by Type/Gaming Laptops",
+            "shortDescription": "short description is not available",
+            "longDescription": "Msi Gl63 I7-8750/gtx1050ti/8gb/256g+1t/win10",
+            "thumbnailImage": "https://i5.walmartimages.com/asr/0eaab542-0ae6-47ca-9c1d-cf2d8832bfe2_1.49c26fecf52964e49c0ed3c067f470ab.jpeg?odnHeight=100&odnWidth=100&odnBg=FFFFFF",
+            "mediumImage": "https://i5.walmartimages.com/asr/0eaab542-0ae6-47ca-9c1d-cf2d8832bfe2_1.49c26fecf52964e49c0ed3c067f470ab.jpeg?odnHeight=180&odnWidth=180&odnBg=FFFFFF",
+            "largeImage": "https://i5.walmartimages.com/asr/0eaab542-0ae6-47ca-9c1d-cf2d8832bfe2_1.49c26fecf52964e49c0ed3c067f470ab.jpeg?odnHeight=450&odnWidth=450&odnBg=FFFFFF",
+            "productTrackingUrl": "http://linksynergy.walmart.com/fs-bin/click?id=|LSNID|&offerid=223073.7200&type=14&catid=8&subid=0&hid=7200&tmpid=1082&RD_PARM1=https%253A%252F%252Fwww.walmart.com%252Fip%252FMsi-Gl63-I7-8750-gtx1050ti-8gb-256g-1t-win10%252F586976837%253Faffp1%253D_zilUfBpqvgm8BtSTrIfHKIYqDIrEjvn5XCNlTKiOUc%2526affilsrc%253Dapi",
+            "standardShipRate": 5.99,
+            "marketplace": false,
+            "modelNumber": "GL638RD210US",
+            "productUrl": "http://c.affil.walmart.com/t/api02?l=https%3A%2F%2Fwww.walmart.com%2Fip%2FMsi-Gl63-I7-8750-gtx1050ti-8gb-256g-1t-win10%2F586976837%3Faffp1%3D_zilUfBpqvgm8BtSTrIfHKIYqDIrEjvn5XCNlTKiOUc%26affilsrc%3Dapi%26veh%3Daff%26wmlspartner%3Dreadonlyapi",
+            "customerRating": "4.0",
+            "numReviews": 1,
+            "customerRatingImage": "http://i2.walmartimages.com/i/CustRating/4.gif",
+            "categoryNode": "3944_3951_1089430",
+            "rhid": "27371",
+            "bundle": false,
+            "stock": "Not available",
+            "addToCartUrl": "http://c.affil.walmart.com/t/api02?l=http%3A%2F%2Faffil.walmart.com%2Fcart%2FaddToCart%3Fitems%3D586976837%7C1%26affp1%3D_zilUfBpqvgm8BtSTrIfHKIYqDIrEjvn5XCNlTKiOUc%26affilsrc%3Dapi%26veh%3Daff%26wmlspartner%3Dreadonlyapi",
+            "affiliateAddToCartUrl": "http://linksynergy.walmart.com/fs-bin/click?id=|LSNID|&offerid=223073.7200&type=14&catid=8&subid=0&hid=7200&tmpid=1082&RD_PARM1=http%253A%252F%252Faffil.walmart.com%252Fcart%252FaddToCart%253Fitems%253D586976837%257C1%2526affp1%253D_zilUfBpqvgm8BtSTrIfHKIYqDIrEjvn5XCNlTKiOUc%2526affilsrc%253Dapi",
+            "giftOptions": {
+                "allowGiftWrap": false,
+                "allowGiftMessage": true,
+                "allowGiftReceipt": true
+            },
+            "imageEntities": [
+                {
+                    "thumbnailImage": "https://i5.walmartimages.com/asr/433c6b69-0523-4d4a-aafe-733197169806_1.f4dfcfe2b3bf43fe5aae2b4a9633d1d0.jpeg?odnHeight=100&odnWidth=100&odnBg=FFFFFF",
+                    "mediumImage": "https://i5.walmartimages.com/asr/433c6b69-0523-4d4a-aafe-733197169806_1.f4dfcfe2b3bf43fe5aae2b4a9633d1d0.jpeg?odnHeight=180&odnWidth=180&odnBg=FFFFFF",
+                    "largeImage": "https://i5.walmartimages.com/asr/433c6b69-0523-4d4a-aafe-733197169806_1.f4dfcfe2b3bf43fe5aae2b4a9633d1d0.jpeg?odnHeight=450&odnWidth=450&odnBg=FFFFFF",
+                    "entityType": "SECONDARY"
+                },
+                {
+                    "thumbnailImage": "https://i5.walmartimages.com/asr/2285e565-abc1-4575-971c-4edd217bd948_1.06efc94cb1885114cba2e905586a9fe9.jpeg?odnHeight=100&odnWidth=100&odnBg=FFFFFF",
+                    "mediumImage": "https://i5.walmartimages.com/asr/2285e565-abc1-4575-971c-4edd217bd948_1.06efc94cb1885114cba2e905586a9fe9.jpeg?odnHeight=180&odnWidth=180&odnBg=FFFFFF",
+                    "largeImage": "https://i5.walmartimages.com/asr/2285e565-abc1-4575-971c-4edd217bd948_1.06efc94cb1885114cba2e905586a9fe9.jpeg?odnHeight=450&odnWidth=450&odnBg=FFFFFF",
+                    "entityType": "SECONDARY"
+                },
+                {
+                    "thumbnailImage": "https://i5.walmartimages.com/asr/5d026fa4-ad13-4391-bf9a-49a56c4eda41_1.bc9ee693657d34670cc633c4a0226adb.jpeg?odnHeight=100&odnWidth=100&odnBg=FFFFFF",
+                    "mediumImage": "https://i5.walmartimages.com/asr/5d026fa4-ad13-4391-bf9a-49a56c4eda41_1.bc9ee693657d34670cc633c4a0226adb.jpeg?odnHeight=180&odnWidth=180&odnBg=FFFFFF",
+                    "largeImage": "https://i5.walmartimages.com/asr/5d026fa4-ad13-4391-bf9a-49a56c4eda41_1.bc9ee693657d34670cc633c4a0226adb.jpeg?odnHeight=450&odnWidth=450&odnBg=FFFFFF",
+                    "entityType": "SECONDARY"
+                },
+                {
+                    "thumbnailImage": "https://i5.walmartimages.com/asr/3a04f0fc-6fed-4b52-912c-11317e493ad1_1.9e46d617254b76bff5a4cda944922f78.jpeg?odnHeight=100&odnWidth=100&odnBg=FFFFFF",
+                    "mediumImage": "https://i5.walmartimages.com/asr/3a04f0fc-6fed-4b52-912c-11317e493ad1_1.9e46d617254b76bff5a4cda944922f78.jpeg?odnHeight=180&odnWidth=180&odnBg=FFFFFF",
+                    "largeImage": "https://i5.walmartimages.com/asr/3a04f0fc-6fed-4b52-912c-11317e493ad1_1.9e46d617254b76bff5a4cda944922f78.jpeg?odnHeight=450&odnWidth=450&odnBg=FFFFFF",
+                    "entityType": "SECONDARY"
+                },
+                {
+                    "thumbnailImage": "https://i5.walmartimages.com/asr/0eaab542-0ae6-47ca-9c1d-cf2d8832bfe2_1.49c26fecf52964e49c0ed3c067f470ab.jpeg?odnHeight=100&odnWidth=100&odnBg=FFFFFF",
+                    "mediumImage": "https://i5.walmartimages.com/asr/0eaab542-0ae6-47ca-9c1d-cf2d8832bfe2_1.49c26fecf52964e49c0ed3c067f470ab.jpeg?odnHeight=180&odnWidth=180&odnBg=FFFFFF",
+                    "largeImage": "https://i5.walmartimages.com/asr/0eaab542-0ae6-47ca-9c1d-cf2d8832bfe2_1.49c26fecf52964e49c0ed3c067f470ab.jpeg?odnHeight=450&odnWidth=450&odnBg=FFFFFF",
+                    "entityType": "PRIMARY"
+                }
+            ],
+            "offerType": "ONLINE_AND_STORE",
+            "isTwoDayShippingEligible": false,
+            "availableOnline": false
+        }
+    ],
+    "facets": [
+        {
+            "name": "pickup_and_delivery",
+            "properties": {
+                "multi": "or",
+                "nullCount": "0"
+            },
+            "displayName": "Shipping & Pickup",
+            "facetValues": [
+                {
+                    "name": "Ship to Home",
+                    "count": 1
+                },
+                {
+                    "name": "FREE Pickup",
+                    "count": 1
+                }
+            ]
+        },
+        {
+            "name": "brand",
+            "properties": {
+                "multi": "or",
+                "nullCount": "0"
+            },
+            "displayName": "Brand",
+            "facetValues": [
+                {
+                    "name": "MSI",
+                    "count": 1
+                }
+            ]
+        },
+        {
+            "name": "laptop_computer_type",
+            "properties": {
+                "multi": "or",
+                "nullCount": "0"
+            },
+            "displayName": "Laptop Computer Type",
+            "facetValues": [
+                {
+                    "name": "Gaming Laptops",
+                    "count": 1
+                }
+            ]
+        },
+        {
+            "name": "hard_drive_capacity_component_hard_drive",
+            "properties": {
+                "multi": "or",
+                "nullCount": "0"
+            },
+            "displayName": "Hard Drive Size",
+            "facetValues": [
+                {
+                    "name": "250GB & Under",
+                    "count": 1
+                }
+            ]
+        },
+        {
+            "name": "retailer",
+            "properties": {
+                "multi": "or",
+                "nullCount": "0"
+            },
+            "displayName": "Retailer",
+            "facetValues": [
+                {
+                    "name": "Walmart.com",
+                    "count": 1
+                }
+            ]
+        },
+        {
+            "name": "customer_rating",
+            "properties": {
+                "multi": "or",
+                "nullCount": "0"
+            },
+            "displayName": "Customer Rating",
+            "facetValues": [
+                {
+                    "name": "4 - 5 Stars",
+                    "count": 1
+                }
+            ]
+        },
+        {
+            "name": "special_offers",
+            "properties": {
+                "multi": "or",
+                "nullCount": "0"
+            },
+            "displayName": "Special Offers",
+            "facetValues": [
+                {
+                    "name": "New",
+                    "count": 1
+                }
+            ]
+        },
+        {
+            "name": "condition",
+            "properties": {
+                "multi": "or",
+                "nullCount": "0"
+            },
+            "displayName": "Condition",
+            "facetValues": [
+                {
+                    "name": "New",
+                    "count": 1
+                }
+            ]
+        },
+        {
+            "name": "wireless_capability",
+            "properties": {
+                "multi": "or",
+                "nullCount": "0"
+            },
+            "displayName": "Wireless Capability",
+            "facetValues": [
+                {
+                    "name": "Wi-Fi",
+                    "count": 1
+                }
+            ]
+        }
+    ]
+}
