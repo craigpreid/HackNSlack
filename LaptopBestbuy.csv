@@ -1,0 +1,784 @@
+customerReviewAverage,customerReviewCount,inStoreAvailability,manufacturer,name,onlineAvailability,regularPrice,salePrice,upc
+1.0,1.0,False,Dell,"Dell - Latitude 14"" Refurbished Laptop - Intel Core i5 - 4GB Memory - 160GB Hard Drive - Black",False,269.99,269.99,812177024433
+1.0,1.0,True,Acer,"Acer - Chromebook 14"" Chromebook - Intel Celeron - 4GB Memory - 32GB eMMC Flash Memory - Sparkly silver",True,329.0,305.99,888863818631
+1.0,1.0,False,HP,"HP - EliteBook 14"" Refurbished Laptop - Intel Core i5 - 4GB Memory - 128GB Solid State Drive - Silver",False,264.99,264.99,825633345669
+1.0,1.0,False,Lenovo,"Lenovo - ThinkPad 14"" Refurbished Laptop - Intel Core i5 - 4GB Memory - 500GB Hard Drive - Black",False,223.99,223.99,825633384934
+1.0,2.0,True,Lenovo,"Lenovo - ThinkPad 14.1"" Refurbished Laptop - Intel Core i5 - 8GB Memory - 250GB Hard Drive",True,224.99,224.99,812177027830
+1.0,1.0,True,Wacom,"Wacom - MobileStudio Pro 13.3"" Touch-Screen Laptop - Intel Core i5 - 8GB Memory - 128GB Solid State Drive - Black",True,1799.99,1499.99,753218988065
+1.0,1.0,True,Dell,"Dell - Latitude 15.6"" Refurbished Laptop - Intel Core i5 - 8GB Memory - 320GB Hard Drive - Black",False,298.99,298.99,841631116650
+1.0,1.0,True,Acer,"Acer - 11.6"" Refurbished Chromebook - Intel Celeron - 4GB Memory - 16GB eMMC Flash Memory - Gray",True,189.0,189.0,841631116568
+1.0,2.0,False,MSI,"MSI - 17.3"" Laptop - Intel Core i7 - 16GB Memory - NVIDIA GeForce GTX 1070 - 2TB Hard Drive + 256GB Solid State Drive - Aluminum Black",False,2299.99,2299.99,824142160619
+1.0,1.0,True,CyberPowerPC,"CyberPowerPC - Tracer III 15.6"" Laptop - Intel Core i7 - 16GB Memory - NVIDIA GeForce GTX 1060 - 1TB Solid State Drive - Black",True,1479.99,1409.99,811842056281
+1.0,1.0,True,HP,"HP - Stream 11.6"" Laptop - Intel Celeron - 4GB Memory - 64GB eMMC Flash Memory - Textured Linear Grooves In Snow White",True,229.99,229.99,192545667302
+1.0,2.0,True,Dell,"Dell - Inspiron 2-in-1 11.6"" Touch-Screen Laptop - AMD A6-Series - 4GB Memory - AMD Radeon R4 - 32GB eMMC Flash Memory - Gray",True,249.99,249.99,884116292760
+1.0,1.0,False,Dell,"Dell - 14"" Refurbished Laptop - Intel Core i5 - 4GB Memory - 500GB Hard Drive - Black",False,254.99,254.99,812177025416
+1.0,3.0,False,Dell,"Dell - 14"" Refurbished Laptop - Intel Core i5 - 4GB Memory - 320GB Hard Drive - Black",False,254.99,254.99,812177025409
+1.5,2.0,False,Dell,"Dell - Latitude 14"" Refurbished Laptop - Intel Core 2 Duo - 2GB Memory - 160GB Hard Drive - Black",False,194.99,194.99,812177024426
+1.7,15.0,True,Acer,"Acer - Aspire R 15 2-in-1 15.6"" Touch-Screen Laptop - Intel Core i5 - 8GB Memory - 256GB Solid State Drive - Steel Gray",True,799.99,744.99,191114297803
+2.0,4.0,False,Dell,"Dell - Latitude 14"" Refurbished Laptop - Intel Core i5 - 4GB Memory - 500GB Hard Drive - Black",False,226.99,226.99,812177024440
+2.0,2.0,False,Dell,"Dell - Latitude 14"" Refurbished Laptop - Intel Core i5 - 8GB Memory - 750GB Hard Drive - Black",False,305.99,305.99,825633383753
+2.0,2.0,True,Lenovo,"Lenovo - ThinkPad 12.5"" Refurbished Laptop - Intel Core i5 - 8GB Memory - 500GB Hard Drive - Black",False,293.99,293.99,812177028004
+2.0,2.0,True,HP,"HP - EliteBook 12.5"" Refurbished Laptop - Intel Core i5 - 4GB Memory - 160GB Hard Drive - Silver",False,228.99,228.99,812177027779
+2.0,1.0,True,Lenovo,"Lenovo - N42-20 Touch 14"" Touch-Screen Chromebook - Intel Celeron - 4GB Memory - 16GB eMMC Flash Memory - Black",False,269.99,269.99,190725235860
+2.0,4.0,True,MSI,"MSI - GS Series STEALTH PRO 15.6"" Laptop - Intel Core i7 - 32GB Memory - NVIDIA GeForce GTX 1060 - 512GB SSD + 1TB HDD - Aluminum black",True,1899.99,1899.99,824142138885
+2.0,1.0,True,MSI,"MSI - WE Series 15.6"" Laptop - Intel Core i7 - 16GB Memory - 256GB Solid State Drive - Aluminum Black",True,1599.99,1599.99,824142142462
+2.0,1.0,True,Dell,"Dell - XPS 13.3"" 4K Ultra HD Touch-Screen Laptop - Intel Core i7 - 8GB Memory - 256GB SSD - Silver With Black Carbon Fiber Palm Rest",True,1549.99,1399.99,884116277187
+2.0,2.0,False,HP,"HP - EliteBook 14"" Refurbished Laptop - Intel Core i5 - 8GB Memory - 500GB Hard Drive - Gray/Silver",False,269.99,269.99,812177025294
+2.3,3.0,True,ASUS,"ASUS - 14"" Laptop - Intel Pentium - 4GB Memory - 128GB eMMC Flash Memory - Glacier gray",False,399.99,399.99,889349738191
+2.5,2.0,True,HP,"HP - ProBook 15.6"" Laptop - Intel Core i5 - 8GB Memory - 256GB Solid State Drive - Black",False,1089.99,1089.99,889899383476
+2.5,2.0,False,Lenovo,"Lenovo - ThinkPad 12.5"" Refurbished Laptop - Intel Core i5 - 8GB Memory - 320GB Hard Drive - Black",False,239.99,239.99,812177027953
+2.5,2.0,True,Dell,"Dell - Latitude 14"" Refurbished Laptop - Intel Core i5 - 4GB Memory - 320GB Hard Drive - Gray",False,255.99,255.99,812177027434
+2.5,2.0,True,Dell,"Dell - 11.6"" Chromebook - Intel Celeron - 4GB Memory - 16GB eMMC Flash Memory - Black",True,249.0,231.99,884116261827
+2.5,2.0,True,ASUS,"ASUS - 15.6"" Laptop - Intel Core i7 - 8GB Memory - NVIDIA GeForce GTX 1050 - 1TB Hard Drive + 128GB Solid State Drive - Black IMR",True,999.99,999.99,889349842560
+2.5,2.0,False,HP,"HP - EliteBook Folio 9480m 14"" Laptop - Intel Core i5 - 4GB Memory - 256GB Solid State Drive - Platinum",False,1299.99,1299.99,888793419632
+2.7,9.0,False,HP,"HP - EliteBook 14"" Refurbished Laptop - Intel Core i5 - 8GB Memory - 500GB Hard Drive - Silver",False,310.99,280.99,812177027755
+2.7,3.0,True,Acer,"Acer - 2-in-1 14"" Refurbished Touch-Screen Laptop - Intel Core i7 - 8GB Memory - 256GB Solid State Drive - Shale black",False,894.99,894.99,841631114434
+2.7,3.0,False,Lenovo,"Lenovo - 14"" Refurbished Laptop - Intel Core i5 - 4GB Memory - 160GB Hard Drive - Black",False,279.99,279.99,812177025355
+2.8,9.0,False,Dell,"Dell - 14.1"" Refurbished Laptop - Intel Core2 Duo - 2GB Memory - 160GB Hard Drive - Black",False,163.99,163.99,812177021463
+2.8,4.0,True,HP,"HP - EliteBook 12.5"" Refurbished Laptop - Intel Core i5 - 8GB Memory - 160GB Hard Drive - Silver",False,250.99,250.99,812177027786
+3.0,5.0,False,HP,"HP - Compaq 14.1"" Refurbished Laptop - Intel Core2 Duo - 2GB Memory - 160GB Hard Drive - Silver/Gray",False,203.99,203.99,812177021548
+3.0,3.0,False,Lenovo,"Lenovo - ThinkPad 12.5"" Refurbished Laptop - Intel Core i5 - 8GB Memory - 320GB Hard Drive - Black",False,280.99,280.99,812177027991
+3.0,1.0,True,HP,"HP - EliteBook 14"" Refurbished Laptop - Intel Core i5 - 8GB Memory - 128GB Solid State Drive - Silver",False,288.99,288.99,812177027663
+3.0,3.0,False,Dell,"Dell - Latitude 14"" Refurbished Laptop - Intel Core i5 - 4GB Memory - 500GB Hard Drive - Gray",False,266.99,266.99,812177027441
+3.0,2.0,True,ASUS,"ASUS - P-Series 14"" Laptop - Intel Core i5 - 8GB Memory - 256GB Solid State Drive - Black",True,749.99,749.99,889349572917
+3.0,5.0,True,HP,"HP - 2-in-1 15.6"" Touch-Screen Laptop - Intel Core i3 - 8GB Memory - 1TB Hard Drive - Ash silver keyboard frame, natural silver",True,659.99,623.99,190781857051
+3.0,1.0,True,HP,"HP - EliteBook 14"" Laptop - Intel Core i7 - 16GB Memory - 512GB Solid State Drive - Silver",True,1979.99,1773.99,190781383673
+3.0,5.0,True,Acer,"Acer - Predator Helios 300 15.6"" Laptop - Intel Core i7 - 16GB Memory-NVIDIA GeForce GTX 1060-1TB HD+256GB Solid State Drive - Black",True,1399.99,1399.99,191114286456
+3.0,3.0,True,Acer,"Acer - Spin 1 2-in-1 11.6"" Refurbished Touch-Screen Laptop - Intel Celeron - 4GB Memory - 32GB eMMC Flash Memory - Obsidian black",True,289.99,289.99,841631119866
+3.0,1.0,True,Lenovo,"Lenovo - IdeaPad 17.3"" Laptop - AMD A9-Series - 8GB Memory - 1TB Hard Drive - Platinum Gray",True,520.99,520.99,192330691901
+3.0,1.0,True,ASUS,"ASUS - VivoBook 15.6"" Laptop - Intel Core i5 - 8GB Memory - 1TB Hard Drive - Chocolate Black/Gold",True,599.99,569.99,889349904855
+3.0,2.0,True,ASUS,"ASUS - ROG Strix Scar Edition 17.3"" Laptop - Intel Core i7 - 16GB Memory - NVIDIA GeForce GTX 1060 - 1TB SSHD + 256GB SSD - Black",True,1599.99,1599.99,889349993606
+3.0,2.0,True,Dell,"Dell - 15.6"" 4K Ultra HD Laptop Intel Core i7 16GB Memory NVIDIA GeForce GTX 1060 Max-Q - 1TB HDD + 512GB SSD - Licorice Black",True,1429.99,1279.99,884116294634
+3.1,9.0,True,HP,"HP - EliteBook 14"" Refurbished Laptop - Intel Core i5 - 8GB Memory - 320GB Hard Drive - Silver",True,272.99,272.99,812177027649
+3.1,8.0,True,Razer,"Razer - Blade Pro 17.3"" 4K Ultra HD Touch-Screen Laptop - Intel Core i7 - 32GB Memory - NVIDIA GeForce GTX 1080 - 1TB SSD - Black",True,4399.99,4199.99,814855024032
+3.2,6.0,True,Lenovo,"Lenovo - ThinkPad 14"" Refurbished Laptop - Intel Core i5 - 8GB Memory - 320GB Hard Drive - Black",True,287.99,287.99,812177027878
+3.2,6.0,True,Samsung,"Samsung - Notebook 5 15.6"" Laptop - AMD Ryzen 5 - 8GB Memory - 1TB Hard Drive - Light Titan",True,599.99,549.99,887276276656
+3.3,3.0,True,Razer,"Razer - Blade Pro 17.3"" 4K Ultra HD Touch-Screen Laptop - Intel Core i7 - 32GB Memory - NVIDIA GeForce GTX 1080 - 512GB SSD - Black",True,3999.99,3799.99,814855024025
+3.3,3.0,True,Dell,"Dell - Latitude 14"" Laptop - Intel Core i5 - 8GB Memory - 500GB Hard Drive - Black",False,1089.99,1089.99,884116260509
+3.3,4.0,True,Dell,"Dell - Inspiron 15.6"" Touch-Screen Laptop - Intel Core i7 - 16GB Memory - AMD Radeon R7 M445 - 1TB Hard Drive - Gray",False,899.99,899.99,884116219590
+3.3,3.0,True,ASUS,"ASUS - VivoBook 15.6"" Laptop - Intel Core i7 - 8GB Memory - 256GB Solid State Drive - Dark Gray/Silver",True,799.0,755.99,889349838112
+3.4,5.0,False,Lenovo,"Lenovo - ThinkPad 14.1"" Refurbished Laptop - Intel Core i5 - 4GB Memory - 500GB Hard Drive",False,217.99,217.99,812177027823
+3.4,7.0,True,Lenovo,"Lenovo - ThinkPad 14"" Refurbished Laptop - Intel Core i5 - 8GB Memory - 500GB Hard Drive - Black",True,301.99,301.99,812177027885
+3.4,20.0,True,HP,"HP - 15.6"" Laptop - AMD A6-Series - 4GB Memory - AMD Radeon R4 - 1TB Hard Drive - HP Finish In Jet Black With A Maglia Texture",True,299.99,299.99,192545419642
+3.4,9.0,False,HP,"HP - EliteBook 14"" Refurbished Laptop - Intel Core i5 - 4GB Memory - 320GB Hard Drive - Gray/Silver",False,244.99,244.99,812177025263
+3.5,2.0,False,HP,"HP - EliteBook 14"" Refurbished Laptop - Intel Core i5 - 8GB Memory - 750GB Hard Drive - Silver",False,305.99,305.99,825633345690
+3.5,4.0,True,HP,"HP - Folio 14"" Refurbished Laptop-Intel Core i5-6GB Memory - 500GB Hard Drive - Silver",True,316.99,316.99,825633360556
+3.5,4.0,True,Alienware,"Alienware - R3 13.3"" Laptop - Intel Core i7 - 8GB Memory - NVIDIA GeForce GTX 1060 - 256GB Solid State Drive - Silver",True,1389.99,1300.99,884116254799
+3.5,12.0,False,Alienware,"Alienware - 15.6"" Laptop - Intel Core i7 - 16GB Memory - NVIDIA GeForce GTX 1060 - 1TB Hard Drive - Silver",False,1599.99,1279.99,884116254652
+3.5,2.0,True,Samsung,"Samsung - Notebook 9 Pro 15"" Touch-Screen Laptop - Intel Core i7 - 8GB Memory - AMD Radeon 540 - 128GB Solid State Drive - Titan Silver",True,1199.99,1199.99,887276240695
+3.5,6.0,True,ASUS,"ASUS - 17.3"" Laptop - Intel Core i7 - 8GB Memory - NVIDIA GeForce 940MX - 1TB Hard Drive + 256GB Solid State Drive - Dark gray",True,899.99,899.99,889349839492
+3.5,2.0,True,ASUS,"ASUS - VivoBook Flip 14 TP401NA 2-in-1 14"" Touch-Screen Laptop - Intel Celeron - 4GB Memory - 64GB eMMC Flash Memory - Gray",True,349.99,349.99,889349886786
+3.6,17.0,True,HP,"HP - EliteBook 14"" Refurbished Laptop - Intel Core i5 - 8GB Memory - 500GB Hard Drive - Silver",False,288.99,258.99,812177027656
+3.6,16.0,True,HP,"HP - Pavilion x360 2-in-1 11.6"" Touch-Screen Laptop - Intel Pentium - 4GB Memory - 500GB Hard Drive - HP Finish In Natural Silver",True,399.99,359.99,192545212441
+3.7,6.0,True,Lenovo,"Lenovo - ThinkPad 12"" Refurbished Laptop - Intel Core i5 - 8GB Memory - 500GB Hard Drive - Black",False,250.99,250.99,812177027960
+3.7,3.0,False,Lenovo,"Lenovo - ThinkPad 14.1"" Refurbished Laptop - Intel Core i5 - 4GB Memory - 320GB Hard Drive",False,206.99,206.99,812177027816
+3.7,3.0,True,HP,"HP - EliteBook 14"" Refurbished Laptop - Intel Core i5 - 4GB Memory - 128GB Solid State Drive - Silver",False,293.99,293.99,812177027731
+3.7,3.0,True,Lenovo,"Lenovo - 15.6"" 4K Ultra HD Laptop - Intel Core i7 - 16GB Memory - NVIDIA GeForce GTX 960M - 1TB HDD + 512GB Solid State Drive - Black",True,1699.99,1699.99,190793591141
+3.7,3.0,False,Dell,"Dell - Inspiron 15.6"" Touch-Screen Laptop - AMD A12-Series - 12GB Memory - 1TB Hard Drive - Gray",False,699.99,699.99,884116254973
+3.7,17.0,True,Acer,"Acer - 2-in-1 11.6"" Refurbished Touch-Screen Laptop - Intel Celeron - 4GB Memory - 32GB eMMC Flash Memory - Black, turqouise blue",True,229.99,175.99,841631116551
+3.7,12.0,True,Dell,"Dell - Inspiron 2-in-1 15.6"" Touch-Screen Laptop - Intel Core i5 - 8GB Memory - 256GB Solid State Drive - Theoretical Gray",True,719.99,719.99,884116275947
+3.7,7.0,True,Acer,"Acer - 17.3"" Refurbished Laptop - Intel Core i7 - 16GB Memory - NVIDIA GeForce GTX 1060 - 1TB HDD + 256GB SSD - Shale Black",False,1086.99,997.99,841631120992
+3.7,3.0,False,Razer,"Razer - Blade 15.6"" Laptop - Intel Core i7 - 16GB Memory - NVIDIA GeForce GTX 1070 - 512GB Solid State Drive - Black",False,2599.99,2599.99,814855028795
+3.7,6.0,False,Dell,"Dell - 14"" Refurbished Laptop - Intel Core i5 - 8GB Memory - 500GB Hard Drive - Black",False,286.99,286.99,812177025447
+3.8,5.0,True,Lenovo,"Lenovo - ThinkPad 14"" Refurbished Laptop - Intel Core i5 - 4GB Memory - 500GB Hard Drive",False,261.99,261.99,812177027861
+3.8,11.0,True,Lenovo,"Lenovo - ThinkPad 14.1"" Refurbished Laptop - Intel Core i5 - 8GB Memory - 500GB Hard Drive",False,239.99,239.99,812177027847
+3.8,4.0,True,HP,"HP - EliteBook 14"" Refurbished Laptop - Intel Core i5 - 4GB Memory - 320GB Hard Drive - Silver",False,282.99,282.99,812177027717
+3.8,9.0,False,Dell,"Dell - Latitude 14"" Refurbished Laptop - Intel Core i5 - 8GB Memory - 500GB Hard Drive - Gray",False,288.99,258.99,812177027472
+3.8,5.0,True,HP,"HP - 2-in-1 11.6"" Touch-Screen Chromebook - Intel Celeron - 4GB Memory - 32GB eMMC Flash Memory - Snow white",True,329.0,329.0,191628845323
+3.8,5.0,True,HP,"HP - 2-in-1 11.6"" Touch-Screen Chromebook - Intel Celeron - 4GB Memory - 32GB eMMC Flash Memory - Smoke gray",True,329.99,329.99,191628834075
+3.8,4.0,True,Apple,"Apple - Macbook Pro® 13.3"" Refurbished Laptop - Intel Core i5 - 16GB Memory - 500GB Hard Drive - Silver",True,799.99,799.99,643907578069
+3.8,4.0,True,ASUS,"ASUS - 14"" Laptop - AMD Quad Core E2-6110 - 4GB Memory - 64GB eMMC Flash Memory - Dark Blue",True,229.99,229.99,889349869949
+3.8,42.0,True,Dell,"Dell - 2-in-1 13.3"" Touch-Screen Laptop - AMD Ryzen 7 - 12GB Memory - AMD Radeon RX Vega 10 - 256GB Solid State Drive - Era Gray",True,799.99,799.99,884116277446
+3.8,16.0,True,HP,"HP - ENVY 2-in-1 15.6"" Touch-Screen Laptop - AMD Ryzen 7 - 8GB Memory - AMD Radeon RX Vega 10 - 256GB Solid State Drive - HP Finish In Dark Ash",True,879.99,879.99,192545368582
+3.9,27.0,True,ASUS,"ASUS - Transformer Mini - 10.1"" - Tablet - 128GB - With Keyboard - Quartz Gray",False,399.99,399.99,889349730249
+3.9,17.0,True,ASUS,"ASUS - Transformer Book T101HA - 10.1"" - Tablet - 64GB - With Keyboard - Glacier gray",False,299.99,285.99,889349505397
+3.9,1164.0,True,ASUS,"ASUS - VivoBook Max X541NA 15.6"" Laptop - Intel Pentium - 4GB Memory - 500GB Hard Drive - Chocolate black",False,279.99,209.99,889349785096
+3.9,7.0,True,ASUS,"ASUS - ZenBook UX430UA 14"" Laptop - Intel Core i7 - 16GB Memory - 512GB Solid State Drive - Concentric Circle Gray Metallic",False,1099.99,1010.99,889349815861
+3.9,10.0,True,Dell,"Dell - Inspiron 15.6"" 4K Ultra HD Laptop - Intel Core i7 - 16GB Memory - NVIDIA GeForce GTX 1060 - 1TB HDD + 512GB SSD - Matte Black",True,1499.99,1499.99,884116276289
+3.9,61.0,True,Acer,"Acer - Nitro 5 15.6"" Laptop - Intel Core i5 - 8GB Memory - NVIDIA GeForce GTX 1050 Ti - 256GB Solid State Drive - Black",False,799.99,599.99,191114456491
+3.9,8.0,True,Samsung,"Samsung - Plus 2-in-1 12.2"" Touch-Screen Chromebook - Intel Celeron - 4GB Memory - 32GB eMMC Flash Memory - Stealth Silver",True,529.0,529.0,887276275710
+4.0,1.0,False,Acer,"Acer - 15.6"" Refurbished Laptop - Intel Pentium - 4GB Memory - 500GB Hard Drive - Black",False,279.99,279.99,814930021055
+4.0,3.0,True,Acer,"Acer - 2-in-1 11.6"" Touch-Screen Chromebook - Intel Celeron - 4GB Memory - 32GB Solid State Drive - Black",True,349.0,349.0,888863475520
+4.0,1.0,False,Dell,"Dell - Latitude 13.3"" Refurbished Laptop - Intel Core i5 - 4GB Memory - 128GB Solid State Drive - Black",False,301.99,301.99,825633344563
+4.0,1.0,False,Dell,"Dell - Latitude 14"" Refurbished Laptop - Intel Core i5 - 4GB Memory - 128GB Solid State Drive - Black",False,264.99,264.99,825633383739
+4.0,11.0,False,Dell,"Dell - Latitude 14"" Refurbished Laptop - Intel Core i5 - 8GB Memory - 256GB Solid State Drive - Black",False,349.99,349.99,825633383777
+4.0,4.0,True,HP,"HP - EliteBook 14"" Refurbished Laptop - Intel Core i5 - 4GB Memory - 128GB Solid State Drive - Silver",True,266.99,266.99,812177027632
+4.0,1.0,True,Lenovo,"Lenovo - ThinkPad 14"" Refurbished Laptop - Intel Core i5 - 4GB Memory - 320GB Hard Drive - Black",True,288.99,258.99,812177027892
+4.0,1.0,True,Lenovo,"Lenovo - ThinkPad 14"" Refurbished Laptop - Intel Core i5 - 4GB Memory - 500GB Hard Drive - Black",True,299.99,299.99,812177027908
+4.0,5.0,True,Acer,"Acer - R 13 2-in-1 13.3"" Touch-Screen Chromebook - MT8173 - 4GB Memory - 64GB eMMC Flash Memory - Sparkly silver",True,449.0,417.99,888863868568
+4.0,6.0,True,HP,"HP - EliteBook Folio 14"" Refurbished Laptop - Intel Core i5 - 8GB Memory - 240GB Solid State Drive",True,380.99,380.99,825633413320
+4.0,112.0,False,Dell,"Dell - XPS 2-in-1 13.3"" QHD+ Touch-Screen Laptop - Intel Core i7 - 16GB Memory - 512GB Solid State Drive - Silver",False,1799.99,1259.99,884116254362
+4.0,1.0,False,Dell,"Dell - Latitude 14"" Refurbished Laptop - Intel Core i5 - 8GB Memory - 240GB Solid State Drive - Black",False,328.99,328.99,825633403116
+4.0,69.0,True,Dell,"Dell - Inspiron 15.6"" Laptop - Intel Core i7 - 16GB Memory - NVIDIA GeForce GTX 1050Ti - 1TB Hard Drive + 128GB SSD - Black",True,1099.99,1039.99,884116255277
+4.0,1.0,True,Dell,"Dell - Latitude 14"" Laptop - Intel Core i5 - 8GB Memory - 256GB Solid State Drive - Black",True,1556.99,1399.99,884116260288
+4.0,1.0,True,HP,"HP - 11.6"" Chromebook - Intel Celeron - 4GB Memory - 16GB eMMC Flash Memory - Black",False,229.99,204.99,190781580164
+4.0,4.0,True,MSI,"MSI - WE Series 15.6"" Laptop - Intel Core i7 - 32GB Memory - 512GB Solid State Drive - Aluminum Black",False,1799.99,1799.99,824142142639
+4.0,1.0,True,Samsung,"Samsung - Notebook Odyssey 15.6"" Laptop - Intel Core i7 - 16GB Memory - NVIDIA GeForce GTX 1050 - 1TB Hard Drive + 128GB SSD - Black Knight",False,1199.99,1199.99,887276200316
+4.0,1.0,True,Dell,"Dell - Latitude 15.6"" Laptop - Intel Core i5 - 4GB Memory - 500GB Hard Drive - Black",False,710.99,710.99,884116258469
+4.0,1.0,True,Dell,"Dell - Inspiron 15.6"" Laptop - Intel Core i5 - 8GB Memory - NVIDIA GeForce GTX 1050 - 1TB Hard Drive - Black",False,829.99,778.99,884116256328
+4.0,2.0,True,Dell,"Dell - Inspiron 15.6"" Laptop - Intel Core i7 - 16GB Memory - NVIDIA GeForce GTX 1050 - 512GB Solid State Drive - Black",False,1149.99,1149.99,884116256342
+4.0,1.0,True,HP,"HP - 15.6"" Laptop - Intel Core i5 - 4GB Memory - 500GB Hard Drive - Dark Ash Silver, Woven Texture",True,599.99,574.99,190781922070
+4.0,268.0,True,Lenovo,"Lenovo - 2-in-1 11.6"" Touch-Screen Laptop - Intel Celeron - 2GB Memory - 64GB eMMC Flash Memory - Black",True,279.99,265.99,191999833776
+4.0,1.0,True,HP,"HP - 15.6"" Laptop - Intel Core i5 - 4GB Memory - 500GB Hard Drive - Dark Ash Silver, Woven Texture",True,504.57,504.57,190781922056
+4.0,212.0,True,ASUS,"ASUS - 2-in-1 14"" Touch-Screen Laptop - Intel Core i5 - 8GB Memory - 1TB Hard Drive - Sandblasted aluminum silver with chrome hinge",True,729.99,729.99,192876011775
+4.0,5.0,True,ASUS,"ASUS - 17.3"" Laptop - Intel Core i7 - 8GB Memory - NVIDIA GeForce GTX 1050 Ti - 1TB Hard Drive - Black",True,999.0,999.0,889349822999
+4.0,5.0,True,Google,"Google - Pixelbook 12.3"" Touchscreen Chromebook - Intel Core i7 - 16GB Memory - 512GB Solid State Drive - Silver",True,1649.0,1649.0,842776102294
+4.0,425.0,True,Dell,"Dell - Inspiron 11.6"" Laptop - AMD A6 - 4GB Memory - 32GB eMMC Flash Memory - Gray",True,199.99,199.99,884116277361
+4.0,797.0,True,Dell,"Dell - Inspiron 15.6"" Laptop - AMD A6-Series - 4GB Memory - AMD Radeon R4 - 500GB Hard Drive - Black",True,279.99,279.99,884116277453
+4.0,1.0,False,Alienware,"Alienware - 15.6"" Laptop - Intel Core i7 - 32GB Memory - NVIDIA GeForce GTX 1080 - 1TB Hard Drive + 256GB Solid State Drive - Epic Silver",False,2499.99,2499.99,884116276920
+4.0,1.0,True,Lenovo,"Lenovo - Yoga 730 2-in-1 15.6"" 4K Touch-Screen Laptop - Intel Core i7 - 16GB Memory - NVIDIA GeForce GTX 1050 - 512GB SSD - Platinum",True,1549.99,1449.99,192330530293
+4.0,1.0,True,HP,"HP - 14"" Chromebook - Intel Celeron - 4GB Memory - 16GB eMMC Flash Memory - HP Finish In Snow White With A Brushed Pattern",True,249.99,229.99,192018722521
+4.0,25.0,True,Dell,"Dell - XPS 2-in-1 15.6"" 4K Ultra HD Touch-Screen Laptop - Intel Core i7 - 16GB Memory - AMD Radeon RX Vega M - 256GB SSD - Black",True,1999.99,1999.99,884116293354
+4.0,18.0,True,Lenovo,"Lenovo - Legion Y530 15.6"" Laptop - Intel Core i7 - 8GB Memory - NVIDIA GeForce GTX 1050 Ti - 1TB Hard Drive - Black",True,929.99,879.99,192330691734
+4.0,1.0,True,MSI,"MSI - 15.6"" Laptop - Intel Core i7 - 16GB Memory - NVIDIA GeForce GTX 1050 Ti - 1TB Hard Drive + 128GB Solid State Drive - Black",True,1299.99,1299.99,824142160596
+4.0,1.0,True,ASUS,"ASUS - ROG Zephyrus 15.6"" Laptop - Intel Core i7 - 16GB Memory - NVIDIA GeForce GTX 1080 - 512GB Solid State Drive - Metallic Black",True,2899.99,2899.99,889349958629
+4.0,1.0,True,MSI,"MSI - GT Series Titan 18.4"" Laptop - Intel Core i7 - 32GB Memory - Dual NVIDIA GeForce GTX 1080 - 1TB HDD + 1.024TB SSD - Aluminum Black",True,5699.99,5699.99,824142162583
+4.0,2.0,True,Dell,"Dell - Inspiron 15.6"" Laptop - Intel Core i3 - 8GB Memory - 1TB Hard Drive - Black",True,379.99,379.99,884116294276
+4.0,6.0,True,Alienware,"Alienware - 17.25"" Laptop - Intel Core i9 - 16GB Memory - NVIDIA GeForce GTX 1080 OC Edition - 1TB HDD + 512GB Solid State Drive - Black",True,2999.99,2749.99,884116294191
+4.0,1.0,True,HP,"HP - 15.6"" Touch-Screen Laptop - Intel Core i5 - 8GB Memory - 1TB Hard Drive - Ash Silver Vertical Brushed Pattern",True,629.99,629.99,192545208451
+4.0,2.0,True,HP,"HP - 15.6"" Laptop - AMD E2-Series - 4GB Memory - AMD Radeon R2 - 500GB Hard Drive - HP Finish In Smoke Gray And Ash Silver",True,399.99,399.99,192545207775
+4.0,1.0,True,HP,"HP - Pavilion x360 2-in-1 14"" Touch-Screen Laptop - Intel Core i5 - 8GB Memory - 1TB Hard Drive - HP Finish In Natural Silver",True,679.99,679.99,192545180139
+4.1,9.0,False,HP,"HP - ProBook 15.6"" Laptop - Intel Core i5 - 8GB Memory - 500GB Hard Drive - Black",False,899.99,899.99,889899601419
+4.1,24.0,True,Lenovo,"Lenovo - ThinkPad 14"" Refurbished Laptop - Intel Core i5 - 8GB Memory - 500GB Hard Drive - Black",True,326.99,296.99,812177027922
+4.1,17.0,False,HP,"HP - EliteBook 14"" Refurbished Laptop - Intel Core i5 - 8GB Memory - 128GB Solid State Drive - Silver",False,315.99,285.99,812177027762
+4.1,24.0,True,Dell,"Dell - Latitude 14"" Refurbished Laptop  - Intel Core i5 - 8GB Memory - 240GB Solid State Drive",False,363.99,363.99,825633403734
+4.1,8.0,True,Microsoft,Microsoft - Surface Laptop – 13.5” Touchscreen - Intel Core i7 – 16GB Memory – 512GB Solid State Drive - Platinum,True,2199.0,1899.0,889842227512
+4.1,8.0,True,Microsoft,Microsoft - Microsoft Surface Laptop – 13.5” Touchscreen - Intel Core i7 – 16GB Memory – 512GB Solid State Drive - Cobalt Blue,True,2199.0,1899.0,889842242294
+4.1,8.0,True,Microsoft,Microsoft - Microsoft Surface Laptop – 13.5” Touch Screen - Intel Core i7 – 16GB Memory – 512GB Solid State Drive - Burgundy,True,2199.0,1899.0,889842242126
+4.1,8.0,True,Microsoft,Microsoft - Microsoft Surface Laptop – 13.5” Touchscreen - Intel Core i7 – 16GB Memory – 512GB Solid State Drive - Graphite Gold,True,2199.0,1899.0,889842241952
+4.1,395.0,True,Lenovo,"Lenovo - 14"" Laptop - Intel Celeron - 2GB Memory - 32GB eMMC Flash Memory - Mineral Gray",True,249.99,199.99,191800152591
+4.1,1256.0,True,Lenovo,"Lenovo - IdeaPad 11.6"" Laptop - Intel Celeron - 2GB Memory - 32GB eMMC Flash Memory - Mineral Gray",True,199.99,199.99,191800152584
+4.1,7.0,True,HP,"HP - ENVY 17.3"" Refurbished Laptop - Intel Core i7 - 12GB Memory - 1TB Hard Drive",False,699.99,699.99,191628198191
+4.1,117.0,True,Dell,"Dell - Inspiron 2-in-1 13.3"" Touch-Screen Laptop - AMD Ryzen 5 - 8GB Memory - 256GB Solid State Drive - Era Gray",True,699.99,699.99,884116277439
+4.1,15.0,True,Alienware,"Alienware - 15.6"" Laptop - Intel Core i7 - 16GB Memory - NVIDIA GeForce GTX 1070 - 1TB Hard Drive + 256GB Solid State Drive - Black",True,1849.99,1649.99,884116293620
+4.1,21.0,True,Razer,"Razer - Blade 15.6"" Laptop - Intel Core i7 - 16GB Memory - NVIDIA GeForce GTX 1060 - 512GB Solid State Drive - Black",True,2199.99,2199.99,814855028764
+4.2,25.0,True,Acer,"Acer - 15.6"" Refurbished Chromebook - Intel Celeron - 4GB Memory - 16GB Solid State Drive - White",False,181.99,181.99,841631101601
+4.2,10.0,True,Dell,"Dell - Latitude 14"" Refurbished Laptop - Intel Core i5 - 8GB Memory - 128GB Solid State Drive - Gray",False,288.99,288.99,812177027489
+4.2,6.0,True,Dell,"Dell - Latitude 14"" Refurbished Laptop - Intel Core i5 - 8GB Memory - 500GB Hard Drive - Gray",False,310.99,290.99,812177027410
+4.2,13.0,True,HP,"HP - x2 2-in-1 10.1"" Touch-Screen Laptop - Intel Atom x5 - 2GB Memory - 32GB eMMC Flash Memory - HP finish in natural silver",True,279.99,271.99,190780619896
+4.2,26.0,False,ASUS,"ASUS - Flip C302CA 12.5"" Touch-Screen Chromebook - Intel Pentium - 4GB Memory - 32GB eMMC Flash Memory - Silver",False,469.0,469.0,889349544228
+4.2,22.0,True,Acer,"Acer - R 11 2-in-1 11.6"" Refurbished Touch-Screen Chromebook - Intel Celeron - 4GB Memory - 16GB eMMC Flash Memory - White",False,189.99,189.99,841631112096
+4.2,5.0,False,Dell,"Dell - Latitude 12.5"" Touch-Screen Refurbished Laptop - Intel Core i7 - 8GB Memory - 256GB Solid State Drive",False,374.99,374.99,825633402669
+4.2,18.0,True,ASUS,"ASUS - 13.3"" Chromebook - Intel Celeron - 4GB Memory - 16GB eMMC Flash Memory - Black",True,237.0,231.99,889349589632
+4.2,247.0,True,Lenovo,"Lenovo - Yoga 720 2-in-1 12.5"" Touch-Screen Laptop - Intel Core i5 - 8GB Memory - 128GB Solid State Drive - Iron Gray",True,749.99,649.99,191927959844
+4.2,218.0,True,Lenovo,"Lenovo - Yoga 720 12.5"" Touch-Screen Laptop - Intel Core i3 - 4GB Memory - 128GB Solid State Drive - Platinum",True,629.99,629.99,191999415828
+4.2,513.0,True,HP,"HP - Envy x360 2-in-1 15.6"" Touch-Screen Laptop - AMD Ryzen 5 - 8GB Memory - 1TB Hard Drive - HP Finish In Dark Ash Silver",True,749.99,599.99,192018362123
+4.2,13.0,True,Razer,"Razer - Blade Stealth 13.3"" QHD+ Touch-Screen Laptop - Intel Core i7 - 16GB Memory - 512GB Solid State Drive - Black",True,1699.99,1599.99,814855026104
+4.2,91.0,True,Dell,"Dell - 2-in-1 15.6"" 4K Ultra HD Touch-Screen Laptop - Intel Core i7 - 16GB Memory - NVIDIA GeForce MX130 - 256GB SSD - Abyss Black",True,1199.99,1049.99,884116293019
+4.2,24.0,True,Dell,"Dell - 2-in-1 15.6"" 4K Ultra HD Touch-Screen Laptop - Intel Core i7 - 16GB Memory - NVIDIA GeForce MX130 - 512GB SSD - Abyss Black",True,1399.99,1399.99,884116292944
+4.2,5.0,True,MSI,"MSI - 17.3"" 4K Ultra HD Laptop - Intel Core i9 - 32GB Memory - NVIDIA GeForce GTX 1080 - 1TB HDD + 1TB Solid State Drive - Aluminum Black",True,4499.99,4499.99,824142161609
+4.2,6.0,True,Samsung,"Samsung - Pro 2-in-1 12.3"" Touch-Screen Chromebook - Intel Core m3 - 4GB Memory - 32GB eMMC Flash Memory - Metallic Black",True,629.0,629.0,887276253374
+4.3,4.0,True,MSI,"MSI - GS40 Phantom 14"" Laptop - Intel Core i7 - 16GB Memory - 1TB Hard Drive + 128GB Solid State Drive - Aluminum Black",True,1599.99,1599.99,824142122129
+4.3,7.0,False,Dell,"Dell - Latitude 14"" Refurbished Laptop - Intel Core i5 - 8GB Memory - 128GB Solid State Drive - Black",False,289.99,289.99,825633383760
+4.3,8.0,False,Dell,"Dell - Latitude 13.3"" Refurbished Laptop - Intel Core i5 - 8GB Memory - 256GB Solid State Drive - Black",False,359.99,359.99,825633344600
+4.3,347.0,False,Dell,"Dell - XPS 2-in-1 13.3"" Touch-Screen Laptop - Intel Core i7 - 16GB Memory - 256GB Solid State Drive - Silver",False,1399.99,1189.99,884116255086
+4.3,12.0,True,Lenovo,"Lenovo - ThinkPad 14"" Refurbished Laptop - Intel Core i5 - 8GB Memory - 240GB Solid State Drive - Black",False,374.99,374.99,825633408050
+4.3,9.0,True,Lenovo,"Lenovo - ThinkPad 14"" Refurbished Laptop - Intel Core i5 - 8GB Memory - 320GB Hard Drive - Black",True,316.99,316.99,825633408029
+4.3,674.0,True,Lenovo,"Lenovo - Yoga 720 2-in-1 15.6"" 4K Ultra HD Touch-Screen Laptop - Intel Quad Core i7 - 16GB Memory - 512GB SSD - Platinum Silver",True,1299.99,1234.99,191376215218
+4.3,16.0,True,HP,"HP - 14"" Refurbished Laptop - Intel Core i5 - 4GB Memory - 320GB Hard Drive - Black",True,270.99,270.99,825633411111
+4.3,3.0,True,Dell,"Dell - Latitude 15.6"" Refurbished Laptop - Intel Core i5 - 4GB Memory - 320GB Hard Drive - Black",False,272.99,272.99,841631116643
+4.3,1840.0,False,Dell,"Dell - Inspiron 15.6"" Touch-Screen Laptop - Intel Core i3 - 8GB Memory - 1TB Hard Drive - Black",False,399.99,280.99,884116274636
+4.3,97.0,True,Samsung,"Samsung - Galaxy Book - 12"" - 128GB - With Keyboard - Black",True,1129.99,847.99,887276224350
+4.3,97.0,True,Samsung,"Samsung - Galaxy Book - 12"" - 128GB - With Keyboard - Silver",True,1129.99,1129.99,887276200521
+4.3,688.0,True,HP,"HP - 2-in-1 11.6"" Touch-Screen Laptop - Intel Pentium - 4GB Memory - 500GB Hard Drive - HP finish in natural silver",False,399.99,379.99,190781795421
+4.3,6.0,True,ASUS,"ASUS - 17.3"" Laptop - Intel Pentium - 8GB Memory - 1TB Hard Drive - Black",False,499.99,499.99,889349695869
+4.3,26.0,True,HP,"HP - 14"" Refurbished Laptop - Intel Core i5 - 8GB Memory - 750GB Hard Drive - Black",False,299.99,299.99,825633419438
+4.3,531.0,True,Lenovo,"Lenovo - 14"" Touch-Screen Laptop - Intel Pentium - 4GB Memory - 500GB Hard Drive - Black",False,399.99,379.99,191999833233
+4.3,79.0,True,ASUS,"ASUS - 2-in-1 15.6"" Touch-Screen Laptop - Intel Core i7 - 16GB Memory - 2TB Hard Drive - Sandblasted matte black aluminum",True,1029.99,1029.99,889349820261
+4.3,252.0,True,HP,"HP - Spectre x360 2-in-1 13.3"" Touch-Screen Laptop - Intel Core i7 - 16GB Memory - 512GB Solid State Drive - HP finish in natural silver",False,1399.99,1329.99,191628999118
+4.3,224.0,True,Dell,"Dell - Inspiron 2-in-1 13.3"" Touch-Screen Laptop - Intel Core i7 - 16GB Memory - 256GB Solid State Drive - Era Gray",True,1049.99,1049.99,884116276227
+4.3,335.0,True,Dell,"Dell - Inspiron 2-in-1 15.6"" Touch-Screen Laptop - Intel Core i5 - 8GB Memory - 2TB Hard Drive - Era Gray",True,799.99,599.99,884116276104
+4.3,38.0,True,Dell,"Dell - Inspiron 2-in-1 15.6"" Touch-Screen Laptop - Intel Core i7 - 16GB Memory - 512GB Solid State Drive - Theoretical Gray",True,979.99,925.99,884116275961
+4.3,7.0,True,Acer,"Acer - Aspire 3 15.6"" Refurbished Laptop - AMD A9-Series - 6GB Memory - AMD Radeon R5 - 1TB Hard Drive - Obsidian black",False,341.99,258.99,841631120459
+4.3,28.0,True,Samsung,"Samsung - Notebook 9 Pro 13.3"" Touch-Screen Laptop - Intel Core i7 - 8GB Memory - 256GB Solid State Drive - Titan Silver",True,1149.99,999.99,887276248882
+4.3,3.0,True,HP,"HP - 14"" Chromebook - Intel Celeron - 4GB Memory - 32GB eMMC Flash Memory - HP Finish In Snow White With A Brushed Pattern",True,299.99,259.99,192018722392
+4.3,3.0,True,HP,"HP - 14"" Chromebook - Intel Celeron - 4GB Memory - 32GB eMMC Flash Memory - HP Finish In Chalkboard Gray",True,249.0,229.0,192018721937
+4.3,124.0,True,Acer,"Acer - Nitro 5 15.6"" Laptop - Intel Core i5 - 8GB Memory - NVIDIA GeForce GTX 1050 - 1TB Hard Drive - Shale Black",True,719.99,649.99,191114661963
+4.3,40.0,True,Acer,"Acer - Spin 15 2-in-1 15.6"" Touch-Screen Chromebook - Intel Pentium - 4GB Memory - 64GB Solid State Drive - Sparkly Silver",True,449.0,449.0,191114652404
+4.3,136.0,True,Lenovo,"Lenovo - 330-15IGM 15.6"" Laptop - Intel Celeron - 4GB Memory - 500GB Hard Drive - Platinum Gray",True,259.99,219.99,192563389484
+4.3,9.0,True,HP,"HP - ENVY x360 2-in-1 13.3"" Touch-Screen Laptop - AMD Ryzen 7 - 8GB Memory - 256GB Solid State Drive - HP Finish In Dark Ash Silver",True,949.99,949.99,192545368575
+4.3,6.0,True,Lenovo,"Lenovo - ThinkPad L380 Yoga 2-in-1 13.3"" Touch-Screen Laptop - Intel Core i5 - 8GB Memory - 256GB Solid State Drive - Black",True,999.99,999.99,192651152945
+4.4,11.0,True,Lenovo,"Lenovo - ThinkPad 14"" Refurbished Laptop - Intel Core i5 - 8GB Memory - 320GB Hard Drive - Black",False,310.99,280.99,812177027915
+4.4,146.0,True,Acer,"Acer - R 13 2-in-1 13.3"" Touch-Screen Chromebook - MT8173 - 4GB Memory - 32GB eMMC Flash Memory - Sparkly silver",True,399.0,399.0,888863852499
+4.4,14.0,True,Alienware,"Alienware - 13.3"" Laptop - Intel Core i7 - 16GB Memory - NVIDIA GeForce GTX 1060 - 512GB Solid State Drive - Silver",False,1849.99,1387.99,884116255420
+4.4,103.0,True,Razer,"Razer - Blade 14"" Laptop - Intel Core i7 - 16GB Memory - NVIDIA GeForce GTX 1060 - 512GB Solid State Drive - Black",True,2099.99,1799.99,814855024063
+4.4,79.0,True,Dell,"Dell - XPS 15.6"" 4K Ultra HD Touch-Screen Laptop - Intel Core i7 - 16GB Memory - NVIDIA GeForce GTX 1050 - 512GB SSD - Silver",True,1999.99,1799.99,884116254768
+4.4,41.0,True,ASUS,"ASUS - C300SA 13.3"" Chromebook - Intel Celeron - 4GB Memory - 16GB eMMC Flash Memory - Light Blue",True,229.0,209.0,889349589663
+4.4,41.0,True,ASUS,"ASUS - C300SA 13.3"" Chromebook - Intel Celeron - 4GB Memory - 16GB eMMC Flash Memory - Red",True,229.0,209.0,889349589687
+4.4,50.0,False,HP,"HP - EliteBook Folio 14"" Refurbished Laptop - Intel Core i5 - 8GB Memory - 180GB Solid State Drive - Black",False,299.99,299.99,825633414853
+4.4,5.0,True,ASUS,"ASUS - Flip C213SA 2-in-1 11.6"" Touch-Screen Chromebook - Intel Celeron - 4GB Memory - 32GB eMMC Flash Memory - Gray, dark gray",True,349.0,319.0,889349717493
+4.4,8.0,True,Apple,"Apple - MacBook Pro - 13"" Display with Touch Bar - Intel Core i5 - 8GB Memory - 512GB SSD(Latest Model) - Space Gray",True,1999.99,1999.99,190198687326
+4.4,8.0,True,Apple,"Apple - MacBook Pro - 13"" Display with Touch Bar - Intel Core i5 - 8GB Memory - 512GB SSD(Latest Model) - Silver",True,1999.99,1999.99,190198687357
+4.4,236.0,True,Lenovo,"Lenovo - Yoga 920 2-in-1 13.9"" 4K Ultra HD Touch-Screen Laptop - Intel Core i7 - 16GB Memory - 512GB SSD - Platinum",True,1649.99,1499.99,191927547645
+4.4,258.0,True,ASUS,"ASUS - 2-in-1 15.6"" Touch-Screen Laptop - Intel Core i5 - 12GB Memory - 1TB Hard Drive - Sandblasted aluminum silver with chrome hinge",True,829.99,829.99,889349804094
+4.4,77.0,True,ASUS,"ASUS - 2-in-1 15.6"" 4K Ultra HD Touch-Screen Laptop Intel Core i7 16GB Memory NVIDIA GeForce GTX 1050 - 2TB HDD + 256GB SSD - Sandblasted matte black aluminum",True,1399.99,1399.99,889349820278
+4.4,327.0,False,Dell,"Dell - Inspiron 2-in-1 15.6"" Touch-Screen Laptop - Intel Core i7 - 12GB Memory - 2TB Hard Drive - Era Gray",True,949.99,712.99,884116276012
+4.4,79.0,False,Dell,"Dell - Inspiron 2-in-1 15.6"" 4k UHD Touch-Screen Laptop - Intel Core i7 - 16GB Memory - 512GB Solid State Drive - Era Gray",False,1399.99,1189.99,884116275831
+4.4,345.0,True,Dell,"Dell - Inspiron 2-in-1 17.3"" Touch-Screen Laptop - Intel Core i7 - 16GB Memory - NVIDIA GeForce MX150 - 2TB Hard Drive - Era gray",True,1099.99,1099.99,884116275855
+4.4,17.0,True,Razer,"Razer - Blade Pro 17.3"" Laptop - Intel Core i7 - 16GB Memory - NVIDIA GeForce GTX 1060 - 2TB Hard Drive + 256GB SSD - Black",True,2299.99,1999.99,814855025244
+4.4,236.0,True,Lenovo,"Lenovo - Yoga 920 2-in-1 13.9"" 4K Ultra HD Touch-Screen Laptop - Intel Core i7 - 16GB Memory - 512GB SSD - Bronze",False,1749.99,1749.99,191999253079
+4.4,5.0,False,ASUS,"ASUS - 15.6"" Laptop - Intel Core i7 - 16GB Memory - NVIDIA GeForce GTX 1060 - 1TB Hard Drive + 128GB Solid State Drive - Black IMR",False,1249.99,1249.99,889349822975
+4.4,8.0,True,Dell,"Dell - Inspiron 2-in-1 13.3"" Touch-Screen Laptop - Intel Core i7 - 8GB Memory - 256GB Solid State Drive - Theoretical Gray",True,864.99,799.99,884116275923
+4.4,84.0,True,HP,"HP - 14"" Touch-Screen Chromebook - Intel Celeron - 4GB Memory - 32GB eMMC Flash Memory - Grey",True,299.0,259.0,192018765122
+4.4,52.0,True,Lenovo,"Lenovo - Yoga 730 2-in-1 15.6"" Touch-Screen Laptop - Intel Core i7 - 8GB Memory - 256GB Solid State Drive - Iron Gray",True,949.99,949.99,192330486286
+4.4,179.0,True,Lenovo,"Lenovo - Yoga 730 2-in-1 13.3"" Touch-Screen Laptop - Intel Core i5 - 8GB Memory - 256GB Solid State Drive - Platinum",True,849.99,749.99,192330151146
+4.4,84.0,True,HP,"HP - 14"" Touch-Screen Chromebook - Intel Celeron - 4GB Memory - 32GB eMMC Flash Memory - HP Finish In Chalkboard Gray",True,299.99,259.99,192018722552
+4.4,84.0,False,HP,"HP - 14"" Touch-Screen Chromebook - Intel Celeron - 4GB Memory - 32GB eMMC Flash Memory - HP Finish In Snow White With A Brushed Pattern",False,299.99,259.99,192018722460
+4.4,93.0,True,Dell,"Dell - G7 15.6"" Laptop - Intel Core i7 - 8GB Memory - NVIDIA GeForce GTX 1060 - 256GB Solid State Drive - Licorice Black",True,1079.99,979.99,884116293385
+4.4,194.0,True,Lenovo,"Lenovo - 330-15IKB 15.6"" Laptop - Intel Core i3 - 8GB Memory - 1TB Hard Drive - Platinum Gray",True,379.99,309.99,192563439554
+4.4,160.0,True,Lenovo,"Lenovo - 330-17IKB 17.3"" Laptop - Intel Core i5 - 8GB Memory - 1TB Hard Drive - Onyx Black",True,529.99,479.99,192563743712
+4.4,74.0,True,HP,"HP - Pavilion x360 2-in-1 14"" Touch-Screen Laptop - Intel Core i3 - 8GB Memory - 500GB Hard Drive - Natural Silver, Ash Silver Vertical Brushed",True,499.99,499.99,192545428958
+4.4,20.0,True,HP,"HP - 15.6"" Touch-Screen Laptop - Intel Core i5 - 12GB Memory - 128GB Solid State Drive - HP Finish In Natural Silver",True,579.99,529.99,192545419673
+4.5,24.0,False,Alienware,"Alienware - R3 17.3"" Laptop - Intel Core i7 - 16GB Memory - 1TB Hard Drive + 256GB Solid State Drive - Epic Silver",False,1899.99,1899.99,884116203162
+4.5,1526.0,True,Acer,"Acer - R 11 2-in-1 11.6"" Touch-Screen Chromebook - Intel Celeron - 4GB Memory - 16GB eMMC Flash Memory - White",True,279.0,249.0,888863714155
+4.5,10.0,True,HP,"HP - 13.3"" Chromebook - Intel Pentium - 4GB Memory - 32GB eMMC Flash Memory - Silver",True,539.0,524.99,889899634868
+4.5,6.0,True,Acer,"Acer - TravelMate 11.6"" Laptop - Intel Celeron - 4GB Memory - 128GB Solid State Drive - Black",False,314.99,314.99,888863760572
+4.5,1329.0,True,Samsung,"Samsung - Chromebook Plus 2-in-1 12.3"" Touch Screen Chromebook - 4GB memory - 32GB eMMC Flash Memory - Platinum Silver",False,499.99,499.99,887276183961
+4.5,2.0,True,Lenovo,"Lenovo - 2-in-1 14"" Touch-Screen Laptop - Intel Core i7 - 16GB Memory - NVIDIA Quadro M500M - 512GB Solid State Drive - Black",False,1899.99,1743.99,190151427211
+4.5,69.0,True,Microsoft,"Microsoft - Surface Book 13.5"" Touch Screen with Performance Base - Intel Core i7 - 8GB Memory - 256GB Solid State Hard Drive - Silver",False,2399.0,1679.99,889842152166
+4.5,443.0,False,Samsung,"Samsung - Notebook 5 15.6"" Touch-Screen Laptop - Intel Core i5 - 8GB Memory - NVIDIA GeForce 920MX - 1TB Hard Drive - Solid black",False,649.99,487.99,887276243221
+4.5,359.0,True,Samsung,"Samsung - 2-in-1 15.6"" Touch-Screen Laptop - Intel Core i7 - 12GB Memory - NVIDIA GeForce 940MX - 1TB Hard Drive - Platinum Silver",True,999.99,749.99,887276195070
+4.5,689.0,True,MSI,"MSI - GS Series Stealth Pro 15.6"" Laptop - Intel Core i7 - 16GB Memory - NVIDIA GeForce GTX 1060 - 1TB HDD + 256GB SSD - Aluminum black",False,1549.99,1472.99,824142140352
+4.5,2.0,True,Lenovo,"Lenovo - 15.6"" Laptop - Intel Core i7 - 16GB Memory - NVIDIA GeForce GTX 1060 - 1TB Hard Drive + 128GB Solid State Drive - Black",True,1499.99,1499.99,191200630378
+4.5,2.0,True,MSI,"MSI - WS Series 15.6"" Laptop - Intel Core i7 - 16GB Memory - 256GB Solid State Drive + 2TB Hard Drive - Aluminum Black",False,2399.99,2399.99,824142141663
+4.5,989.0,True,HP,"HP - 2-in-1 14"" Touch-Screen Laptop - Intel Core i3 - 6GB Memory - 500GB Hard Drive - HP finish natural silver",True,499.99,449.99,191628012978
+4.5,565.0,True,Dell,"Dell - Inspiron 15.6"" Laptop - Intel Core i5 - 8GB Memory - NVIDIA GeForce GTX 1050 Ti - 256GB Solid State Drive - Black",False,899.99,799.99,884116274650
+4.5,94.0,False,Dell,"Dell - XPS 2-in-1 13.3"" Touch-Screen Laptop - Intel Core i7 - 16GB Memory - 512GB Solid State Drive - Black",False,1549.99,1394.99,884116274926
+4.5,286.0,True,Lenovo,"Lenovo - Yoga 920 2-in-1 13.9"" Touch-Screen Laptop - Intel Core i7 - 8GB Memory - 256GB Solid State Drive - Bronze",True,1299.99,1149.99,191927547676
+4.5,151.0,True,ASUS,"ASUS - 2-in-1 13.3"" Touch-Screen Laptop - Intel Core i7 - 16GB Memory - 512GB Solid State Drive - Smoke gray",True,1299.99,1039.99,889349810026
+4.5,341.0,True,HP,"HP - Spectre x360 2-in-1 13.3"" 4K Ultra HD Touch-Screen Laptop - Intel Core i7 - 16GB Memory - 512GB SSD - HP finish in dark ash silver",True,1499.99,1499.99,191628999125
+4.5,38.0,True,HP,"HP - Spectre x360 2-in-1 13.3"" Privacy Touch-Screen Laptop - Intel Core i7 - 16GB Memory - 512GB Solid State Drive - HP finish in natural silver",True,1449.99,1449.99,191628999132
+4.6,163.0,True,HP,"HP - Spectre x360 2-in-1 13.3"" Touch-Screen Laptop - Intel Core i7 - 8GB Memory - 256GB Solid State Drive - HP finish in natural silver",True,1249.99,1249.99,191628999101
+4.5,1326.0,True,HP,"HP - ENVY x360 2-in-1 15.6"" Touch-Screen Laptop - Intel Core i7 - 16GB Memory - 1TB Hard Drive - Natural Silver",True,899.99,836.99,191628834365
+4.5,725.0,True,Dell,"Dell - Inspiron 2-in-1 13.3"" Touch-Screen Laptop - Intel Core i5 - 8GB Memory - 256GB Solid State Drive - Era Gray",True,849.99,699.99,884116275558
+4.5,4.0,False,Acer,"Acer - Chromebook 14"" Chromebook - Intel Celeron - 4GB Memory - 32GB eMMC Flash Memory - Sparkly silver",False,299.0,288.99,888863602995
+4.5,167.0,True,Samsung,"Samsung - Chromebook Pro 2-in-1 12.3"" Touch-Screen Chromebook - Intel Core m3 - 4GB Memory - 64GB eMMC Flash Memory - Metallic Black",True,599.0,479.99,887276242569
+4.5,286.0,True,Lenovo,"Lenovo - Yoga 920 2-in-1 13.9"" Touch-Screen Laptop - Intel Core i7 - 8GB Memory - 256GB Solid State Drive - Platinum",True,1429.99,1429.99,191927547638
+4.5,136.0,True,Microsoft,"Microsoft - Surface Laptop - 13.5"" - Intel Core i5 - 4GB Memory - 128GB Solid State Drive - With Mouse - Platinum",True,1149.0,919.99,889842272239
+4.5,2.0,False,HP,"HP - ENVY 17.3"" Touch-Screen Laptop - Intel Core i7 - 12GB Memory - NVIDIA GeForce MX150 - 1TB Hard Drive - HP Finish In Natural Silver",False,1149.99,1149.99,191628612697
+4.5,8.0,True,Dell,"Dell - Inspiron 15.6"" Laptop - Intel Core i5 - 8GB Memory - NVIDIA GeForce GTX 1060 - 256GB SSD - Matte Black",True,979.99,979.99,884116276265
+4.5,31.0,True,Dell,"Dell - Inspiron 17.3"" Laptop - Intel Core i7 - 16GB Memory - 2TB Hard Drive + 256GB Solid State Drive - Platinum Silver",True,999.99,999.99,884116276432
+4.5,4.0,True,Acer,"Acer - Chromebook 14"" Refurbished Chromebook - Intel Celeron - 4GB Memory - 32GB eMMC Flash Memory - Sparkly silver",True,259.0,186.0,841631120251
+4.5,187.0,True,Acer,"Acer - 15.6"" Chromebook - Intel Celeron - 4GB Memory - 16GB eMMC Flash Memory - Granite Gray",True,199.0,199.0,191114570975
+4.5,523.0,True,HP,"HP - 15.6"" Touch-Screen Laptop - Intel Core i3 - 8GB Memory - 1TB Hard Drive - HP Finish In Jet Black",True,479.99,419.99,192018956384
+4.5,2.0,True,ASUS,"ASUS - 15.6"" Laptop - Intel Core i5 - 8GB Memory - 256GB Solid State Drive - Icicle Gold",True,699.99,666.99,889349906965
+4.5,4.0,False,Dell,"Dell - XPS 13.3"" 4K Ultra HD Touch-Screen Laptop - Intel Core i7 - 16GB Memory - 1TB SSD - Silver With Black Carbon Fiber Palm Rest",False,2049.99,2049.99,884116305040
+4.5,2.0,True,Dell,"Dell - Inspiron 15.6"" Touch-Screen Laptop - Intel Core i7 - 16GB Memory - AMD Radeon 530 - 2TB Hard Drive - Platinum Silver",True,1059.99,1059.99,884116276487
+4.5,155.0,True,Lenovo,"Lenovo - 330S-15IKB 15.6"" Laptop - Intel Core i5 - 8GB Memory - 128GB Solid State Drive - Platinum Gray",True,529.99,529.99,192563564010
+4.5,45.0,True,HP,"HP - ENVY 2-in-1 15.6"" Touch-Screen Laptop - AMD Ryzen 5 - 8GB Memory - AMD Radeon RX Vega 8 - 128GB Solid State Drive - HP Finish In Dark Ash",True,759.99,759.99,192545232586
+4.5,20.0,True,Microsoft,"Microsoft - Surface 13.5"" Touch-Screen Laptop - Intel Core i5 - 8GB Memory - 128GB Solid State Drive - Platinum",True,999.0,799.0,889842308631
+4.5,4.0,True,Samsung,"Samsung - 11.6"" Chromebook - Intel Celeron - 2GB Memory - 16GB eMMC Flash Memory - Night Charcoal",True,229.0,229.0,887276269429
+4.5,46.0,True,HP,"HP - Pavilion x360 2-in-1 14"" Touch-Screen Laptop - Intel Core i5 - 8GB Memory - 128GB Solid State Drive - HP Sand Blast Matte In Pale Gold Natural Silver",True,729.99,729.99,192545290241
+4.5,11.0,True,Acer,"Acer - 15.6"" Chromebook - Intel Core i3 - 4GB Memory - 32GB Solid State Drive - Black",True,449.0,411.99,888863096848
+4.6,1525.0,True,Samsung,"Samsung - Chromebook 3 11.6"" Chromebook - Intel Celeron - 4GB Memory - 32GB eMMC Flash Memory - Metallic Black",False,229.0,201.99,887276201597
+4.6,5.0,True,Acer,"Acer - R 13 2-in-1 13.3"" Refurbished Touch-Screen Chromebook - MT8173 - 4GB Memory - 32GB eMMC Flash Memory - Sparkly silver",False,329.0,329.0,841631114564
+4.6,395.0,False,Dell,"Dell - Inspiron 2-in-1 13.3"" Touch-Screen Laptop - Intel Core i3 - 8GB Memory - 128GB Solid State Drive - Gray",False,599.99,569.99,884116254898
+4.6,85.0,True,Samsung,"Samsung - 11.6"" Chromebook - Intel Celeron - 2GB Memory - 16GB eMMC Flash Memory - Metallic Black",True,199.99,199.99,887276201610
+4.6,180.0,True,Microsoft,Microsoft - Surface Laptop – 13.5” Touchscreen - Intel Core i5 – 4GB Memory - 128GB Solid State Drive - Platinum,True,999.0,699.0,889842170573
+4.6,50.0,True,Microsoft,Microsoft - Surface Laptop – 13.5” Touchscreen- Intel Core i7 – 8GB Memory – 256GB Solid State Drive - Platinum,True,1599.0,1299.0,889842227093
+4.6,50.0,True,Microsoft,"Microsoft - Surface 13.5"" Touch-Screen Laptop - Intel Core i7 - 8GB Memory - 256GB Solid State Drive - Cobalt Blue",True,1599.0,1299.0,889842256185
+4.6,50.0,True,Microsoft,"Microsoft - Surface 13.5"" Touch-Screen Laptop - Intel Core i7 - 8GB Memory - 256GB Solid State Drive - Burgundy",True,1599.0,1299.0,889842255997
+4.6,50.0,True,Microsoft,"Microsoft - Surface 13.5"" Touch-Screen Laptop - Intel Core i7 - 8GB Memory - 256GB Solid State Drive - Graphite Gold",True,1599.0,1299.0,889842255805
+4.6,101.0,True,MSI,"MSI - 17.3"" Laptop - Intel Core i7 - 16GB Memory - NVIDIA GeForce GTX 1070 - 1TB Hard Drive + 128GB Solid State Drive - Black",False,1799.99,1709.99,824142150177
+4.6,594.0,True,HP,"HP - ENVY 17.3"" Touch-Screen Laptop - Intel Core i7 - 16GB Memory - NVIDIA GeForce MX150 - 1TB Hard Drive - Natural Silver",True,1149.99,862.99,191628835621
+4.6,389.0,True,Acer,"Acer - 15.6"" Touch-Screen Chromebook - Intel Pentium - 4GB Memory - 32GB eMMC Flash Memory - Pure silver",True,399.0,319.99,191114456316
+4.6,96.0,True,Samsung,Samsung - Notebook 9 Pro - 15” Touch-Screen Laptop – Intel Core i7 – 16GB Memory – AMD Radeon 540 – 256GB Solid State Drive - Titan silver,True,1349.99,1349.99,887276244266
+4.6,65.0,True,Dell,"Dell - 2-in-1 17.3"" Touch-Screen Laptop - Intel Core i7 - 16GB Memory - NVIDIA GeForce MX150 - 512GB Solid State Drive - Era gray",True,1299.99,1169.99,884116275701
+4.6,207.0,True,HP,"HP - OMEN by HP 15.6"" Laptop - Intel Core i7 - 8GB Memory - NVIDIA GeForce GTX 1050 Ti - 1TB HDD + 128GB Solid State Drive - HP sandblasted hairline brushing and carbon fiber",True,1099.99,1044.99,192018351103
+4.6,228.0,True,Google,"Google - Pixelbook 12.3"" Touchscreen Chromebook - Intel Core i5 - 8GB Memory - 128GB Solid State Drive - Silver",True,999.0,999.0,842776102270
+4.6,15.0,True,Microsoft,"Microsoft - Surface Book 2 - 15"" Touch-Screen PixelSense™ Display - Intel Core i7 / 16GB / 1TB dGPU - Silver",True,3299.0,3299.0,889842247473
+4.6,10.0,True,Microsoft,"Microsoft - Surface Book 2 - 13.5"" Touch-Screen PixelSense™ Display - Intel Core i7 / 16GB / 1TB dGPU - Silver",True,2999.0,2699.0,889842249187
+4.6,40.0,True,ASUS,"ASUS - Flip C302CA 12.5"" Touch-Screen Chromebook - Intel Core m3 - 4GB Memory - 32GB eMMC Flash Memory - Silver Metal, Silver Plastic",True,499.0,449.0,889349934920
+4.6,96.0,True,ASUS,"ASUS - ROG GU501GM 15.6"" Laptop - Intel Core i7 - 16GB Memory - NVIDIA GeForce GTX 1060 - 1TB Hybrid Drive + 128GB SSD - Brushed Black",True,1499.99,1399.99,889349986745
+4.6,64.0,True,Acer,"Acer - Spin 11 2-in-1 11.6"" Touch-Screen Chromebook - Intel Celeron - 4GB Memory - 32GB eMMC Flash Memory - Sparkly Silver",True,349.0,319.0,191114652398
+4.6,100.0,True,Dell,"Dell - G7 15.6"" Laptop - Intel Core i7 - 16GB Memory - NVIDIA GeForce GTX 1060 - 128GB Solid State Drive + 1TB Hard Drive - Licorice Black",True,1199.99,1099.99,884116293378
+4.6,132.0,True,Acer,"Acer - Nitro 5 15.6"" Laptop - Intel Core i5 - 8GB Memory - NVIDIA GeForce GTX 1050 Ti - 256GB Solid State Drive - Shale Black",True,799.99,729.99,191114667897
+4.6,61.0,True,Alienware,"Alienware - 17.3"" Laptop - Intel Core i7 - 16GB Memory - NVIDIA GeForce GTX 1070 - 256GB Solid State Drive + 1TB Hard Drive - Black",True,1899.99,1699.99,884116293811
+4.6,55.0,True,HP,"HP - 2-in-1 12.3"" Touch-Screen Chromebook - Intel Core M - 4GB Memory - 32GB eMMC Flash Memory - HP Matte Finish In Ceramic White And Oxford Blue",True,649.0,649.0,192018937697
+4.7,236.0,True,Apple,"Apple - MacBook Pro® - 13.3"" Display - Intel Core i7 - 16GB Memory - 512GB Solid State Drive - Space Gray",True,2199.99,2199.99,190198614216
+4.7,3.0,True,HP,"HP - ProBook 14"" Laptop - Intel Core i5 - 4GB Memory - 500GB Hard Drive - Black",True,899.99,899.99,889894960405
+4.7,797.0,True,Apple,"Apple - Macbook® -  12"" Display - Intel Core M5 - 8GB Memory - 512GB Flash Storage - Space Gray",True,1599.99,1119.99,888462687652
+4.7,3.0,False,Dell,"Dell - Latitude 15.6"" Laptop - Intel Core i5 - 8GB Memory - 500GB Hard Drive - Black",False,1079.99,1079.99,884116260189
+4.7,510.0,True,Microsoft,Microsoft - Surface Laptop – 13.5” Touchscreen - Intel Core i5 – 8GB Memory – 256GB Solid State Drive - Platinum,True,1299.0,999.0,889842170597
+4.7,510.0,True,Microsoft,Microsoft - Surface Laptop – 13.5” Touchscreen - Intel Core i5 – 8GB Memory – 256GB Solid State Drive - Cobalt Blue,True,1299.0,999.0,889842170658
+4.7,510.0,True,Microsoft,Microsoft - Surface Laptop – 13.5” Touch Screen - Intel Core i5 – 8GB Memory – 256GB Solid State Drive - Burgundy,True,1299.0,999.0,889842170634
+4.7,510.0,True,Microsoft,Microsoft - Surface Laptop – 13.5” Touch Screen - Intel Core i5 – 8GB Memory – 256GB Solid State Drive - Graphite Gold,True,1299.0,999.0,889842170610
+4.7,3.0,True,HP,"HP - 15.6"" Laptop - Intel Core i5 - 8GB Memory - 256GB Solid State Drive - Dark Ash Silver, Woven Texture",True,709.99,702.99,190781922322
+4.7,11.0,True,Apple,"Apple - MacBook Pro - 13"" Display with Touch Bar - Intel Core i5 - 8GB Memory - 256GB SSD(Latest Model) - Space Gray",True,1799.99,1799.99,190198687319
+4.7,15.0,True,Apple,"Apple - MacBook Pro - 15"" Display with Touch Bar - Intel Core i7 - 16GB Memory - AMD Radeon Pro 555X - 256GB SSD (Latest Model) - Silver",True,2399.99,2399.99,190198677273
+4.7,3.0,True,Apple,"Apple - MacBook Pro - 15"" Display with Touch Bar - Intel Core i7 - 16GB Memory - AMD Radeon Pro 560X - 512GB SSD (Latest Model) - Silver",True,2799.99,2799.99,190198677280
+4.7,11.0,True,Apple,"Apple - MacBook Pro - 13"" Display with Touch Bar - Intel Core i5 - 8GB Memory - 256GB SSD(Latest Model) - Silver",True,1799.99,1799.99,190198687340
+4.7,15.0,True,Apple,"Apple - MacBook Pro - 15"" Display with Touch Bar - Intel Core i7 - 16GB Memory - AMD Radeon Pro 555X - 256GB SSD (Latest Model) - Space Gray",True,2399.99,2399.99,190198677242
+4.7,3.0,True,Apple,"Apple - MacBook Pro - 15"" Display with Touch Bar - Intel Core i7 - 16GB Memory - AMD Radeon Pro 560X - 512GB SSD (Latest Model) - Space Gray",True,2799.99,2799.99,190198677259
+4.7,36.0,True,Google,"Google - Pixelbook 12.3"" Touch-Screen Chromebook - Intel Core i5 - 8GB Memory - 256GB Solid State Drive - Silver",True,1199.0,1199.0,842776102287
+4.7,102.0,True,Microsoft,"Microsoft - Surface Book 2 - 15"" Touch-Screen PixelSense™ Display - Intel Core i7 / 16GB / 256GB dGPU - Silver",True,2499.0,2499.0,889842247282
+4.7,46.0,True,Microsoft,"Microsoft - Surface Book 2 - 15"" Touch-Screen PixelSense™ Display - Intel Core i7 / 16GB / 512GB dGPU - Silver",True,2899.0,2899.0,889842247374
+4.7,244.0,True,Microsoft,"Microsoft - Surface Book 2 - 13.5"" Touch-Screen PixelSense™ Display - Intel Core i5 / 8GB / 256GB iGPU - Silver",True,1499.0,1299.0,889842248630
+4.7,95.0,True,Microsoft,"Microsoft - Surface Book 2 - 13.5"" Touch-Screen PixelSense™ Display - Intel Core i7 / 16GB / 512GB dGPU - Silver",True,2499.0,2199.0,889842249071
+4.7,3.0,True,ASUS,"ASUS - 15.6"" Laptop - Intel Core i7 - 8GB Memory - NVIDIA GeForce MX150 - 1TB Hard Drive + 256GB Solid State Drive - Gold",True,899.99,899.99,889349848494
+4.7,52.0,True,Samsung,"Samsung - Notebook 7 Spin 2-in-1 13.3"" Touch-Screen Laptop - Intel Core i5 - 8GB Memory - 256GB Solid State Drive - Stealth Silver",True,899.99,899.99,887276248875
+4.7,53.0,True,Microsoft,"Microsoft - Surface 13.5"" Touch-Screen Laptop - Intel Core m3 - 4GB Memory - 128GB Solid State Drive - Platinum",True,699.0,699.0,889842170559
+4.7,212.0,True,HP,"HP - Spectre x360 2-in-1 15.6"" 4K Ultra HD Touch-Screen Laptop - Intel Core i7 - 16GB Memory - 512GB SSD - HP Finish In Dark Ash Silver",True,1599.99,1599.99,192018861916
+4.7,87.0,True,Lenovo,"Lenovo - Yoga 730 2-in-1 15.6"" Touch-Screen Laptop - Intel Core i5 - 8GB Memory - 256GB Solid State Drive - Iron Gray",True,849.99,849.99,192330530286
+4.7,3.0,True,ASUS,"ASUS - ROG Strix Scar Edition 17.3"" Laptop - Intel Core i7 - 16GB Memory - NVIDIA GeForce GTX 1050 Ti - 1TB SSHD + 128GB SSD - Black",True,1299.99,1299.99,889349993590
+4.7,53.0,True,HP,"HP - ENVY x360 2-in-1 15.6"" Touch-Screen Laptop - Intel Core i5 - 8GB Memory - 256GB Solid State Drive - HP Finish In Natural Silver",True,849.99,749.99,192545202176
+4.7,32.0,True,HP,"HP - ENVY x360 2-in-1 13.3"" Touch-Screen Laptop - AMD Ryzen 5 - 8GB Memory - 128GB Solid State Drive - HP Finish In Dark Ash Silver",True,829.99,829.99,192545368520
+4.7,66.0,True,HP,"HP - Envy 17.3"" Touch-Screen Laptop - Intel Core i7 - 12GB Memory - NVIDIA GeForce MX150 - 1TB Hard Drive - HP Finish In Natural Silver",True,1149.99,1149.99,192545209380
+4.7,43.0,True,HP,"HP - ENVY x360 2-in-1 15.6"" Touch-Screen Laptop - Intel Core i7 - 12GB Memory - 256GB Solid State Drive - HP Finish In Natural Silver",True,969.99,869.99,192545202152
+4.7,24.0,True,Acer,"Acer - Nitro 5 15.6"" Laptop - AMD Ryzen 5 - 8GB Memory - AMD Radeon RX 560X - 256GB Solid State Drive - Shale Black",True,719.99,719.99,191114794623
+4.8,529.0,True,Apple,"Apple - Macbook® - 12"" Display - Intel Core M3 - 8GB Memory - 256GB Flash Storage (Latest Model) - Space Gray",True,1299.99,1199.99,190198202536
+4.8,529.0,False,Apple,"Apple - Macbook® - 12"" Display - Intel Core M3 - 8GB Memory - 256GB Flash Storage (Latest Model) - Silver",False,1299.99,1199.99,190198203373
+4.8,529.0,True,Apple,"Apple - Macbook® - 12"" Display - Intel Core M3 - 8GB Memory - 256GB Flash Storage (Latest Model) - Gold",True,1299.99,1199.99,190198204219
+4.8,424.0,True,Apple,"Apple - MacBook Air®  - 13.3"" Display - Intel Core i7 - 8GB Memory - 512GB Solid State Drive (Latest Model) - Silver",True,1549.99,1449.99,190198614896
+4.8,4747.0,True,Apple,"Apple - MacBook Air®  - 13.3"" Display - Intel Core i5 - 8GB Memory - 128GB Flash Storage (Latest Model) - Silver",True,999.99,899.99,190198462930
+4.8,2113.0,True,Apple,"Apple - MacBook Air® (Latest Model) - 13.3"" Display - Intel Core i5 - 8GB Memory - 256GB Flash Storage - Silver",True,1199.99,1099.99,190198463029
+4.8,529.0,True,Apple,"Apple - Macbook® - 12"" Display - Intel Core M3 - 8GB Memory - 256GB Flash Storage (Latest Model) - Rose Gold",True,1299.99,1199.99,190198205056
+4.8,643.0,False,Apple,"Apple - MacBook Pro® - 13"" Display - Intel Core i5 - 8 GB Memory - 512GB Flash Storage - Silver",True,1999.99,1699.99,190198395924
+4.8,1725.0,True,Apple,"Apple - MacBook Pro®  - 13"" Display - Intel Core i5 - 8 GB Memory - 256GB Flash Storage - Space Gray",True,1799.99,1499.99,190198394668
+4.8,1075.0,True,Apple,"Apple - MacBook Pro®  - 15"" Display - Intel Core i7 - 16 GB Memory - 256GB Flash Storage - Silver",True,2399.99,1999.99,190198374394
+4.8,1075.0,True,Apple,"Apple - MacBook Pro®  - 15"" Display - Intel Core i7 - 16 GB Memory - 256GB Flash Storage - Space Gray",True,2399.99,1999.99,190198373557
+4.8,880.0,True,Apple,"Apple - MacBook Pro®  - 15"" Display - Intel Core i7 - 16 GB Memory - 512GB Flash Storage - Space Gray",True,2799.99,2399.99,190198373977
+4.8,3463.0,True,Apple,"Apple - MacBook Pro® - 13"" Display - Intel Core i5 - 8 GB Memory - 128GB Flash Storage - Space Gray",True,1299.99,1299.99,190198392985
+4.8,1725.0,True,Apple,"Apple - MacBook Pro®  - 13"" Display - Intel Core i5 - 8 GB Memory - 256GB Flash Storage - Silver",True,1799.99,1499.99,190198395504
+4.8,3463.0,True,Apple,"Apple - MacBook Pro® - 13"" Display - Intel Core i5 - 8 GB Memory - 128GB Flash Storage - Silver",True,1299.99,1299.99,190198393401
+4.8,2720.0,True,Apple,"Apple - MacBook Pro® - 13"" Display - Intel Core i5 - 8 GB Memory - 256GB Flash Storage - Space Gray",True,1499.99,1499.99,190198393821
+4.8,880.0,False,Apple,"Apple - MacBook Pro®  - 15"" Display - Intel Core i7 - 16 GB Memory - 512GB Flash Storage - Silver",False,2799.99,2399.99,190198374813
+4.8,643.0,True,Apple,"Apple - MacBook Pro®  - 13"" Display - Intel Core i5 - 8 GB Memory - 512GB Flash Storage - Space Gray",True,1999.99,1699.99,190198395085
+4.8,6.0,True,ASUS,"ASUS - ROG Strix 15.6"" Laptop - Intel Core i7 - 16GB Memory - NVIDIA GeForce GTX 1050 - 1TB Hard Drive + 256GB SSD - ROG Metallic Black",True,1299.99,1299.99,889349814611
+4.8,6.0,True,ASUS,"ASUS - ROG Strix GL503VM 15.6"" Laptop - Intel Core i7 - 16GB Memory - NVIDIA GeForce GTX 1060 - 1TB+8GB SSHD + 256GB SSD - Dragonscale",True,1599.0,1599.0,889349851913
+4.8,6.0,False,ASUS,"ASUS - 17.3"" Laptop - Intel Core i7 - 16GB Memory - NVIDIA GeForce GTX 1050 - 1TB Hard Drive + 256GB Solid State Drive - Star gray",False,1099.99,1099.99,889349838075
+4.8,99.0,True,Microsoft,"Microsoft - Surface Book 2 - 13.5"" Touch-Screen PixelSense™ Display - Intel Core i7 / 8GB / 256GB dGPU - Silver",True,1999.0,1699.0,889842248852
+4.8,5.0,True,Dell,"Dell - Inspiron 17.3"" Laptop - Intel Core i7 - 16GB Memory - 2TB Hard Drive - Platinum Silver",True,989.99,915.99,884116276708
+4.8,99.0,True,Microsoft,"Microsoft - Surface Book 2 2-in-1 13.5"" Touch-Screen Laptop - Intel Core i5 - 8GB Memory - 128GB Solid State Drive - Silver",True,1199.0,1099.0,889842283044
+4.8,959.0,True,MSI,"MSI - 15.6"" Laptop - Intel Core i7 - 16GB Memory - NVIDIA GeForce GTX 1070 - 512GB Solid State Drive - Matte Black With Gold Diamond Cut",True,1999.99,1999.99,824142160404
+4.8,1023.0,True,MSI,"MSI - 15.6"" Laptop - Intel Core i7 - 16GB Memory - NVIDIA GeForce GTX 1060 - 1TB Hard Drive + 256GB Solid State Drive - Aluminum Black",True,1599.99,1599.99,824142160107
+4.8,13.0,True,HP,"HP - 15.6"" Touch-Screen Laptop - Intel Core i3 - 8GB Memory - 128GB Solid State Drive - HP Finish In Natural Silver",True,499.99,449.99,192545419741
+4.8,2720.0,True,Apple,"Apple - MacBook Pro® - 13"" Display - Intel Core i5 - 8 GB Memory - 256GB Flash Storage - Silver",True,1499.99,1399.99,190198394248
+4.8,4807.0,True,Apple,"Apple - MacBook® Pro - 15.4"" Display - Intel Core i7 - 16GB Memory - 256GB Flash Storage - Silver",True,1999.99,1649.99,888462101103
+4.9,50.0,False,Apple,"Apple - Macbook® - 12"" Display - Intel Core i5 - 8GB Memory - 512GB Flash Storage (Latest Model) - Space Gray",False,1599.99,1499.99,190198202956
+4.9,50.0,False,Apple,"Apple - Macbook® - 12"" Display - Intel Core i5 - 8GB Memory - 512GB Flash Storage (Latest Model) - Silver",False,1599.99,1499.99,190198203793
+4.9,50.0,False,Apple,"Apple - Macbook® - 12"" Display - Intel Core i5 - 8GB Memory - 512GB Flash Storage (Latest Model) - Gold",False,1599.99,1499.99,190198204639
+4.9,62.0,True,Apple,"Apple - MacBook Pro® - 15.4"" Display - Intel Core i7 - 16 GB Memory - 1TB Solid State Drive - Space Gray",False,3399.99,3199.99,190198613516
+4.9,50.0,False,Apple,"Apple - Macbook® - 12"" Display - Intel Core i5 - 8GB Memory - 512GB Flash Storage (Latest Model) - Rose Gold",False,1599.99,1499.99,190198205476
+4.9,7.0,False,HP,"HP - Pavilion 15.6"" Refurbished Touch-Screen Laptop - Intel Core i7 - 12GB Memory - 256GB Solid State Drive - Mineral Silver, Natural Silver",False,649.99,649.99,191628318889
+4.9,21.0,True,Dell,"Dell - Inspiron 2-in-1 15.6"" Touch-Screen Laptop - Intel Core i5 - 8GB Memory - 256GB Solid State Drive - Era Gray",True,829.99,829.99,884116293132
+5.0,1.0,True,HP,"HP - ProBook 15.6"" Laptop - Intel Core i5 - 8GB Memory - 500GB Hard Drive - Black",True,1179.99,1117.99,889894967176
+5.0,1.0,True,Lenovo,"Lenovo - ThinkPad P50 15.6"" Laptop - Intel Core i7 - 8GB Memory - NVIDIA Quadro M1000M - 500GB Hard Drive - Black",True,1499.99,1391.99,889955802309
+5.0,2.0,True,HP,"HP - ProBook 15.6"" Laptop - Intel Core i7 - 8GB Memory - 256GB Solid State Drive - Black",False,1379.99,1379.99,889894967213
+5.0,2.0,True,Lenovo,"Lenovo - ThinkPad 17.3"" Laptop - Intel Core i7 - 16GB Memory - NVIDIA Quadro M600M - 500GB Hard Drive - Black",True,1831.99,1831.99,190151081857
+5.0,1.0,False,HP,"HP - 13.3"" Chromebook - Intel Core m5 - 8GB Memory - 32GB eMMC Flash Memory - Silver",False,879.0,806.99,889899637661
+5.0,1.0,True,HP,"HP - 13.3"" Chromebook - Intel Core m7 - 16GB Memory - 32GB eMMC Flash Memory - Silver",True,1129.99,1028.99,889899637685
+5.0,2.0,False,Dell,"Dell - Latitude 14"" Refurbished Laptop - Intel Core i5 - 8GB Memory - 250GB Hard Drive - Gray",False,272.99,242.99,812177027465
+5.0,1.0,True,Lenovo,"Lenovo - ThinkPad 12.5"" Refurbished Laptop - Intel Core i5 - 4GB Memory - 320GB Hard Drive - Black",False,261.99,261.99,812177027977
+5.0,1.0,True,Lenovo,"Lenovo - ThinkPad 14"" Refurbished Laptop - Intel Core i5 - 4GB Memory - 320GB Hard Drive - Black",True,255.99,255.99,812177027854
+5.0,1.0,True,Apple,"Apple - Macbook® 12"" Refurbished Laptop - Intel Core M - 8GB Memory - 256GB Solid State Drive - Gold",True,899.99,899.99,741807522578
+5.0,1.0,True,Wacom,"Wacom - MobileStudio Pro 13.3"" Touch-Screen Laptop - Intel Core i7 - 16GB Memory - 512GB Solid State Drive - Black",True,2499.99,2199.99,753218988041
+5.0,2.0,False,Dell,"Dell - Latitude 14"" Laptop - Intel Core i7 - 16GB Memory - 256GB Solid State Drive - Black",False,1846.99,1846.99,884116260318
+5.0,3.0,True,Alienware,"Alienware - 15.6"" Laptop - Intel Core i7 - 16GB Memory - NVIDIA GeForce GTX 1060 - 1TB Hard Drive + 256GB Solid State Drive - Silver",True,1699.99,1615.99,884116255338
+5.0,1.0,True,Alienware,"Alienware - 15.6"" Laptop - Intel Core i7 - 16GB Memory - NVIDIA GeForce GTX 1070 - 512GB Solid State Drive + 1TB Hard Drive - Epic Silver",False,2554.99,2554.99,884116255390
+5.0,1.0,True,Lenovo,"Lenovo - 2-in-1 15.6"" Touch-Screen Laptop - Intel Core i5 - 8GB Memory - 256GB Solid State Drive - Onyx black",False,799.99,799.99,191376300921
+5.0,2.0,True,HP,"HP - ProBook 15.6"" Laptop - Intel Core i5 - 4GB Memory - 500GB Hard Drive - Black",False,879.99,879.99,190781191001
+5.0,1.0,False,Acer,"Acer - Predator 17 17.3"" 4K Ultra HD Laptop - Intel Core i7 - 32GB Memory - NVIDIA GeForce GTX 1080 - 512GB SSD + 1TB HDD - Black",False,2999.99,2999.99,191114064283
+5.0,1.0,False,Acer,"Acer - Predator 15 15.6"" Laptop - Intel Core i7 - 16GB Memory - NVIDIA GeForce GTX 1070 - 256GB SSD + 1TB HDD - Black",False,1999.99,1791.99,191114036778
+5.0,1.0,True,Dell,"Dell - 11.6"" Chromebook - Intel Celeron - 4GB Memory - 32GB eMMC Flash Memory - Black",True,269.0,258.99,884116261834
+5.0,1.0,True,ASUS,"ASUS - 14"" Laptop - Intel Core i5 - 8GB Memory - 512GB Solid State Drive - Gray",True,999.99,999.99,889349669747
+5.0,1.0,True,Lenovo,"Lenovo - 15.6"" Laptop - Intel Core i3 - 4GB Memory - 500GB Hard Drive - Black, black",False,732.99,732.99,191200858345
+5.0,3.0,False,Dell,"Dell - Latitude 15.6"" Refurbished Laptop - Intel Core i7 - 8GB Memory - 750GB Hard Drive - Black, white",False,493.99,493.99,825633419315
+5.0,1.0,False,HP,"HP - 12.5"" Refurbished Laptop - Intel Core i5 - 4GB Memory - 320GB Hard Drive - Silver",False,218.99,218.99,825633411104
+5.0,1.0,True,HP,"HP - 15.6"" Refurbished HP ZBook Laptop - Intel Core i7 - 8GB Memory - 750GB Hard Drive - Black",True,450.99,450.99,825633419513
+5.0,1.0,True,Acer,"Acer - 15.6"" Refurbished Laptop - Intel Core i7 - 16GB Memory - NVIDIA GeForce GTX 1060 - 1TB HDD + 256GB SSD - Black",False,1242.99,1242.99,841631116131
+5.0,1.0,True,ASUS,"ASUS - Flip C213SA 2-in-1 11.6"" Touch-Screen Chromebook - Intel Celeron - 4GB Memory - 32GB eMMC Flash Memory - Dark gray",True,399.0,369.0,889349725436
+5.0,2.0,True,ASUS,"ASUS - Zenbook 15.6"" Touch-Screen Laptop - Intel Core i7 - 16GB Memory - NVIDIA GeForce GTX 1050 Ti - 512GB SSD - Matte black",True,1699.99,1594.99,889349783504
+5.0,1.0,False,Dell,"Dell - 13.3"" Chromebook - Intel Celeron - 4GB Memory - 32GB Solid State Drive - Black",False,329.0,329.0,884116261995
+5.0,1.0,True,MSI,"MSI - GE73VR Raider 17.3"" Laptop - Intel Core i7 - 16GB Memory - NVIDIA GeForce GTX 1070 - 1TB HDD + 2 x 512GB SSD - Aluminum Black",True,2399.99,2399.99,824142150474
+5.0,1.0,True,ASUS,"ASUS - Flip C302CA 2-in-1 12.5"" Touch-Screen Chromebook - Intel Core m5 - 4GB Memory - 64GB eMMC Flash Memory - Silver",True,649.0,610.99,889349725450
+5.0,1.0,True,ASUS,"ASUS - VivoBook 15 X542BA 15.6"" Laptop - AMD A9-Series - 8GB Memory - 1TB Hard Drive - Dark Gray/Silver",False,429.99,429.99,889349791769
+5.0,2.0,True,ASUS,"ASUS - ASUSPRO 14"" Laptop - Intel Core i7 - 16GB Memory - 512GB Solid State Drive - Magnesium Gray",True,1299.99,1299.99,889349751084
+5.0,1.0,True,ASUS,"ASUS - VivoBook Flip TP510UA 2-in-1 15.6"" Touch-Screen Laptop - Intel Core i7 - 8GB Memory - 1TB Hard Drive - Star Gray",True,899.99,842.99,889349842577
+5.0,2.0,True,ASUS,"ASUS - ROG Strix GL702ZC 17.3"" Laptop - AMD Ryzen 7 - 16GB Memory - AMD Radeon RX 580 - 1TB Hard Drive + 256GB SSD - Metallic Black",True,1499.99,1499.99,889349830208
+5.0,1.0,False,Acer,"Acer - 15.6"" Laptop - Intel Core i5 - 8GB Memory - NVIDIA GeForce GTX 1050 - 256GB Solid State Drive - Black",False,799.99,799.99,191114273364
+5.0,1.0,False,Dell,"Dell - Latitude 14"" Laptop - Intel Core i7 - 8GB Memory - 256GB Solid State Drive - Black",False,1715.99,1715.99,884116279365
+5.0,2.0,True,HP,"HP - 2-in-1 11.6"" Touch-Screen Chromebook - Intel Celeron - 4GB Memory - 16GB eMMC Flash Memory - Snow white",True,299.0,299.0,191628845316
+5.0,2.0,True,HP,"HP - 2-in-1 11.6"" Touch-Screen Chromebook - Intel Celeron - 4GB Memory - 16GB eMMC Flash Memory - Smoke gray",True,299.0,299.0,191628834051
+5.0,1.0,False,Dell,"Dell - 15.6"" Laptop - Intel Core i5 - 8GB Memory - NVIDIA GeForce GTX 1060 - 1TB Hard Drive + 128GB Solid State Drive - Black",False,1099.99,1099.99,884116276241
+5.0,1.0,True,Dell,"Dell - Inspiron 13.3"" Touch-Screen Laptop - Intel Core i7 - 16GB Memory - 512GB Solid State Drive - Platinum Silver",True,1149.99,1149.99,884116275749
+5.0,2.0,True,Dell,"Dell - Inspiron 15.6"" Touch-Screen Laptop - Intel Core i7 - 12GB Memory - 1TB Hard Drive + 128GB Solid State Drive - Platinum Silver",True,929.99,879.99,884116276371
+5.0,1.0,True,Acer,"Acer - Refurbished One 10 - 10.1"" - Tablet - 32GB - With Keyboard - Shale black",False,155.99,155.99,841631120244
+5.0,1.0,True,Apple,"Apple - MacBook Air 13.3"" Refurbished Laptop - Intel Core i5 - 4GB Memory - 128GB Solid State Drive - Silver",False,649.99,649.99,643907579868
+5.0,1.0,True,Razer,"Razer - Blade Stealth 13.3"" Touch-Screen Laptop - Intel Core i7 - 16GB Memory - 256GB Solid State Drive - Black",True,1499.99,1399.99,814855026098
+5.0,1.0,True,Lenovo,"Lenovo - 17.3"" Laptop - Intel Core i7 - 16GB Memory - NVIDIA GeForce GTX 1070 - 1TB Hard Drive + 512GB Solid State Drive - Black",True,2697.99,2474.99,191376732432
+5.0,1.0,True,ASUS,"ASUS - 15.6"" Laptop - Intel Core i7 - 8GB Memory - 1TB Hard Drive + 128GB Solid State Drive - Metal Gold",False,799.99,799.99,889349896570
+5.0,3.0,False,MSI,"MSI - GL Series 17.3"" Laptop - Intel Core i7 - 16GB Memory - NVIDIA GeForce GTX 1050 - 1TB HDD + 128GB SSD",False,1099.99,1099.99,824142153703
+5.0,3.0,True,Acer,"Acer - 15.6"" Refurbished Chromebook - Intel Celeron - 2GB Memory - 16GB eMMC Flash Memory - Granite Gray",True,177.0,152.0,841631122903
+5.0,1.0,True,Acer,"Acer - Spin 5 2-in-1 13.3"" Refurbished Touch-Screen Laptop - Intel Core i5 - 8GB Memory - 256GB Solid State Drive - Steel Gray",True,654.99,550.99,841631121906
+5.0,1.0,True,Acer,"Acer - Swift 3 14"" Refurbished Laptop - Intel Core i5 - 8GB Memory - NVIDIA GeForce MX150 - 256GB Solid State Drive - Sparkly Silver",True,724.99,724.99,841631121371
+5.0,1.0,True,Acer,"Acer - 17.3"" Refurbished Laptop - Intel Core i7 - 16GB Memory - NVIDIA GeForce GTX 1070 - 1TB HDD + 256GB SSD - Black",True,1499.99,1360.99,841631118784
+5.0,1.0,True,ASUS,"ASUS - VivoBook Flip 14 TP410UA 2-in-1 14"" Touch-Screen Laptop - Intel Core i7 - 8GB Memory - 1TB + 8GB Hybrid Hard Drive - Star Gray",True,849.99,807.99,889349932636
+5.0,3.0,True,Acer,"Acer - Aspire 5 15.6"" Laptop - Intel Core i5 - 8GB Memory - 256GB Solid State Drive - Obsidian Black",True,599.99,599.99,191114485613
+5.0,1.0,True,HP,"HP - 14"" Chromebook - Intel Celeron - 4GB Memory - 32GB eMMC Flash Memory - HP Finish In Chalkboard Gray",True,299.99,259.99,192018721944
+5.0,1.0,True,HP,"HP - 17.3"" Laptop - Intel Core i7 - 16GB Memory - NVIDIA GeForce GTX 1080 - 1TB Hard Drive + 256GB Solid State Drive - Shadow Black, Aluminum Cover Finish",True,2399.99,2323.99,192018001305
+5.0,1.0,True,Dell,"Dell - XPS 13.3"" 4K Ultra HD Touch-Screen Laptop - Intel Core i7 - 16GB Memory - 512GB Solid State Drive - Silver With Black Carbon Fiber Palm Rest",False,1851.99,1629.99,884116277392
+5.0,1.0,False,Lenovo,"Lenovo - 330-17AST 17.3"" Laptop - AMD A6-Series - 4GB Memory - 1TB Hard Drive - Platinum Gray",False,449.99,449.99,192330691888
+5.0,1.0,True,Lenovo,"Lenovo - Legion Y530 15.6"" Laptop - Intel Core i7 - 16GB Memory - NVIDIA GeForce GTX 1050 Ti - 1TB Hard Drive - Black",True,1029.99,949.99,192330691857
+5.0,2.0,True,ASUS,"ASUS - ZenBook Flip 2-in-1 14"" Touch-Screen Laptop - Intel Core i5 - 8GB Memory - 256GB Solid State Drive - Slate Gray",True,899.99,858.99,889349940495
+5.0,3.0,True,ASUS,"ASUS - VivoBook 14"" Laptop - 8GB Memory - 256GB Solid State Drive - Chocolate Black/Gold",True,499.99,464.99,889349917176
+5.0,1.0,False,ASUS,"ASUS - ZenBook Flip 2-in-1 14"" Touch-Screen Laptop - Intel Core i7 - 16GB Memory - NVIDIA GeForce MX150 - 512GB SSD - Slate Gray",False,1299.99,1299.99,889349956298
+5.0,2.0,True,Dell,"Dell - Inspiron 17.3"" Laptop - Intel Core i7 - 8GB Memory - 2TB Hard Drive - Platinum Silver",True,819.99,808.99,884116277293
+5.0,3.0,True,Alienware,"Alienware - 15.6"" Laptop - Intel Core i7 - 16GB Memory - NVIDIA GeForce GTX 1060 - 1TB Hard Drive + 128GB Solid State Drive - Black",True,1599.99,1399.99,884116293682
+5.0,1.0,True,MSI,"MSI - 17.3"" Laptop - Intel Core i7 - 16GB Memory - NVIDIA GeForce GTX 1060 - 2TB Hard Drive + 256GB Solid State Drive - Aluminum Black",True,1999.99,1999.99,824142160565
+5.0,1.0,True,Dell,"Dell - Inspiron 15.6"" Touch-Screen Laptop - AMD Ryzen 5 - 8GB Memory - 1TB Hard Drive - Platinum Silver",True,529.99,529.99,884116294214
+5.0,2.0,True,Samsung,"Samsung - 11.6"" Chromebook - Intel Celeron - 4GB Memory - 32GB eMMC Flash Memory - Night Charcoal",True,259.0,259.0,887276269436
+5.0,2.0,True,HP,"HP - 17.3"" Touch-Screen Laptop - Intel Core i3 - 8GB Memory - 1TB Hard Drive - HP Finish In Jet Black With A Maglia Pattern",True,619.99,599.99,192545210690
+5.0,1.0,True,HP,"HP - 14"" Laptop - AMD E2-Series - 4GB Memory - AMD Radeon R2 - 500GB Hard Drive - HP Finish In Jet Black With A Maglia Texture",True,299.99,299.99,192545207768
+5.0,1.0,False,HP,"HP - 17.3"" Laptop - Intel Pentium Silver - 8GB Memory - 1TB Hard Drive - HP Finish In Smoke Gray And Ash Silver",False,529.99,449.99,192545348270
+5.0,1.0,True,HP,"HP - Envy 17.3"" Touch-Screen Laptop - Intel Core i7 - 12GB Memory - NVIDIA GeForce MX150 - 1TB Hard Drive - HP Finish In Natural Silver",True,1169.99,1139.99,192545207973
+5.0,1.0,False,HP,"HP - Pavilion 15.6"" Touch-Screen Laptop - Intel Core i3 - 8GB Memory - 1TB Hard Drive - HP Sand Blast Matte Finish In Mineral Silver",False,599.99,569.99,192545191920
+5.0,1.0,True,HP,"HP - Stream 14"" Laptop - Intel Celeron - 4GB Memory - 64GB eMMC Flash Memory - Textured Linear Grooves In Smoke Gray",True,249.99,249.99,192545667234
+5.0,1.0,False,MSI,"MSI - 15.6"" Laptop - Intel Core i7 - 16GB Memory - NVIDIA GeForce GTX 1070 - 256GB Solid State Drive - Matte Black With Gold Diamond Cut",False,2199.99,2199.99,824142160541
+5.0,1.0,True,LG,"LG - gram 13.3"" Laptop - Intel Core i5 - 8GB Memory - 256GB Solid State Drive - White",True,1099.99,1099.99,719192618893
+,,True,Acer,"Acer - 15.6"" Chromebook - Intel Core i5 - 4GB Memory - 32GB Solid State Drive - Black",True,509.99,509.99,888863096855
+,,False,Acer,"Acer - 15.6"" Refurbished Laptop - Intel Celeron - 4GB Memory - 500GB Hard Drive - Red",False,259.99,259.99,814930020294
+,,True,HP,"HP - EliteBook 14"" Laptop - Intel Core i5 - 8GB Memory - 500GB Hard Drive - Silver",True,1239.99,1152.99,889894869227
+,,True,HP,"HP - EliteBook 15.6"" Laptop - Intel Core i5 - 8GB Memory - 256GB Solid State Drive - Silver",True,1439.99,1439.99,889894869524
+,,False,Lenovo,"Lenovo - ThinkPad Yoga 460 2-in-1 14"" Touch-Screen Laptop - Intel Core i5 - 4GB Memory - 192GB Solid State Drive - Black",False,1269.99,1269.99,190151975453
+,,False,Lenovo,"Lenovo - ThinkPad Yoga 260 2-in-1 12.5"" Touch-Screen Laptop - Intel Core i5 - 8GB Memory - 192GB Solid State Drive - Midnight black",False,1217.99,1217.99,190151442818
+,,True,HP,"HP - EliteBook 15.6"" Laptop - Intel Core i5 - 4GB Memory - 500GB Hard Drive - Silver",True,1099.99,1002.99,889894869449
+,,True,Acer,"Acer - 14 for Work 14"" Chromebook - Intel Core i3 - 4GB Memory - 32GB eMMC Flash Memory - Black, Silver",True,490.99,490.99,888863679393
+,,False,Dell,"Dell - Latitude 14"" Refurbished Laptop - Intel Core i5 - 4GB Memory - 256GB Solid State Drive - Black",False,324.99,324.99,825633383746
+,,False,Dell,"Dell - Latitude 14"" Refurbished Laptop - Intel Core i5 - 4GB Memory - 750GB Hard Drive - Black",False,276.99,276.99,825633383722
+,,True,HP,"HP - EliteBook 12.5"" Laptop - Intel Core i5 - 4GB Memory - 500GB Hard Drive - Silver",True,1119.99,1065.99,889894862990
+,,False,MSI,"MSI - 15.6"" Laptop - Intel Core i7 - 16GB Memory - NVIDIA GeForce GTX 1060 - 1TB Hard Drive + 128GB Solid State Drive - Aluminum black",False,1599.99,1599.99,824142132258
+,,False,HP,"HP - EliteBook 14"" Refurbished Laptop - Intel Core i5 - 4GB Memory - 500GB Hard Drive - Silver",False,266.99,266.99,812177027625
+,,True,Dell,"Dell - Latitude 14"" Refurbished Laptop - Intel Core i5 - 4GB Memory - 128GB Solid State Drive - Gray",True,293.99,293.99,812177027397
+,,False,Dell,"Dell - Latitude 14"" Refurbished Laptop - Intel Core i5 - 4GB Memory - 128GB Solid State Drive - Gray",False,266.99,266.99,812177027458
+,,True,Dell,"Dell - Latitude 14"" Refurbished Laptop - Intel Core i5 - 4GB Memory - 500GB Hard Drive - Gray",True,293.99,293.99,812177027380
+,,False,HP,"HP - EliteBook 14"" Refurbished Laptop - Intel Core i5 - 4GB Memory - 320GB Hard Drive - Silver",False,255.99,255.99,812177027618
+,,True,Acer,"Acer - Aspire S 13 13.3"" Laptop - Intel Core i3 - 4GB Memory - 128GB Solid State Drive - Black",True,582.99,582.99,888863750108
+,,False,Apple,"Apple - Macbook® 12"" Refurbished Laptop - Intel Core M - 8GB Memory - 256GB Solid State Drive - Silver",False,899.99,899.99,741807522592
+,,True,Wacom,"Wacom - 15.6"" 4K Ultra HD Touch-Screen Laptop - Intel Core i5 - 8GB Memory - NVIDIA Quadro M600M - 256GB SSD - Black",True,2399.99,2099.99,753218988096
+,,True,Acer,"Acer - R 13 2-in-1 13.3"" Touch-Screen Chromebook - MT8173 - 4GB Memory - 64GB eMMC Flash Memory - Sparkly Silver",True,439.99,439.99,888863868551
+,,False,Acer,"Acer - TravelMate 15.6"" Laptop - Intel Core i3 - 4GB Memory - 128GB Solid State Drive - Black",False,535.99,535.99,888863968763
+,,False,Acer,"Acer - TravelMate 14"" Laptop - Intel Core i3 - 4GB Memory - 128GB Solid State Drive - Black",False,600.99,600.99,888863968732
+,,True,Acer,"Acer - 2-in-1 15.6"" Refurbished Touch-Screen Laptop - Intel Core i7 - 12GB Memory - NVIDIA GeForce 940MX - 1TB Hard Drive - Steel gray",False,745.99,745.99,841631114557
+,,False,Dell,"Dell - Latitude 14"" Laptop - Intel Core i7 - 8GB Memory - 500GB Hard Drive - Black",False,1472.99,1472.99,884116260530
+,,False,Dell,"Dell - Latitude 15.6"" Laptop - Intel Core i5 - 8GB Memory - 500GB Hard Drive - Black",False,1028.99,931.99,884116260196
+,,True,Dell,"Dell - Latitude 12.5"" Laptop - Intel Core i5 - 4GB Memory - 128GB Solid State Drive - Black",True,1260.99,1260.99,884116260059
+,,True,Dell,"Dell - Latitude 14"" Laptop - Intel Core i5 - 4GB Memory - 128GB Solid State Drive - Black",True,1311.99,1181.99,884116260271
+,,True,Dell,"Dell - Latitude 14"" Laptop - Intel Core i5 - 8GB Memory - 256 GB Solid State Drive - Black",True,1563.99,1563.99,884116260523
+,,True,Alienware,"Alienware - 17.3"" Laptop - Intel Core i7 - 8GB Memory - NVIDIA GeForce GTX 1060 - 1TB Hard Drive + 256GB Solid State Drive - Epic silver",True,1754.99,1593.99,884116254720
+,,True,ASUS,"ASUS - P-Series 15.6"" Laptop - Intel Core i3 - 4GB Memory - 500GB Hard Drive - Black",True,549.99,523.99,889349736524
+,,True,Lenovo,"Lenovo - 15.6"" Laptop - Intel Core i5 - 8GB Memory - NVIDIA GeForce 920MX - 1TB Hard Drive - Platinum silver",False,769.99,764.99,191376111589
+,,False,Acer,"Acer - 14"" Touch-Screen Laptop - Intel Core i5 - 8GB Memory - 256GB Solid State Drive - Black",False,849.99,849.99,191114059760
+,,True,Dell,"Dell - 2-in-1 11.6"" Touch-Screen Chromebook - Intel Celeron - 4GB Memory - 32GB eMMC Flash Memory - Black",False,369.0,358.99,884116261803
+,,False,MSI,"MSI - 15.6"" Laptop - Intel Core i7 - 32GB Memory - NVIDIA Quadro P3000 - 2TB Hard Drive + 512GB Solid State Drive - Aluminum black",False,2649.99,2649.99,824142142653
+,,True,HP,"HP - 12.5"" Refurbished Laptop - Intel Core i5 - 4GB Memory - 320GB Hard Drive - Silver",False,284.99,284.99,841631116698
+,,True,HP,"HP - EliteBook Folio 14"" Refurbished Laptop - Intel Core i5 - 4GB Memory - 128GB Solid State Drive - Silver",True,284.99,284.99,841631116827
+,,True,Dell,"Dell - Latitude 14"" Refurbished Laptop - Intel Core i5 - 8GB Memory - 500GB Hard Drive - Black",False,369.99,369.99,841631116636
+,,False,Acer,"Acer - 2-in-1 15.6"" Touch-Screen Laptop - Intel Core i7 - 8GB Memory - 1TB Hard Drive + 128GB Solid State Drive - Obsidian Black",False,785.17,785.17,888863987610
+,,True,Dell,"Dell - 2-in-1 11.6"" Touch-Screen Chromebook - Intel Celeron - 4GB Memory - 16GB eMMC Flash Memory - Black",True,349.0,332.99,884116261797
+,,True,HP,"HP - EliteBook 14"" Laptop - Intel Core i5 - 8GB Memory - 256GB Solid State Drive - Silver",True,1149.99,1140.99,190781383086
+,,True,Dell,"Dell - 11.6"" Chromebook - Intel Celeron - 2GB Memory - 16GB eMMC Flash Memory - Black",True,229.0,229.0,884116261810
+,,False,Acer,"Acer - TravelMate 15.6"" Laptop - Intel Core i7 - 8GB Memory - 256GB Solid State Drive - Black",False,939.99,939.99,191114059869
+,,False,Apple,"Apple - MacBook Air 13.3"" Refurbished Laptop - Intel Core i5 - 4GB Memory - 256GB Flash Storage - Silver",False,749.99,749.99,657597277454
+,,True,Dell,"Dell - Latitude 15.6"" Laptop - Intel Core i3 - 4GB Memory - 500GB Hard Drive",True,594.99,531.99,884116258452
+,,True,Acer,"Acer - 14"" Laptop - Intel Core i5 - 8GB Memory - 256GB Solid State Drive - Steel gray",True,819.99,815.99,888863930524
+,,True,HP,"HP - ProBook 15.6"" Laptop - Intel Core i5 - 8GB Memory - 256GB Solid State Drive - Black",True,1031.99,950.99,190781170396
+,,False,Dell,"Dell - 13.3"" Chromebook - Intel Celeron - 4GB Memory - 16GB Solid State Drive - Black",False,299.0,299.0,884116261988
+,,True,Lenovo,"Lenovo - 15.6"" Touch-Screen Laptop - Intel Core i5 - 8GB Memory - 256GB Solid State Drive - Black",False,1613.99,1613.99,191200426940
+,,True,Lenovo,"Lenovo - 14"" Laptop - Intel Core i7 - 8GB Memory - 256GB Solid State Drive - Black",False,1699.99,1699.99,191376693733
+,,True,Lenovo,"Lenovo - 14"" Laptop - Intel Core i5 - 4GB Memory - 500GB Hard Drive - Black",False,1000.99,944.99,191376694655
+,,True,Dell,"Dell - 2-in-1 11.6"" Touch-Screen Chromebook - Intel Celeron - 4GB Memory - 64GB eMMC Flash Memory - Black",True,409.99,377.99,884116261780
+,,True,Acer,"Acer - Spin 5 2-in-1 13.3"" Touch-Screen Laptop - Intel Core i3 - 4GB Memory - 128GB Solid State Drive - Obsidian Black",True,500.99,500.99,191114046494
+,,True,Dell,"Dell - Latitude 14"" Laptop - Intel Core i5 - 4GB Memory - 500GB Hard Drive - Black",False,681.99,681.99,884116258377
+,,True,Acer,"Acer - 2-in-1 15.6"" Refurbished Touch-Screen Laptop - Intel Core i7 - 12GB Memory - 1TB Hard Drive - Black",False,599.99,599.99,841631116179
+,,True,Acer,"Acer - Aspire S 13 13.3"" Refurbished Touch-Screen Laptop - Intel Core i7 - 8GB Memory - 256GB Solid State Drive - Black",False,699.99,699.99,841631114908
+,,True,Acer,"Acer - 17.3"" Refurbished 4K Ultra HD Laptop - Intel Core i7 - 64GB Memory - NVIDIA GeForce GTX 1070 - 2TB HDD + 512GB SSD - Black",False,2289.99,2289.99,841631114670
+,,True,Lenovo,"Lenovo - ThinkPad Yoga 370 2-in-1 13.3"" Touch-Screen Laptop - Intel Core i7 - 8GB Memory - 256GB Solid State Drive - Midnight black",False,1627.99,1627.99,191376293445
+,,True,Acer,"Acer - 15.6"" Chromebook - Intel Celeron - 4GB Memory - 16GB eMMC Flash Memory - Granite Gray",True,255.99,255.99,191114181003
+,,False,Acer,"Acer - 14"" Laptop - Intel Core i5 - 8GB Memory - 256GB Solid State Drive - Black",False,999.99,999.99,888863610167
+,,False,Acer,"Acer - 14"" Laptop - Intel Core i7 - 8GB Memory - 256GB Solid State Drive - Black",False,949.99,949.99,191114059838
+,,False,Acer,"Acer - 14"" Laptop - Intel Core i7 - 8GB Memory - 512GB Solid State Drive - Steel gray",False,1049.99,1049.99,888863930531
+,,False,Acer,"Acer - Aspire R 11 2-in-1 11.6"" Refurbished Touch-Screen Laptop - Intel Celeron - 4GB Memory - 64GB eMMC Flash Memory - Black, red",False,229.99,229.99,841631113864
+,,True,Samsung,"Samsung - Notebook 9 Pro 13.3"" Touch-Screen Laptop - Intel Core i7 - 8GB Memory - 128GB Solid State Drive - Titan Silver",True,1049.99,1049.99,887276240688
+,,True,HP,"HP - EliteBook 15.6"" Laptop - Intel Core i5 - 8GB Memory - 256GB Solid State Drive - Silver",False,1139.99,1139.99,190781385578
+,,False,MSI,"MSI - WS Series 15.6"" Laptop - Intel Core i7 - 32GB Memory - 1TB Hard Drive + 256GB Solid State Drive - Aluminum Black",False,3099.99,3099.99,824142147702
+,,True,MSI,"MSI - GE73VR Raider 17.3"" Laptop - Intel Core i7 - 16GB Memory - NVIDIA GeForce GTX 1060 - 2 x 512GB Solid State Drive - Aluminum Black",True,1999.99,1999.99,824142150498
+,,True,MSI,"MSI - Raider 15.6"" Laptop - Intel Core i7 - 16GB Memory - NVIDIA GeForce GTX 1050 - 1.024TB Solid State Drive - Aluminum Black",True,1699.99,1699.99,824142150597
+,,True,Acer,"Acer - TravelMate 15.6"" Laptop - Intel Core i7 - 8GB Memory - NVIDIA GeForce 940M - 256GB Solid State Drive - Black",True,1187.99,1187.99,888863691333
+,,True,Acer,"Acer - 15.6"" Laptop - Intel Core i5 - 16GB Memory - NVIDIA GeForce GTX 1050 Ti - 256GB Solid State Drive - Black",True,899.99,899.99,191114331613
+,,True,Apple,"Apple - MacBook Air 13.3"" Refurbished Laptop - Intel Core i5 - 4GB Memory - 128GB Flash Storage - Silver",False,599.99,599.99,643907577994
+,,False,Apple,"Apple - MacBook Air 13.3"" Refurbished Laptop - Intel Core i5 - 2GB Memory - 64GB Hard Drive - Silver",False,569.99,569.99,643907578021
+,,True,Acer,"Acer - 2-in-1 11.6"" Touch-Screen Laptop - Intel Pentium - 4GB Memory - 64GB eMMC Flash Memory - Gray",True,429.99,429.99,191114485675
+,,True,Acer,"Acer - Spin 5 2-in-1 13.3"" Touch-Screen Laptop - Intel Core i5 - 8GB Memory - 256GB Solid State Drive - Steel Gray",True,940.99,940.99,191114433652
+,,False,Dell,"Dell - 15.6"" 4K Ultra HD Laptop - Intel Core i7 - 16GB Memory - NVIDIA GeForce GTX 1060 - 1TB HDD + 128GB SSD - Black",False,1499.99,1499.99,884116276425
+,,True,MSI,"MSI - 15.6"" Laptop - Intel Core i7 - 8GB Memory - NVIDIA GeForce MX150 - 1TB Hard Drive - Aluminum silver",True,799.99,799.99,824142148051
+,,True,Acer,"Acer - TravelMate Spin B1 2-in-1 11.6"" Touch-Screen Laptop - Intel Celeron - 4GB Memory - 64GB eMMC Flash Memory - Black",True,312.99,312.99,191114383971
+,,True,HP,"HP - OMEN X 17.3"" Laptop - Intel Core i7 - 16GB Memory - NVIDIA GeForce GTX 1070 - 1TB Hard Drive + 256GB Solid State Drive - Shadow black, aluminum cover finish",True,1999.99,1830.99,192018001282
+,,True,Dell,"Dell - Latitude 13.3"" Laptop - Intel Core i5 - 8GB Memory - 256GB Solid State Drive - Black",True,1553.99,1553.99,884116280125
+,,True,Dell,"Dell - Latitude 2-in-1 13.3"" Touch-Screen Laptop - Intel Core i7 - 16GB Memory - 256GB Solid State Drive - Black",True,2017.99,1751.99,884116280545
+,,True,Dell,"Dell - 11.6"" Touch-Screen Chromebook - Intel Celeron - 4GB Memory - 16GB eMMC Flash Memory - Black",True,304.99,273.99,884116280910
+,,False,Dell,"Dell - Precision Mobile Workstation 15.6"" Laptop - Intel Core i5 - 8GB Memory - NVIDIA Quadro M620 - 500GB Hard Drive - Black",False,1278.99,1278.99,884116281191
+,,True,Dell,"Dell - 15.6"" Laptop - Intel Core i7 - 16GB Memory - AMD Radeon Pro WX 4130 - 512GB Solid State Drive - Black",True,2199.99,1939.99,884116280989
+,,True,ASUS,"ASUS - ZenBook 3 Deluxe UX490UA 14"" Laptop - Intel Core i7 - 16GB Memory - 512GB Solid State Drive - Royal blue",True,1599.99,1478.99,889349835760
+,,True,Dell,"Dell - Inspiron 13.3"" Touch-Screen Laptop - Intel Core i5 - 8GB Memory - 256GB Solid State Drive - Platinum Silver",True,829.99,829.99,884116275732
+,,True,Acer,"Acer - 2-in-1 15.6"" Refurbished Touch-Screen Laptop - Intel Core i7 - 12GB Memory - NVIDIA GeForce 940MX - 256GB SSD - Steel gray",False,703.99,703.99,841631118906
+,,True,Acer,"Acer - Swift 3 14"" Refurbished Laptop - Intel Core i3 - 4GB Memory - 128GB Solid State Drive - Sparkly silver",False,465.99,465.99,841631118876
+,,True,Acer,"Acer - Spin 11 2-in-1 11.6"" Refurbished Touch-Screen Chromebook - Intel Celeron - 4GB Memory - 32GB eMMC Flash Memory - Obsidian black",True,361.0,286.0,841631120749
+,,True,HP,"HP - ProBook 15.6"" Laptop - Intel Core i5 - 4GB Memory - 500GB Hard Drive - Silver",False,659.99,600.99,191628931521
+,,True,Acer,"Acer - Aspire 3 15.6"" Laptop - Intel Celeron - 4GB Memory - 1TB Hard Drive - Oxidant Red",True,332.99,332.99,191114456880
+,,True,HP,"HP - ProBook 15.6"" Laptop - Intel Core i3 - 4GB Memory - 500GB Hard Drive - Silver",True,629.99,574.99,191628931514
+,,True,Lenovo,"Lenovo - ThinkPad A275 12.5"" Laptop - AMD A12 PRO-Series - 8GB Memory - AMD Radeon R7 - 500GB Hard Drive - Black",True,963.99,963.99,191999592161
+,,True,Acer,"Acer - 15.6"" Laptop - Intel Core i5 - 8GB Memory - NVIDIA GeForce MX150 - 1TB Hard Drive + 256GB Solid State Drive - Obsidian Black",True,683.13,683.13,191114515051
+,,False,Lenovo,"Lenovo - 320S-15IKB 15.6"" Laptop - Intel Core i7 - 8GB Memory - NVIDIA GeForce 940MX - 256GB Solid State Drive - Mineral Gray",False,999.99,999.99,191999394703
+,,False,Lenovo,"Lenovo - 320-15IKB 15.6"" Laptop - Intel Core i7 - 8GB Memory - 1TB Hard Drive - Platinum Gray",False,743.99,743.99,192076332984
+,,True,Lenovo,"Lenovo - Legion Y520 15.6"" Laptop - Intel Core i5 - 8GB Memory - NVIDIA GeForce GTX 1050 Ti - 1TB Hard Drive - Black",True,949.99,949.99,191200479519
+,,True,Acer,"Acer - Aspire 5 15.6"" Laptop - Intel Core i5 - 8GB Memory - 1TB Hard Drive - Obsidian Black",True,573.99,573.99,191114515204
+,,True,Acer,"Acer - Aspire 3 15.6"" Laptop - Intel Celeron - 4GB Memory - 1TB Hard Drive - Obsidian Black",True,302.09,302.09,191114379905
+,,True,HP,"HP - EliteBook 14"" Laptop - Intel Core i7 - 8GB Memory - 256GB Solid State Drive - Natural Silver, Diamond Cut Design",True,1739.99,1739.99,192018058484
+,,False,HP,"HP - EliteBook 12.5"" Laptop - AMD A10-Series - 8GB Memory - 256GB Solid State Drive",False,794.99,794.99,190781837275
+,,True,Acer,"Acer - Aspire 5 17.3"" Laptop - Intel Core i3 - 8GB Memory - 1TB Hard Drive - Obsidian Black",True,501.36,501.36,191114476277
+,,True,Acer,"Acer - Swift 5 14"" Touch-Screen Laptop - Intel Core i7 - 16GB Memory - 512GB Solid State Drive - Blue",True,1399.99,1302.99,191114450635
+,,True,ASUS,"ASUS - VivoBook Flip 14 TP401CA 2-in-1 14"" Touch-Screen Laptop - Intel Core m3 - 4GB Memory - 64GB eMMC Flash Memory - Light Gray",True,499.99,484.99,889349904848
+,,True,Acer,"Acer - R 11 2-in-1 11.6"" Touch-Screen Chromebook - Intel Celeron - 4GB Memory - 32GB eMMC Flash Memory - Black",True,345.99,345.99,191114094785
+,,True,Acer,"Acer - Switch 5 2-in-1 12"" Refurbished Touch-Screen Laptop - Intel Core i5 - 8GB Memory - 256GB Solid State Drive - Gray",True,652.99,604.99,841631121036
+,,True,ASUS,"ASUS - 15.6"" 4K Ultra HD Laptop - Intel Core i7 - 16GB Memory - NVIDIA GeForce GTX 1050 - 1TB HDD + 256GB SSD - Metal Gold",True,1399.99,1399.99,889349859827
+,,True,ASUS,"ASUS - VivoBook Flip 14 TP410UA 2-in-1 14"" Touch-Screen Laptop - Intel Core i5 - 8GB Memory - 1TB + 8GB Hybrid Hard Drive - Metal Star Gray",True,749.99,736.99,889349932629
+,,True,Acer,"Acer - Nitro 5 15.6"" Laptop - Intel Core i5 - 8GB Memory - NVIDIA GeForce GTX 1050 Ti - 1TB Hard Drive - Black",True,749.99,749.99,191114303917
+,,False,Lenovo,"Lenovo - ThinkPad E480 14"" Laptop - Intel Core i5 - 8GB Memory - 256GB Solid State Drive - Black",False,929.99,929.99,192158696614
+,,True,Lenovo,"Lenovo - 530S-14IKB 14"" Laptop - Intel Core i5 - 8GB Memory - 128GB Solid State Drive - Onyx Black",True,792.99,792.99,192330715959
+,,True,Lenovo,"Lenovo - Legion Y520 15.6"" Laptop - Intel Core i7 - 8GB Memory - NVIDIA GeForce GTX 1060 Max-Q - 1TB Hard Drive - Black",True,1189.99,1189.99,192330691864
+,,True,Lenovo,"Lenovo - IdeaPad 15.6"" Laptop - AMD Ryzen 5 - 8GB Memory - 1TB Hard Drive - Platinum Gray",True,609.99,609.99,192330691956
+,,True,Lenovo,"Lenovo - 330-17ICH 17.3"" Laptop - Intel Core i7 - 16GB Memory - NVIDIA GeForce GTX 1050 - 1TB Hard Drive - Onyx Black",True,1169.99,1169.99,192330705882
+,,True,Lenovo,"Lenovo - 530S-14IKB 14"" Laptop - Intel Core i5 - 8GB Memory - NVIDIA GeForce MX130 - 256GB Solid State Drive - Onyx Black",True,941.99,941.99,192330715935
+,,True,Lenovo,"Lenovo - Flex 6-14IKB 2-in-1 14"" Touch-Screen Laptop - Intel Core i5 - 8GB Memory - 256GB Solid State Drive - Onyx Black",True,891.99,891.99,192330716888
+,,True,Lenovo,"Lenovo - Flex 6-14IKB 2-in-1 14"" Touch-Screen Laptop - Intel Core i7 - 16GB Memory - 512GB Solid State Drive - Onyx Black",True,1260.99,1260.99,192330716901
+,,False,Lenovo,"Lenovo - 530S-14IKB 14"" QHD Laptop - Intel Core i7 - 8GB Memory - NVIDIA GeForce MX150 - 256GB Solid State Drive - Onyx Black",False,1130.99,1130.99,192330716123
+,,True,Lenovo,"Lenovo - 2-in-1 15.6"" Touch-Screen Laptop - Intel Core i5 - 8GB Memory - 256GB Solid State Drive - Onyx Black",True,852.99,852.99,192330716895
+,,True,Lenovo,"Lenovo - IdeaPad 15.6"" Laptop - Intel Core i3 - 4GB Memory - 1TB Hard Drive - Platinum Gray",True,499.99,499.99,192330705950
+,,True,Lenovo,"Lenovo - IdeaPad 15.6"" Laptop - Intel Pentium - 4GB Memory - 500GB Hard Drive - Platinum Gray",True,414.99,414.99,192330691925
+,,True,Lenovo,"Lenovo - 2-in-1 15.6"" Touch-Screen Laptop - Intel Core i7 - 8GB Memory - NVIDIA GeForce MX130 - 256GB Solid State Drive - Onyx Black",True,990.99,990.99,192330718998
+,,False,Lenovo,"Lenovo - Flex 6-14IKB 2-in-1 14"" Touch-Screen Laptop - Intel Core i5 - 8GB Memory - 256GB Solid State Drive - Onyx Black",False,829.99,829.99,192330718981
+,,True,Acer,"Acer - 15.6"" Refurbished Touch-Screen Chromebook - Intel Pentium - 4GB Memory - 32GB eMMC Flash Memory - Pure Silver",True,294.0,294.0,841631122200
+,,True,Acer,"Acer - Aspire 3 15.6"" Laptop - Intel Core i5 - 6GB Memory - 1TB Hard Drive - Blue Stone",True,534.99,534.99,191114562123
+,,True,Acer,"Acer - Switch Alpha 2-in-1 12"" Touch-Screen Laptop - Intel Core i7 - 8GB Memory - 256GB Solid State Drive - Gray",True,776.99,776.99,888863793112
+,,True,Dell,"Dell - 11.6"" Chromebook - Intel Celeron - 4GB Memory - 32GB eMMC Flash Memory - Gray",True,319.0,319.0,884116283157
+,,True,ASUS,"ASUS - 14"" Laptop - Intel Pentium - 4GB Memory - 64GB eMMC Flash Memory - Star Gray",True,349.99,349.99,889349972731
+,,False,ASUS,"ASUS - 14"" Laptop - Intel Celeron - 4GB Memory - 64GB eMMC Flash Memory - Star Gray",False,299.99,299.99,889349972724
+,,True,ASUS,"ASUS - VivoBook Flip 2-in-1 11.6"" Touch-Screen Laptop - Intel Celeron - 4GB Memory - 32GB eMMC Flash Memory - Star Gray",True,299.99,299.99,889349826850
+,,True,ASUS,"ASUS - VivoBook 15.6"" Laptop - Intel Core i7 - 8GB Memory - NVIDIA GeForce GTX 1050 - 1TB Hard Drive + 256GB Solid State Drive - Reaper Black",True,999.99,999.99,889349929353
+,,True,ASUS,"ASUS - VivoBook 15.6"" Laptop - Intel Core i5 - 8GB Memory - NVIDIA GeForce GTX 1050 - 256GB Solid State Drive - Reaper Black",True,799.99,799.99,889349929360
+,,False,ASUS,"ASUS - VivoBook 15.6"" Laptop - Intel Core i7 - 16GB Memory - NVIDIA GeForce GTX 1050 - 1TB Hard Drive + 256GB Solid State Drive - Reaper Black",False,1049.99,1049.99,889349929377
+,,False,Acer,"Acer - Switch 5 2-in-1 12"" Touch-Screen Laptop - Intel Core i5 - 8GB Memory - 256GB Solid State Drive - Gray",False,789.99,789.99,191114347201
+,,True,Dell,"Dell - Inspiron 17.3"" Laptop - Intel Core i5 - 8GB Memory - 1TB Hard Drive - Platinum Silver",True,725.99,725.99,884116277286
+,,True,Dell,"Dell - Inspiron 15.6"" 4K Ultra HD Touch-Screen Laptop - Intel Core i7 - 16GB Memory - NVIDIA GeForce MX130 - 512GB SSD - Platinum Silver",True,1459.99,1459.99,884116293033
+,,True,Dell,"Dell - Inspiron 15.6"" Touch-Screen Laptop - Intel Core i7 - 8GB Memory - NVIDIA GeForce MX130 - 1TB + 8GB Hybrid Hard Drive - Platinum Silver",True,995.99,899.99,884116277224
+,,True,Dell,"Dell - Latitude 14.1"" Laptop - Intel Core i7 - 16GB Memory - 256GB Solid State Drive",True,1925.99,1720.99,884116283270
+,,True,Dell,"Dell - Latitude 15.6"" Laptop - Intel Core i5 - 4GB Memory - 500GB Hard Drive",True,1008.99,1008.99,884116282921
+,,False,Dell,"Dell - Latitude 15.6"" Laptop - Intel Core i5 - 8GB Memory - 500GB Hard Drive",False,1149.99,1149.99,884116283010
+,,False,Dell,"Dell - Latitude 15.6"" Laptop - Intel Core i3 - 8GB Memory - 256GB Solid State Drive",False,1268.99,1268.99,884116280644
+,,False,Dell,"Dell - Latitude 14.1"" Laptop - Intel Core i5 - 8GB Memory - 256GB Solid State Drive",False,1674.99,1674.99,884116283256
+,,True,Dell,"Dell - Latitude 15.6"" Laptop - Intel Core i5 - 8GB Memory - 256GB Solid State Drive",True,1511.99,1511.99,884116282983
+,,False,Dell,"Dell - Latitude 14"" Laptop - Intel Core i5 - 8GB Memory - 256GB Solid State Drive",False,1411.99,1411.99,884116282853
+,,True,Dell,"Dell - Latitude 14"" Laptop - Intel Core i5 - 4GB Memory - 500GB Hard Drive",True,1008.99,1008.99,884116282815
+,,False,Dell,"Dell - Latitude 14"" Laptop - Intel Core i5 - 8GB Memory - 500GB Hard Drive",False,1259.99,1033.99,884116282884
+,,True,Dell,"Dell - Latitude 15.6"" Laptop - Intel Core i5 - 8GB Memory - 500GB Hard Drive",True,1179.99,1179.99,884116282990
+,,False,Dell,"Dell - Latitude 15.6"" Laptop - Intel Core i5 - 8GB Memory - 500GB Hard Drive",False,906.99,906.99,884116279990
+,,True,MSI,"MSI - 17.3"" Laptop - Intel Core i7 - 16GB Memory - NVIDIA GeForce GTX 1070 - 1TB Hard Drive + 256GB Solid State Drive - Aluminum Black",True,2049.99,2049.99,824142159644
+,,False,MSI,"MSI - 15.6"" Laptop - Intel Core i7 - 16GB Memory - NVIDIA GeForce GTX 1070 - 1TB Hard Drive + 256GB Solid State Drive - Aluminum Black",False,1999.99,1999.99,824142159668
+,,True,MSI,"MSI - 15.6"" Laptop - Intel Core i7 - 16GB Memory - NVIDIA GeForce GTX 1060 - 1TB Hard Drive + 128GB Solid State Drive - Aluminum Black",True,1599.99,1599.99,824142159699
+,,True,MSI,"MSI - 17.3"" Laptop - Intel Core i7 - 16GB Memory - NVIDIA GeForce GTX 1050 Ti - 1TB Hard Drive + 128GB Solid State Drive - Black",True,1349.99,1349.99,824142159859
+,,True,ASUS,"ASUS - TUF Gaming 15.6"" Laptop - Intel Core i5 - 8GB Memory - NVIDIA GeForce GTX 1050 - 1TB + 8GB Hybrid Hard Drive",True,799.99,799.99,889349992845
+,,False,ASUS,"ASUS - ROG 17.3"" Laptop - Intel Core i7 - 32GB Memory - NVIDIA GeForce GTX 1080 - 1TB Hybrid Drive + 512GB SSD - Silver",False,3499.99,3499.99,889349985649
+,,False,ASUS,"ASUS - ROG G703GS 17.3"" Laptop - Intel Core i7 - 16GB Memory - NVIDIA GeForce GTX 1070 - 1TB Hybrid Hard Drive - Silver",False,2199.99,2199.99,192876011751
+,,False,ASUS,"ASUS - ROG Zephyrus M 15.6"" Laptop - Intel Core i7 - 16GB Memory - NVIDIA GeForce GTX 1070 - 1TB Hybrid Drive + 256GB SSD - Black",False,2199.99,2199.99,889349958612
+,,True,ASUS,"ASUS - ROG Strix Hero Edition 15.6"" Laptop - Intel Core i7 - 16GB Memory - NVIDIA GeForce GTX 1050Ti - 1TB+8GB SSHD + 128GB SSD",True,1249.99,1249.99,889349993569
+,,True,ASUS,"ASUS - ROG Strix Hero Edition 15.6"" Laptop - Intel Core i5 - 8GB Memory - NVIDIA GeForce GTX 1050Ti - 1TB+8GB SSHD + 128GB SSD - Black",True,1099.99,1099.99,889349993552
+,,False,Lenovo,"Lenovo - 300e 2-in-1 11.6"" Touch-Screen Laptop - Intel Celeron - 4GB Memory - 64GB eMMC Flash Memory - Black",False,298.99,298.99,192158787824
+,,True,MSI,"MSI - 17.3"" Laptop - Intel Core i7 - 16GB Memory - NVIDIA GeForce GTX 1070 - 1TB Hard Drive - Aluminum Black",True,2399.99,2399.99,824142161388
+,,False,Dell,"Dell - 2-in-1 11.6"" Touch-Screen Chromebook - Intel Celeron - 4GB Memory - 32GB eMMC Flash Memory - Gray",False,439.0,439.0,884116283188
+,,True,ASUS,"ASUS - VivoBook 14"" Laptop - AMD A9-Series - 8GB Memory - 1TB Hard Drive - Chocolate Black/Gold",True,449.99,429.99,889349917169
+,,True,MSI,"MSI - GL63 8RD 15.6"" Laptop - Intel Core i5 - 8GB Memory - NVIDIA GeForce GTX 1050 Ti - 256GB Solid State Drive - Black",True,999.99,999.99,824142163351
+,,True,Dell,"Dell - Inspiron 15.6"" Laptop - Intel Pentium - 4GB Memory - 500GB Hard Drive - Black",True,279.99,279.99,884116294269
+,,True,MSI,"MSI - 15.6"" Laptop - Intel Core i7 - 16GB Memory - NVIDIA GeForce GTX 1060 - 512GB Solid State Drive - Matte Black With Gold Diamond Cut",True,2099.99,2099.99,824142160510
+,,True,Acer,"Acer - Aspire 3 15.6"" Laptop - Intel Core i3 - 4GB Memory - 1TB Hard Drive - Blue Stone",True,433.99,433.99,191114560839
+,,True,ASUS,"ASUS - Zenbook 13.3"" Touch-Screen Laptop - Intel Core i5 - 8GB Memory - NVIDIA GeForce MX150 - 256GB Solid State Drive - Royal Blue",True,987.93,987.93,889349936825
+,,True,Acer,"Acer - Aspire 3 15.6"" Laptop - Intel Core i3 - 4GB Memory - 1TB Hard Drive - Obsidian Black",True,405.99,405.99,191114560815
+,,True,Acer,"Acer - Swift 1 13.3"" Laptop - Intel Pentium - 4GB Memory - 64GB eMMC Flash Memory - Pure Silver",True,327.52,327.52,191114550533
+,,True,ASUS,"ASUS - 17.3"" Laptop - Intel Core i7 - 8GB Memory - NVIDIA GeForce MX150 - 1TB Hard Drive + 256GB Solid State Drive - Star Gray",True,949.99,949.99,889349923443
+,,True,MSI,"MSI - 15.6"" Laptop - Intel Core i7 - 32GB Memory - NVIDIA GeForce GTX 1070 - 512GB Solid State Drive - Matte Black With Gold Diamond Cut",True,2499.99,2499.99,824142160534
+,,True,Razer,"Razer - Blade 15.6"" Laptop - Intel Core i7 - 16GB Memory - NVIDIA GeForce GTX 1060 - 256GB Solid State Drive - Black",True,1899.99,1899.99,814855028757
+,,True,Dell,"Dell - 11.6"" Chromebook - Intel Celeron - 4GB Memory - 16GB eMMC Flash Memory - Gray",True,299.0,299.0,884116282808
+,,True,CyberPowerPC,"CyberPowerPC - Tracer III 15.6"" Laptop - Intel Core i7 - 16GB Memory - NVIDIA GeForce GTX 1060 - 500GB Solid State Drive - Black",True,1389.99,1339.99,811842056328
+,,True,CyberPowerPC,"CyberPowerPC - Tracer III 15.6"" Laptop - Intel Core i7 - 8GB Memory - NVIDIA GeForce GTX 1050 Ti - 240GB Solid State Drive - Black",True,1149.99,1089.99,811842056298
+,,True,CyberPowerPC,"CyberPowerPC - Tracer III 15.6"" Laptop - Intel Core i7 - 8GB Memory - NVIDIA GeForce GTX 1060 - 240GB Solid State Drive - Black",True,1229.99,1159.99,811842056267
+,,True,CyberPowerPC,"CyberPowerPC - Tracer III 15.6"" Laptop - Intel Core i7 - 8GB Memory - NVIDIA GeForce GTX 1060 - 240GB Solid State Drive - Black",True,1199.99,1199.99,811842056311
+,,True,CyberPowerPC,"CyberPowerPC - Tracer III 15.6"" Laptop - Intel Core i7 - 16GB Memory - NVIDIA GeForce GTX 1050 Ti - 500GB Solid State Drive - Black",True,1199.99,1199.99,811842056304
+,,True,CyberPowerPC,"CyberPowerPC - Tracer III 15.6"" Laptop - Intel Core i7 - 16GB Memory - NVIDIA GeForce GTX 1050 Ti - 500GB Solid State Drive - Black",True,1199.99,1139.99,811842056250
+,,True,CyberPowerPC,"CyberPowerPC - Tracer III 15.6"" Laptop - Intel Core i7 - 16GB Memory - NVIDIA GeForce GTX 1060 - 1TB Solid State Drive - Black",True,1559.99,1489.99,811842056335
+,,True,CyberPowerPC,"CyberPowerPC - Tracer III 15.6"" Laptop - Intel Core i7 - 8GB Memory - NVIDIA GeForce GTX 1050 Ti - 240GB Solid State Drive - Black",True,1069.99,1009.99,811842056243
+,,True,CyberPowerPC,"CyberPowerPC - Tracer III 15.6"" Laptop - Intel Core i7 - 16GB Memory - NVIDIA GeForce GTX 1060 - 500GB Solid State Drive - Black",True,1379.99,1299.99,811842056274
+,,True,HP,"HP - 15.6"" Laptop - AMD A6-Series - 4GB Memory - AMD Radeon R4 - 1TB Hard Drive - Pattern",True,439.99,439.99,192545208192
+,,True,HP,"HP - 15.6"" Laptop - Intel Core i3 - 4GB Memory - 1TB Hard Drive - HP Finish In Smoke Gray And Ash Silver",True,469.99,469.99,192545208604
+,,True,HP,"HP - 15.6"" Touch-Screen Laptop - AMD Ryzen 5 - 8GB Memory - 1TB Hard Drive - HP Finish In Smoke Gray And Ash Silver",True,619.99,619.99,192545208277
+,,True,HP,"HP - Pavilion 15.6"" Touch-Screen Laptop - Intel Core i5 - 8GB Memory - 1TB Hard Drive - HP Sand Blast Matte Finish In Mineral Silver",True,739.99,709.99,192545210683
+,,True,HP,"HP - 15.6"" Touch-Screen Laptop - AMD Ryzen 3 - 8GB Memory - 1TB Hard Drive - HP Finish In Smoke Gray And Ash Silver",True,559.99,559.99,192545208246
+,,True,HP,"HP - 17.3"" Laptop - Intel Pentium Silver - 4GB Memory - 1TB Hard Drive - HP Finish In Jet Black With A Maglia Pattern",True,489.99,489.99,192545210676
+,,True,HP,"HP - 17.3"" Laptop - AMD A9-Series - 4GB Memory - AMD Radeon R5 - 500GB Hard Drive - HP Finish In Smoke Gray And Ash Silver",True,469.99,469.99,192545210645
+,,True,HP,"HP - 15.6"" Refurbished Laptop - Intel Core i5 - 8GB Memory - 1TB Hard Drive - Ash Silver Keyboard Frame, Smoke Gray",False,449.99,449.99,192018171978
+,,True,HP,"HP - Pavilion Power 15.6"" Refurbished Laptop - Intel Core i7 - 12GB Memory - NVIDIA GeForce GTX 1050 - 1TB Hard Drive - Vertical Brushed Pattern Keyboard Frame",True,699.99,699.99,191628198313
+,,True,HP,"HP - Spectre x360 2-in-1 13.3"" Refurbished Touch-Screen Laptop - Intel Core i5 - 8GB Memory - 256GB Solid State Drive - Natural Silver, Aluminum",False,799.99,799.99,192018104266
+,,False,Dell,"Dell - 11.6"" Touch-Screen Chromebook - Intel Celeron - 4GB Memory - 16GB eMMC Flash Memory - Gray",False,349.0,349.0,884116283164
+,,True,HP,"HP - Pavilion x360 2-in-1 15.6"" Touch-Screen Laptop - Intel Core i5 - 8GB Memory - 256GB Solid State Drive - HP Finish In Natural Silver And Ash Silver",True,789.99,759.99,192545191753
+,,True,HP,"HP - ENVY x360 2-in-1 15.6"" Touch-Screen Laptop - Intel Core i7 - 8GB Memory - 256GB Solid State Drive - HP Finish In Natural Silver",True,989.99,959.99,192545208659
+,,True,HP,"HP - Pavilion 15.6"" Touch-Screen Laptop - Intel Core i5 - 8GB Memory - 1TB Hard Drive - HP Sand Blast Matte Finish In Ceramic White",True,649.99,619.99,192545179874
+,,True,HP,"HP - Envy 13.3"" Touch-Screen Laptop - Intel Core i7 - 8GB Memory - 256GB Solid State Drive - HP Finish In Natural Silver",True,1029.99,999.99,192545210669
+,,True,HP,"HP - Pavilion x360 2-in-1 15.6"" Touch-Screen Laptop - Intel Core i3 - 8GB Memory - 1TB Hard Drive - Natural Silver, Ash Silver Vertical Brushed",True,669.99,639.99,192545180153
+,,True,HP,"HP - Pavilion x360 2-in-1 15.6"" Touch-Screen Laptop - Intel Core i5 - 8GB Memory - 256GB Solid State Drive - HP Finish In Pale Gold And Ash Silver",True,789.99,759.99,192545191890
+,,False,HP,"HP - 15.6"" Laptop - Intel Core i3 - 4GB Memory - 1TB Hard Drive - HP Finish In Smoke Gray And Ash Silver",False,439.99,419.99,192545178976
+,,False,HP,"HP - Pavilion x360 2-in-1 15.6"" Touch-Screen Laptop - Intel Core i3 - 8GB Memory - 1TB Hard Drive - HP Finish In Pale Gold And Ash Silver",False,669.99,639.99,192545191555
+,,False,HP,"HP - 15.6"" Laptop - AMD A9-Series - 4GB Memory - AMD Radeon R5 - 1TB Hard Drive - HP Finish In Smoke Gray And Ash Silver",False,439.99,419.99,192545178952
+,,True,HP,"HP - Pavilion 15.6"" Laptop - Intel Core i7 - 8GB Memory - 1TB Hard Drive - HP Sand Blast Matte Finish In Mineral Silver",True,869.99,869.99,192545180207
+,,False,HP,"HP - Envy 13.3"" Laptop - Intel Core i5 - 8GB Memory - 128GB Solid State Drive - HP Finish In Pale Gold",False,849.99,849.99,192545180801
+,,False,HP,"HP - 15.6"" Laptop - AMD A9-Series - 4GB Memory - AMD Radeon R5 - 1TB Hard Drive - HP Finish In Twilight Blue And Ash Silver",False,439.99,419.99,192545178945
+,,False,HP,"HP - Pavilion Gaming 15.6"" Laptop - Intel Core i5 - 8GB Memory - NVIDIA GeForce GTX 1050 Ti - 1TB Hard Drive - HP Matte Finish In Shadow Black And Acid Green",False,879.99,849.99,192545208680
+,,False,HP,"HP - 15.6"" Laptop - AMD A9-Series - 4GB Memory - AMD Radeon R5 - 1TB Hard Drive - HP Finish In Snow White",False,439.99,419.99,192545178914
+,,True,ASUS,"ASUS - ASUSPRO P2540UB 15.6"" Laptop - Intel Core i5 - 8GB Memory - NVIDIA GeForce MX110 - 256GB Solid State Drive - Black",True,799.99,799.99,192876027936
+,,True,Acer,"Acer - Aspire 3 15.6"" Laptop - AMD Ryzen 7 - 8GB Memory - AMD Radeon RX Vega 10 - 256GB Solid State Drive - Obsidian Black",True,699.99,699.99,191114639832
+,,True,Acer,"Acer - Predator Triton 700 15.6"" Laptop - Intel Core i7 - 16GB Memory - NVIDIA GeForce GTX 1060 - 512GB Solid State Drive - Teal Blue",True,1999.99,1999.99,191114378236
+,,False,HP,"HP - Pavilion 15.6"" Laptop - Intel Core i5 - 8GB Memory - 1TB Hard Drive - HP Sand Blast Matte Finish In Mineral Silver",False,699.99,699.99,192545180177
+,,True,HP,"HP - 15.6"" Laptop - AMD A9-Series - 4GB Memory - AMD Radeon R5 - 1TB Hard Drive - HP Finish In Maroon Burgundy",True,439.99,419.99,192545199841
+,,False,HP,"HP - Pavilion 15.6"" Laptop - AMD Ryzen 5 - 8GB Memory - 1TB Hard Drive - HP Sand Blast Matte Finish In Mineral Silver",False,599.99,569.99,192545356596
+,,True,Dell,"Dell - G3 17.3"" Laptop - Intel Core i7 - 8GB Memory - NVIDIA GeForce GTX 1050 Ti - 1TB Hard Drive + 128GB Solid State Drive - Black",True,1069.99,1069.99,884116293934
+,,True,Dell,"Dell - 15.6"" Laptop - Intel Core i7 - 16GB Memory - NVIDIA GeForce GTX 1050 Ti - 1TB Hard Drive + 128GB Solid State Drive - Matte Black",True,1199.99,1049.99,884116293835
+,,True,Dell,"Dell - Inspiron 2-in-1 13.3"" Touch-Screen Laptop - Intel Core i5 - 8GB Memory - 1TB Hard Drive - Theoretical Gray",True,759.99,699.99,884116276043
+,,True,Dell,"Dell - 15.6"" Laptop - Intel Core i5 - 8GB Memory - NVIDIA GeForce GTX 1060 Max-Q - 1TB Hard Drive + 128GB Solid State Drive - Licorice Black",True,1059.99,959.99,884116293859
+,,True,Alienware,"Alienware - 15.54"" Laptop - Intel Core i7 - 16GB Memory - NVIDIA GeForce GTX 1060 - 1TB + 8GB Hybrid Hard Drive - Epic Silver",True,1619.99,1619.99,884116293675
+,,True,Dell,"Dell - XPS 15.6"" 4K Ultra HD Touch-Screen Laptop - Intel Core i7 - 32GB Memory - NVIDIA GeForce GTX 1050 Ti - 1TB SSD - Silver",True,2349.99,2349.99,884116294085
+,,True,Alienware,"Alienware - 17.3"" Laptop - Intel Core i7 - 16GB Memory - NVIDIA GeForce GTX 1070 OC Edition - 1TB + 8GB Hybrid Hard Drive - Epic Silver",True,1899.99,1779.99,884116294092
+,,True,Alienware,"Alienware - 17.3"" Laptop - Intel Core i7 - 8GB Memory - NVIDIA GeForce GTX 1060 OC Edition - 1TB HDD + 256GB Solid State Drive - Epic Silver",True,1699.99,1599.99,884116294108
+,,True,Dell,"Dell - G3 15.6"" Laptop - Intel Core i5 - 8GB Memory - NVIDIA GeForce GTX 1050 - 1TB + 8GB Hybrid Hard Drive - Black",True,809.99,809.99,884116293958
+,,False,Alienware,"Alienware - 15.54"" Laptop - Intel Core i7 - 16GB Memory - NVIDIA GeForce GTX 1060 - 1TB Hard Drive + 256GB Solid State Drive - Epic Silver",False,1729.99,1599.99,884116312291
+,,True,Dell,"Dell - Inspiron 15.6"" Laptop - Intel Core i5 - 8GB Memory - 1TB Hard Drive - Silver",True,679.99,679.99,884116293606
+,,True,Dell,"Dell - Inspiron 2-in-1 15.6"" Touch-Screen Laptop - Intel Core i7 - 8GB Memory - 1TB Hard Drive - Gray",True,879.99,879.99,884116275978
+,,True,Dell,"Dell - Inspiron 13.3"" Touch-Screen Laptop - Intel Core i5 - 8GB Memory - 256GB Solid State Drive - Silver",True,899.99,899.99,884116276937
+,,True,Dell,"Dell - Inspiron 17.3"" Laptop - Intel Core i5 - 8GB Memory - 1TB Hard Drive - Silver",True,679.99,679.99,884116293422
+,,True,Dell,"Dell - Inspiron 15.6"" Laptop - Intel Core i5 - 8GB Memory - 1TB Hard Drive - Silver",True,669.99,669.99,884116293644
+,,True,HP,"HP - EliteBook 14"" Refurbished Laptop - Intel Core i5 - 8GB Memory - 320GB Solid State Drive - Black",True,314.99,314.99,841631125607
+,,True,HP,"HP - EliteBook Folio 14"" Refurbished Laptop - Intel Core i5 - 8GB Memory - 500GB Hard Drive - Black",True,309.99,309.99,841631125768
+,,True,Apple,"Apple - MacBook Air® - 13.3"" Display - Intel Core i7 - 8GB Memory - 128GB Solid State Drive - Silver",False,1149.99,1149.99,641719000365
+,,True,Apple,"Apple - MacBook Pro® - 13.3"" Display - Intel Core i5 - 16GB Memory - 256GB Solid State Drive - Silver",True,2099.99,2099.99,641719000327
+,,True,Apple,"Apple - MacBook Air® - 13.3"" Display - Intel Core i5 - 8GB Memory - 512GB Solid State Drive - Silver",True,1399.99,1399.99,641719000389
+,,False,Apple,"Apple - MacBook Pro® - 13.3"" Display - Intel Core i5 - 16GB Memory - 256GB Solid State Drive - Space Gray",False,1699.99,1699.99,641719000259
+,,True,Apple,"Apple - MacBook Pro - 15.4"" Display - Intel Core i7 - 16GB Memory - AMD Radeon Pro 560 - 1TB Solid State Drive - Space Gray",True,3199.99,3199.99,641719000198
+,,True,Apple,"Apple - MacBook Pro - 15.4"" Display - Intel Core i7 - 16GB Memory - AMD Radeon Pro 560 - 512GB Solid State Drive - Silver",True,2999.99,2999.99,641719000235
+,,True,Apple,"Apple - MacBook Pro - 15.4"" Display - Intel Core i7 - 16GB Memory - AMD Radeon Pro 560 - 2TB Solid State Drive - Space Gray",True,4199.99,4199.99,641719000204
+,,True,Apple,"Apple - MacBook Pro® - 13.3"" Display - Intel Core i5 - 16GB Memory - 256GB Solid State Drive - Silver",True,1699.99,1699.99,641719000266
+,,True,Apple,"Apple - MacBook Pro - 15.4"" Display - Intel Core i7 - 16GB Memory - AMD Radeon Pro 555 - 512GB Solid State Drive - Space Gray",True,2599.99,2599.99,641719000167
+,,False,Apple,"Apple - MacBook Pro® - 13.3"" Display - Intel Core i7 - 16GB Memory - 512GB Solid State Drive - Silver",False,2499.99,2499.99,641719000334
+,,True,Apple,"Apple - MacBook Pro - 15.4"" Display - Intel Core i7 - 16GB Memory - 1TB Solid State Drive - Silver",False,2899.99,2899.99,641719000051
+,,True,Apple,"Apple - MacBook Pro - 15.4"" Display - Intel Core i7 - 16GB Memory - 512GB Solid State Drive - Silver",True,2499.99,2499.99,641719000068
+,,True,Apple,"Apple - MacBook Pro - 15.4"" Display - Intel Core i7 - 16GB Memory - AMD Radeon Pro 560 - 1TB Solid State Drive - Silver",True,3099.99,3099.99,641719000228
+,,True,Apple,"Apple - MacBook Air® - 13.3"" Display - Intel Core i7 - 8GB Memory - 256GB Solid State Drive - Silver",True,1349.99,1349.99,641719000372
+,,True,Apple,"Apple - MacBook Pro - 15.4"" Display - Intel Core i7 - 16GB Memory - 512GB Solid State Drive - Silver",True,2199.99,2199.99,641719000075
+,,True,Apple,"Apple - MacBook Air® - 13.3"" Display - Intel Core i7 - 8GB Memory - 512GB Solid State Drive - Silver",True,1549.99,1549.99,641719000396
+,,True,Apple,"Apple - MacBook Pro® - 13.3"" Display - Intel Core i5 - 16GB Memory - 512GB Solid State Drive - Silver",True,2299.99,2299.99,641719000358
+,,True,Acer,"Acer - 15.6"" Laptop - Intel Core i7 - 8GB Memory - NVIDIA GeForce GTX 1050 Ti - 1TB Hard Drive - Black",True,949.99,949.99,191114807200
+,,True,Acer,"Acer - 15.6"" Laptop - Intel Core i7 - 12GB Memory - NVIDIA GeForce GTX 1050 Ti - 1TB Hard Drive + 128GB Solid State Drive - Black",True,999.99,929.99,191114667910
+,,True,Acer,"Acer - Swift 3 14"" Laptop - Intel Core i7 - 8GB Memory - 512GB Solid State Drive - Sparkly Silver",True,758.15,758.15,888863929412
+,,True,MSI,"MSI - 15.6"" Laptop - Intel Core i7 - 16GB Memory - NVIDIA GeForce GTX 1070 - 1TB Hard Drive + 256GB Solid State Drive - Aluminum Black",True,2199.99,2199.99,824142162934
+,,False,HP,"HP - 15.6"" Laptop - Intel Core i5 - 8GB Memory - AMD Radeon RX 560X - 1TB Hard Drive + 128GB Solid State Drive - HP Matte Finish In Shadow Black And Acid Green",False,829.99,799.99,192545339414
+,,True,MSI,"MSI - WE63 8SJ 15.6"" Laptop - Intel Core i7 - 32GB Memory - NVIDIA Quadro P2000 - 512GB Solid State Drive - Aluminum Black",True,2049.99,2049.99,824142163672
+,,True,MSI,"MSI - WE63 8SJ 15.6"" Laptop - Intel Core i7 - 16GB Memory - NVIDIA Quadro P2000 - 256GB Solid State Drive - Aluminum Black",True,1699.99,1699.99,824142163658
+,,True,MSI,"MSI - WS63 8SJ 15.6"" Laptop - Intel Core i7 - 16GB Memory - NVIDIA Quadro P2000 - 512GB Solid State Drive - Aluminum Black",True,2099.99,2099.99,824142164778
+,,True,MSI,"MSI - WE73 8SJ 17.3"" Laptop - Intel Core i7 - 32GB Memory - NVIDIA Quadro P2000 - 512GB Solid State Drive - Aluminum Black",True,2099.99,2099.99,824142163498
+,,False,MSI,"MSI - 15.6"" Laptop - Intel Core i7 - 32GB Memory - NVIDIA Quadro P3200 - 2TB Hard Drive + 512GB Solid State Drive - Aluminum Black",False,2799.99,2799.99,824142164723
+,,False,MSI,"MSI - WE73 8SK 17.3"" Laptop - Intel Core i7 - 32GB Memory - NVIDIA Quadro P3200 - 512GB Solid State Drive - Aluminum Black",False,2449.99,2449.99,824142163290
+,,True,MSI,"MSI - WE63 8SI 15.6"" Laptop - Intel Core i7 - 16GB Memory - NVIDIA Quadro P1000 - 256GB Solid State Drive - Aluminum Black",True,1549.99,1549.99,824142163702
+,,False,HP,"HP - 17.3"" Laptop - Intel Core i7 - 16GB Memory - NVIDIA GeForce GTX 1060 - 1TB Hard Drive + 128GB Solid State Drive - HP Sandblasted Hairline Brushing And Carbon Fiber",False,1469.99,1399.99,192545207942
+,,True,MSI,"MSI - 15.6"" 4K Ultra HD Laptop - Intel Core i7 - 32GB Memory - NVIDIA Quadro P4200 - 2TB HDD + 512GB SSD - Aluminum Black",True,3599.99,3599.99,824142164709
+,,False,HP,"HP - 17.3"" Laptop - Intel Core i7 - 12GB Memory - NVIDIA GeForce GTX 1050 Ti - 1TB Hard Drive + 128GB Solid State Drive - HP Sandblasted Hairline Brushing And Carbon Fiber",False,1219.99,1124.99,192545207928
+,,True,MSI,"MSI - WE73 8SK 17.3"" Laptop - Intel Xeon - 32GB Memory - NVIDIA Quadro P3200 - 512GB Solid State Drive - Aluminum Black",True,2749.99,2749.99,824142164556
+,,False,HP,"HP - Stream 14"" Laptop - Intel Celeron - 4GB Memory - 32GB eMMC Flash Memory - Textured Linear Grooves In Aqua Blue",False,219.99,219.99,192545545976
+,,False,HP,"HP - Stream 14"" Laptop - Intel Celeron - 4GB Memory - 64GB eMMC Flash Memory - Textured Linear Grooves Infinity Purple",False,299.99,299.99,192545545860
+,,False,HP,"HP - Stream 14"" Laptop - Intel Celeron - 4GB Memory - 64GB eMMC Flash Memory - Textured Linear Grooves In Infinity Purple",False,249.99,249.99,192545544993
+,,False,HP,"HP - Stream 14"" Laptop - Intel Celeron - 4GB Memory - 64GB eMMC Flash Memory - Textured Linear Grooves In Aqua Blue",False,299.99,299.99,192545545808
+,,False,HP,"HP - Stream 14"" Laptop - Intel Celeron - 4GB Memory - 64GB eMMC Flash Memory - Textured Linear Grooves In Smoke Gray",False,249.99,249.99,192545545433
+,,False,HP,"HP - Stream 14"" Laptop - Intel Celeron - 4GB Memory - 64GB eMMC Flash Memory - Textured Linear Grooves In Aqua Blue",False,249.99,249.99,192545544962
+,,False,HP,"HP - Stream 14"" Laptop - Intel Celeron - 4GB Memory - 64GB eMMC Flash Memory - Textured Linear Grooves In Smoke Gray",False,299.99,299.99,192545545891
+,,True,HP,"HP - Stream 14"" Laptop - Intel Celeron - 4GB Memory - 32GB eMMC Flash Memory - Textured Linear Grooves In Smoke Gray",True,219.99,219.99,192545545754
+,,False,HP,"HP - Stream 14"" Laptop - Intel Celeron - 4GB Memory - 32GB eMMC Flash Memory - Textured Linear Grooves In Infinity Purple",False,219.99,219.99,192545544894
+,,True,ASUS,"ASUS - ASUSPRO P2540UB 15.6"" Laptop - Intel Core i7 - 8GB Memory - NVIDIA GeForce MX110 - 256GB Solid State Drive - Black",True,899.99,899.99,192876036785
+,,True,HP,"HP - Pavilion x360 2-in-1 14"" Touch-Screen Laptop - Intel Core i5 - 8GB Memory - 256GB Solid State Drive - Silk Gold, HP Finish In Natural Silver",True,729.99,699.99,192545208598
+,,True,HP,"HP - OMEN 15.6"" Laptop - Intel Core i7 - 16GB Memory - NVIDIA GeForce GTX 1060 - 1TB Hard Drive + 128GB Solid State Drive - Shadow Black",True,1299.99,1249.99,192545208215
+,,True,HP,"HP - OMEN 15.6"" Laptop - Intel Core i7 - 12GB Memory - NVIDIA GeForce GTX 1050 Ti - 1TB Hard Drive + 128GB Solid State Drive - Shadow Black",True,1099.99,1049.99,192545212434
+,,True,HP,"HP - OMEN 15.6"" Laptop - Intel Core i5 - 12GB Memory - NVIDIA GeForce GTX 1050 Ti - 1TB Hard Drive + 128GB Solid State Drive - Shadow Black",True,979.99,929.99,192545212489
+,,True,HP,"HP - Pavilion x360 2-in-1 14"" Touch-Screen Laptop - Intel Core i3 - 8GB Memory - 500GB Hard Drive - Natural Silver, Ash Silver Vertical Brushed",True,529.99,529.99,192545958400
+,,True,Acer,"Acer - Switch V 10 2-in-1 10.1"" Touch-Screen Laptop - Intel Atom x5 - 4GB Memory - 64GB eMMC Flash Memory - Shale Black",True,369.99,369.99,888863922284
+,,True,Acer,"Acer - Swift 3 14"" Laptop - Intel Core i5 - 8GB Memory - 256GB Solid State Drive - Stellar Blue",True,649.99,649.99,191114451137
+,,True,Acer,"Acer - Spin 1 2-in-1 11.6"" Touch-Screen Laptop - Intel Celeron - 4GB Memory - 64GB eMMC Flash Memory - Gray",True,329.99,329.99,191114458631
+,,True,Acer,"Acer - Swift 3 14"" Laptop - Intel Core i5 - 8GB Memory - 256GB Solid State Drive - Sakura Pink",True,649.99,649.99,191114451144
+,,True,Acer,"Acer - Aspire 5 17.3"" Laptop - Intel Core i5 - 8GB Memory - 1TB Hard Drive - Obsidian Black",True,579.99,579.99,191114379950
+,,False,Acer,"Acer - 11.6"" Touch-Screen Chromebook - Intel Core i3 - 4GB Memory - 32GB eMMC Flash Memory - Black",False,429.0,429.0,191114470947
+,,True,Acer,"Acer - 15.6"" Laptop - AMD FX - 16GB Memory - AMD Radeon RX 540 - 1TB Hard Drive + 256GB Solid State Drive - Obsidian Black",True,749.99,749.99,191114565308
+,,True,Acer,"Acer - TravelMate 15.6"" Laptop - Intel Core i7 - 8GB Memory - 256GB Solid State Drive - Black",True,949.99,949.99,888863936946
+,,True,Acer,"Acer - Aspire 3 15.6"" Laptop - Intel Core i3 - 4GB Memory - 1TB Hard Drive - Oxidant Red",True,429.99,429.99,191114560822
+,,True,Acer,"Acer - TravelMate 15.6"" Laptop - Intel Core i7 - 8GB Memory - 256GB Solid State Drive - Black",True,1149.99,1149.99,888863680719
+,,True,Acer,"Acer - 2-in-1 15.6"" Touch-Screen Laptop - Intel Core i5 - 8GB Memory - NVIDIA GeForce 940MX - 1TB HDD + 128GB SSD - Steel Gray",True,749.99,749.99,191114412275
+,,True,Dell,"Dell - Inspiron 15.6"" Touch-Screen Laptop - Intel Core i7 - 32GB Memory - AMD Radeon 530 - 1TB Hard Drive - Platinum Silver",True,1249.99,1249.99,884116276807
+,,True,Dell,"Dell - 17.3"" Laptop - Intel Core i7 - 16GB Memory - NVIDIA GeForce GTX 1050 Ti - 1TB Hard Drive + 128GB Solid State Drive - Black",True,1099.99,1099.99,884116293927
+,,True,Dell,"Dell - Inspiron 15.6"" Laptop - AMD Ryzen 3 - 4GB Memory - 1TB Hard Drive - Platinum Silver",True,499.99,499.99,884116293392
+,,True,LG,"LG - gram 14"" Touch-Screen Laptop - Intel Core i7 - 8GB Memory - 512GB Solid State Drive - Dark Silver",True,1549.99,1549.99,719192618930
+,,True,LG,"LG - gram 15.6"" Touch-Screen Laptop - Intel Core i7 - 16GB Memory - 1.024TB Solid State Drive - Dark Silver",True,1999.99,1999.99,719192619395
+,,True,Acer,"Acer - Spin 1 2-in-1 11.6"" Refurbished Touch-Screen Laptop - Intel Celeron - 4GB Memory - 32GB eMMC Flash Memory - Gray",True,241.99,241.99,841631121746
+,,False,Acer,"Acer - 14"" Refurbished Chromebook - Intel Celeron - 4GB Memory - 16GB eMMC Flash Memory - Sparkly Silver",False,190.99,190.99,841631119743
+,,True,Acer,"Acer - Switch 5 2-in-1 12"" Refurbished Touch-Screen Laptop - Intel Core i7 - 8GB Memory - 512GB Solid State Drive - Gray",True,830.99,830.99,841631121401
+,,True,Acer,"Acer - 2-in-1 15.6"" Refurbished Touch-Screen Laptop Intel Core i7 12GB Memory NVIDIA GeForce 940MX 1TB HDD + 128GB SSD - Steel Gray",True,778.99,778.99,841631121418
+,,True,Acer,"Acer - Aspire E 15 15.6"" Refurbished Laptop - Intel Core i7 - 8GB Memory - NVIDIA GeForce MX150 - 256GB Solid State Drive - Obsidian Black",True,654.99,623.99,841631123306
+,,True,Acer,"Acer - Aspire 5 15.6"" Refurbished Laptop - Intel Core i5 - 8GB Memory - 256GB Solid State Drive - Obsidian Black",True,500.99,500.99,841631125225
+,,True,Acer,"Acer - 15.6"" Refurbished Chromebook - Intel Celeron - 4GB Memory - 16GB Solid State Drive - White",True,210.99,197.99,841631107191
+,,False,Acer,"Acer - Aspire 3 15.6"" Refurbished Laptop - Intel Core i3 - 8GB Memory - 1TB Hard Drive - Obsidian Black",False,344.99,344.99,841631121364
+,,True,Acer,"Acer - 13.3"" Refurbished Chromebook - Tegra K1 - 2GB Memory - 16GB eMMC Flash Memory - White",True,190.99,177.99,841631122989
+,,False,Acer,"Acer - 15.6"" Refurbished Chromebook - Intel Celeron - 2GB Memory - 16GB eMMC Flash Memory - Granite Gray",False,138.99,138.99,841631114311
+,,True,Acer,"Acer - 17.3"" Refurbished 4K Ultra HD Laptop - Intel Core i7 - 64GB Memory - NVIDIA GeForce GTX 1080 - 2TB HDD + 512GB SSD - Black",True,2380.99,2380.99,841631122217
+,,True,Acer,"Acer - Triton 700 15.6"" Refurbished Laptop - Intel Core i7 - 32GB Memory - NVIDIA GeForce GTX 1080 - 512GB SSD - Obsidian Black",True,2380.99,2281.99,841631121760
+,,True,Acer,"Acer - Spin 1 2-in-1 11.6"" Refurbished Touch-Screen Laptop - Intel Pentium - 4GB Memory - 64GB eMMC Flash Memory - Obsidian Black",True,344.99,344.99,841631120275
+,,True,Acer,"Acer - Aspire E 15 15.6"" Refurbished Laptop - Intel Core i5 - 8GB Memory - NVIDIA GeForce MX150 - 256GB Solid State Drive - Obsidian Black",True,561.99,561.99,841631122972
+,,True,Acer,"Acer - Spin 5 2-in-1 13.3"" Refurbished Touch-Screen Laptop - Intel Core i5 - 8GB Memory - 256GB Solid State Drive - Steel Gray",True,624.99,624.99,841631122934
+,,True,Acer,"Acer - 13.3"" Refurbished Chromebook - Tegra K1 - 2GB Memory - 16GB eMMC Flash Memory - White",True,190.99,190.99,841631118128
+,,False,Acer,"Acer - Aspire 5 15.6"" Refurbished Laptop - Intel Core i5 - 8GB Memory - NVIDIA GeForce MX150 - 256GB Solid State Drive - Obsidian Black",False,561.99,561.99,841631122620
+,,False,Acer,"Acer - 15.6"" Refurbished Laptop - Intel Core i7 - 16GB Memory - NVIDIA GeForce GTX 1050 Ti - 512GB Solid State Drive - Black",False,882.99,882.99,841631121395
+,,True,Acer,"Acer - 14"" Refurbished Chromebook - Intel Celeron - 4GB Memory - 32GB eMMC Flash Memory - Sparkly Silver",True,210.99,210.99,841631122897
+,,False,Acer,"Acer - Aspire 5 15.6"" Refurbished Laptop - Intel Core i5 - 8GB Memory - 1TB Hard Drive - Obsidian Black",False,416.99,416.99,841631121142
+,,True,Acer,"Acer - 15.6"" Refurbished Chromebook - Intel Celeron - 4GB Memory - 16GB eMMC Flash Memory - Granite Gray",True,190.99,168.99,841631123849
+,,False,Acer,"Acer - Nitro 5 15.6"" Refurbished Laptop - Intel Core i5 - 8GB Memory - NVIDIA GeForce GTX 1050 - 1TB Hard Drive - Black",False,654.99,654.99,841631122842
+,,True,Acer,"Acer - Aspire 1 14"" Refurbished Laptop - Intel Celeron - 4GB Memory - 32GB eMMC Flash Memory - Obsidian Black",True,199.99,199.99,841631123757
+,,False,Acer,"Acer - Helios 300 15.6"" Refurbished Laptop - Intel Core i7 - 16GB Memory - NVIDIA GeForce GTX 1060 - 512GB SSD - Obsidian Black",False,1088.99,1088.99,841631122835
+,,True,ASUS,"ASUS - 13.3"" Laptop - Intel Core i5 - 8GB Memory - 256GB Solid State Drive - Icicle Gold",True,899.99,899.99,192876018613
+,,True,ASUS,"ASUS - VivoBook Pro 15 15.6"" Laptop - Intel Core i7 - 8GB Memory - NVIDIA GeForce GTX 1050 - 1TB Hard Drive - Gold And Metal With Hairline Finish",True,1099.99,1099.99,192876052310
+,,True,ASUS,"ASUS - ZenBook S UX391UA 13.3"" 4K Ultra HD Touch-Screen Laptop - Intel Core i7 - 16GB Memory - 512GB SSD - Deep Dive Blue",True,1499.99,1499.99,192876009444
+,,True,ASUS,"ASUS - VivoBook F542UA 15.6"" Laptop - Intel Core i7 - 8GB Memory - 256GB Solid State Drive - Silver, Dark Gray",True,749.99,749.99,889349987216
+,,True,ASUS,"ASUS - VivoBook F705MA 17.3"" Laptop - Intel Pentium - 8GB Memory - 1TB Hard Drive - Star Gray",True,469.99,469.99,889349971253
+,,True,ASUS,"ASUS - Zephyrus M 15.6"" Laptop - Intel Core i7 - 16GB Memory - NVIDIA GeForce GTX 1060 - 1TB HDD + 256GB SSD - Black",True,1899.99,1899.99,192876003428
+,,False,ASUS,"ASUS - Strix GL504GS 15.6"" Laptop - Intel Core i7 - 16GB Memory - NVIDIA GeForce GTX 1070 - 1TB HDD + 256GB SSD - Black",False,1999.99,1999.99,192876068687
+,,True,ASUS,"ASUS - Strix Hero II GL504GM 15.6"" Laptop - Intel Core i7 - 16GB Memory - NVIDIA GeForce GTX 1060 - 1TB HDD + 256GB SSD - Black",True,1699.99,1699.99,192876068564
+,,True,HP,"HP - ZBook 14"" Laptop - Intel Core i5 - 4GB Memory - AMD FirePro W4190M - 500GB Hard Drive - Space Silver",True,639.99,639.99,191628553815
+,,True,Apple,"Apple - MacBook Pro 13.3"" Refurbished Laptop - Intel Core i5 - 8GB Memory - 256GB Solid State Drive - Space Gray",True,1399.99,1399.99,604714513766
+,,True,Apple,"Apple - MacBook 12"" Refurbished Laptop - Intel Core m3 - 8GB Memory - 256GB Solid State Drive - Rose Gold",True,969.99,969.99,604714513810
+,,False,Apple,"Apple - MacBook Pro 13.3"" Refurbished Laptop - Intel Core i5 - 8GB Memory - 256GB Solid State Drive - Space Gray",False,1599.99,1599.99,604714513827
+,,False,Apple,"Apple - 15.4"" Refurbished Laptop - Intel Core i7 - 16GB Memory - NVIDIA GeForce GT 750M - 512GB Solid State Drive - Silver",False,1099.99,1099.99,604714513742
+,,False,Apple,"Apple - MacBook 12"" Refurbished Laptop - Intel Core m3 - 8GB Memory - 256GB Solid State Drive - Space Gray",False,969.99,969.99,604714513803
+,,False,Apple,"Apple - MacBook Air 13.3"" Refurbished Laptop - Intel Core i5 - 4GB Memory - 256GB Solid State Drive - Silver",False,699.99,699.99,604714513773
+,,False,Apple,"Apple - MacBook Pro 15.4"" Refurbished Laptop - Intel Core i7 - 16GB Memory - AMD Radeon R9 M370X - 512GB Solid State Drive - Silver",False,1899.99,1899.99,604714513759
+,,True,Apple,"Apple - MacBook Air 13.3"" Refurbished Laptop - Intel Core i5 - 4GB Memory - 128GB Solid State Drive - Silver",True,729.99,729.99,604714513780
+,,True,Apple,"Apple - MacBook Air 13.3"" Refurbished Laptop - Intel Core i7 - 4GB Memory - 128GB Flash Storage - Silver",True,899.99,899.99,604714513797
+,,True,ASUS,"ASUS - VivoBook 15 15.6"" Laptop - Intel Core i3 - 4GB Memory - 1TB + 8GB Hybrid Hard Drive - Dark Brown, Gold",True,449.99,449.99,192876001578
+,,True,ASUS,"ASUS - VivoBook X540YA 15.6"" Laptop - AMD E2-Series - 4GB Memory - AMD Radeon R2 - 500GB Hard Drive - Gold, Chocolate Black",True,299.99,299.99,192876009420
+,,True,ASUS,"ASUS - VivoBook 15 15.6"" Laptop - Intel Core i7 - 8GB Memory - 1TB + 8GB Hybrid Hard Drive - Dark Brown, Gold",True,699.99,699.99,192876016817
+,,True,ASUS,"ASUS - VivoBook 15 15.6"" Laptop - AMD Ryzen 3 - 6GB Memory - 1TB + 8GB Hybrid Hard Drive - Metal Gold",True,499.99,499.99,192876018637
+,,True,ASUS,"ASUS - ASUSPRO P5440UF 14"" Laptop - Intel Core i7 - 16GB Memory - NVIDIA GeForce MX130 - 512GB Solid State Drive - Gray",True,1299.99,1299.99,192876037102
+,,True,ASUS,"ASUS - VivoBook F441BA 14"" Laptop - AMD A9-Series - 8GB Memory - AMD Radeon R5 - 256GB Solid State Drive - Gold, Chocolate Black",True,499.99,499.99,192876040553
+,,True,ASUS,"ASUS - Transformer Mini T103HA - 10.1"" - Tablet - 128GB - With Keyboard - Slate Gray",True,379.99,379.99,889349897461
+,,True,ASUS,"ASUS - 15.6"" Laptop - Intel Pentium Silver - 4GB Memory - 1TB Hard Drive - Dark Brown, Gold",True,349.0,349.0,889349979945
+,,True,ASUS,"ASUS - VivoBook 15 15.6"" Laptop - Intel Core i5 - 8GB Memory - 1TB + 8GB Hybrid Hard Drive - Black",True,599.99,599.99,889349987025
+,,False,HP,"HP - EliteBook 14"" Refurbished Laptop - Intel Core i5 - 4GB Memory - 500GB Hard Drive - Gray/Silver",False,264.99,264.99,812177025317
+,,False,Lenovo,"Lenovo - 14"" Refurbished Laptop - Intel Core i5 - 4GB Memory - 160GB Hard Drive - Black",False,263.99,263.99,812177025348
