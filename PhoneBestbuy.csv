@@ -1,0 +1,282 @@
+customerReviewAverage,customerReviewCount,inStoreAvailability,manufacturer,name,onlineAvailability,regularPrice,salePrice,upc
+2.0,3.0,True,Samsung,Samsung - Galaxy J7 Perx 16GB - Black (Sprint),False,309.99,309.99,887276189529
+3.0,2.0,True,LG,LG - X Charge 16GB - Titanium (Sprint),False,349.99,309.99,652810818780
+3.5,2.0,False,LG,LG - X Venture 32GB - Black (AT&T),True,329.99,329.99,652810817400
+3.5,4.0,True,Samsung,Samsung - Galaxy J3 (2018) (AT&T),True,209.99,209.99,887276262055
+3.6,13.0,True,Essential,Essential - Essential Phone 128GB - Pure White (Sprint),False,534.98,484.98,857083007057
+3.7,3.0,False,BlackBerry,BlackBerry - KEYone 32GB - Black (Sprint),False,579.99,517.99,889063020848
+3.8,6.0,True,ZTE,ZTE - Axon M 64GB - Carbon Black (AT&T),True,724.99,724.99,885913106038
+3.8,6.0,True,Samsung,Samsung - Galaxy J3 TOP - Black (Verizon),True,168.0,168.0,887276259765
+3.9,15.0,True,Google,Google - Pixel 2 128GB - Clearly White (Verizon),True,749.99,749.99,842776101211
+3.9,15.0,True,Google,Google - Pixel 2 128GB - Just Black (Verizon),True,749.99,749.99,842776101204
+4.0,4.0,True,Samsung,Samsung - Galaxy S8 Active 64GB - Active Gray (Sprint),False,889.99,889.99,887276242415
+4.0,1.0,True,Samsung,Samsung - Galaxy J3 Achieve (2018) - Black (Sprint),False,229.99,229.99,887276257563
+4.0,1.0,True,Samsung,Samsung - Galaxy J7 (2018) - Black (AT&T),False,269.99,269.99,887276261423
+4.1,15.0,True,Motorola,Motorola - Moto E4 16GB - Licorice Black (Sprint),False,199.99,179.99,723755011588
+4.1,24.0,True,Motorola,Motorola - Moto Z2 Force Edition 64GB - Fine Gold (Sprint),False,819.99,819.99,723755011694
+4.1,15.0,True,Motorola,Motorola - Moto E4 Plus 16GB - Iron Gray (Sprint),False,309.99,309.99,723755011830
+4.1,24.0,True,Motorola,Motorola - Moto Z2 Force Edition 64GB - Super Black (Sprint),False,819.99,819.99,723755011687
+4.2,49.0,True,LG,LG - V20 64GB - Titan (Verizon),True,729.99,672.0,652810816939
+4.2,80.0,True,LG,LG - Stylo 3 16GB - Black (Sprint),False,309.99,309.99,652810817387
+4.3,214.0,True,Samsung,Samsung - Galaxy J3 Emerge 16GB - Silver (Sprint),False,199.99,179.99,887276186887
+4.3,3.0,True,Motorola,Motorola - Moto G6 Play - Deep Indigo (AT&T),True,179.99,179.99,723755125971
+4.4,35.0,True,Motorola,Motorola - Moto Z2 Force Edition 64GB - Super Black (AT&T),True,544.99,544.99,723755012271
+4.4,116.0,True,Motorola,Motorola - Moto Z2 Force Edition 64GB - Super Black (Verizon),True,756.0,756.0,723755011519
+4.4,7.0,True,LG,LG - G7 ThinQ with 64GB Memory Cell Phone - Platinum Gray (Sprint),False,829.99,829.99,652810830485
+4.5,333.0,True,LG,LG - G6 32GB - Platinum (Sprint),False,519.99,519.99,652810817677
+4.5,270.0,True,Samsung,Samsung - Galaxy J7 16GB - Silver (Verizon),True,299.99,240.0,887276195223
+4.5,12.0,True,Samsung,Samsung - Galaxy J3 16GB - Silver (AT&T),True,179.99,179.99,887276199498
+4.5,124.0,True,Motorola,Motorola - Moto Z2 Play 32GB - Lunar Gray (Verizon),True,408.0,408.0,723755011243
+4.5,15.0,True,LG,LG - Exalt VN220 8GB - Silver (Verizon),True,168.0,168.0,652810800723
+4.5,68.0,True,Google,Google - Pixel 2 XL 128GB - Black & White (Verizon),False,949.99,949.99,842776101495
+4.5,69.0,True,Google,Google - Pixel 2 XL 128GB - Just Black (Verizon),True,949.99,949.99,842776101488
+4.5,217.0,True,Google,Google - Pixel 2 64GB - Just Black (Verizon),True,649.99,649.99,842776101174
+4.5,217.0,True,Google,Google - Pixel 2 64GB - Kinda Blue (Verizon),True,649.99,649.99,842776101198
+4.5,217.0,True,Google,Google - Pixel 2 64GB - Clearly White (Verizon),True,649.99,649.99,842776101181
+4.5,2.0,True,LG,LG - Tribute Dynasty 16GB - Champagne (Sprint),False,179.99,130.99,652810819039
+4.6,3121.0,True,Samsung,Samsung - Galaxy S7 edge 32GB - Black Onyx (AT&T),True,629.99,629.99,887276149707
+4.6,3121.0,True,Samsung,Samsung - Galaxy S7 edge 32GB - Gold Platinum (AT&T),True,629.99,629.99,887276135274
+4.6,193.0,True,LG,LG - G6 32GB - Black (Verizon),True,729.99,672.0,652810817523
+4.6,193.0,True,LG,LG - G6 32GB - Platinum (Verizon),True,729.99,672.0,652810817547
+4.6,60.0,False,LG,LG - G6 32GB - Black (AT&T),True,584.99,584.99,652810817837
+4.6,60.0,True,LG,LG - G6 32GB - Platinum (AT&T),True,529.99,529.99,652810817844
+4.6,120.0,True,Samsung,Samsung - Galaxy J3 Eclipse 16GB - Black (Verizon),True,168.0,168.0,887276214214
+4.6,14.0,True,LG,LG - V30 64GB - Aurora Black (AT&T),False,799.99,799.99,652810819176
+4.6,14.0,False,LG,LG - V30 64GB - Cloud Silver (AT&T),False,749.99,749.99,652810818902
+4.6,282.0,True,Google,Google - Pixel 2 XL 64GB - Just Black (Verizon),True,849.99,849.99,842776101464
+4.6,282.0,True,Google,Google - Pixel 2 XL 64GB - Black & White (Verizon),True,849.99,849.99,842776101471
+4.7,1243.0,True,Apple,Apple - iPhone 8 64GB - (PRODUCT)RED™ Special Edition (AT&T),True,749.99,749.99,400055803395
+4.7,3151.0,True,Apple,Apple - iPhone 7 128GB - Jet Black (AT&T),True,699.99,699.99,400055803708
+4.7,3151.0,True,Apple,Apple - iPhone 7 128GB - Rose Gold (AT&T),True,699.99,699.99,400055803715
+4.7,3151.0,True,Apple,Apple - iPhone 7 128GB - Gold (AT&T),True,699.99,699.99,400055803722
+4.7,3151.0,True,Apple,Apple - iPhone 7 128GB - Silver (AT&T),True,699.99,699.99,400055803739
+4.7,3151.0,True,Apple,Apple - iPhone 7 128GB - Black (AT&T),True,699.99,699.99,400055803753
+4.7,919.0,True,Apple,Apple - iPhone 6s 32GB - Space Gray (AT&T),True,499.99,499.99,400055803777
+4.7,919.0,True,Apple,Apple - iPhone 6s 32GB - Rose Gold (AT&T),True,499.99,499.99,400055803944
+4.7,919.0,True,Apple,Apple - iPhone 6s 32GB - Gold (AT&T),True,499.99,499.99,400055803951
+4.7,919.0,True,Apple,Apple - iPhone 6s 32GB - Silver (AT&T),True,499.99,499.99,400055803968
+4.7,501.0,True,Apple,Apple - iPhone 8 256GB - (PRODUCT)RED™ Special Edition (AT&T),True,899.99,899.99,400055803975
+4.7,26.0,True,Apple,Apple - iPhone 6s Plus 128GB - Space Gray (AT&T),True,699.99,699.99,400055803982
+4.7,26.0,True,Apple,Apple - iPhone 6s Plus 128GB - Rose Gold (AT&T),True,699.99,699.99,400055803999
+4.7,26.0,True,Apple,Apple - iPhone 6s Plus 128GB - Gold (AT&T),True,699.99,699.99,400055804002
+4.7,26.0,True,Apple,Apple - iPhone 6s Plus 128GB - Silver (AT&T),True,699.99,699.99,400055804019
+4.7,916.0,True,Apple,Apple - iPhone 8 64GB - (PRODUCT)RED™ Special Edition (Sprint),False,749.99,749.99,400055807058
+4.7,309.0,True,Apple,Apple - iPhone 6s 32GB - Space Gray (Sprint),False,499.99,499.99,400055807072
+4.7,2303.0,True,Apple,Apple - iPhone 7 32GB - Rose Gold (Sprint),False,599.99,599.99,400055807133
+4.7,2303.0,True,Apple,Apple - iPhone 7 32GB - Gold (Sprint),False,599.99,599.99,400055807140
+4.7,2303.0,True,Apple,Apple - iPhone 7 32GB - Silver (Sprint),False,599.99,599.99,400055807157
+4.7,2303.0,True,Apple,Apple - iPhone 7 32GB - Black (Sprint),False,599.99,599.99,400055807164
+4.7,1822.0,True,Apple,Apple - iPhone 7 128GB - Jet Black (Sprint),False,699.99,699.99,400055807270
+4.7,1822.0,True,Apple,Apple - iPhone 7 128GB - Rose Gold (Sprint),False,699.99,699.99,400055807287
+4.7,1822.0,True,Apple,Apple - iPhone 7 128GB - Gold (Sprint),False,699.99,699.99,400055807300
+4.7,1822.0,True,Apple,Apple - iPhone 7 128GB - Silver (Sprint),False,699.99,699.99,400055807317
+4.7,1822.0,True,Apple,Apple - iPhone 7 128GB - Black (Sprint),False,699.99,699.99,400055807324
+4.7,309.0,True,Apple,Apple - iPhone 6s 32GB - Rose Gold (Sprint),False,499.99,499.99,400055807355
+4.7,309.0,True,Apple,Apple - iPhone 6s 32GB - Gold (Sprint),False,499.99,499.99,400055807379
+4.7,309.0,True,Apple,Apple - iPhone 6s 32GB - Silver (Sprint),False,499.99,499.99,400055807386
+4.7,210.0,True,Apple,Apple - iPhone 8 256GB - (PRODUCT)RED™ Special Edition (Sprint),False,899.99,899.99,400055807393
+4.7,1246.0,True,Apple,Apple - iPhone 8 64GB - (PRODUCT)RED™ Special Edition (Verizon),True,749.99,749.99,400055809618
+4.7,1251.0,True,Apple,Apple - iPhone 6s 32GB - Space Gray (Verizon),True,499.99,499.99,400055809779
+4.7,3087.0,True,Apple,Apple - iPhone 7 32GB - Rose Gold (Verizon),True,599.99,599.99,400055815831
+4.7,3087.0,True,Apple,Apple - iPhone 7 32GB - Gold (Verizon),True,599.99,599.99,400055815848
+4.7,3087.0,True,Apple,Apple - iPhone 7 32GB - Silver (Verizon),True,599.99,599.99,400055815855
+4.7,3087.0,True,Apple,Apple - iPhone 7 32GB - Black (Verizon),True,599.99,599.99,400055815862
+4.7,2770.0,True,Apple,Apple - iPhone 7 128GB - Jet Black (Verizon),True,699.99,699.99,400055815930
+4.7,2770.0,True,Apple,Apple - iPhone 7 128GB - Rose Gold (Verizon),True,699.99,699.99,400055815947
+4.7,2770.0,True,Apple,Apple - iPhone 7 128GB - Gold (Verizon),True,699.99,699.99,400055815954
+4.7,2770.0,True,Apple,Apple - iPhone 7 128GB - Silver (Verizon),True,699.99,699.99,400055815961
+4.7,2770.0,True,Apple,Apple - iPhone 7 128GB - Black (Verizon),True,699.99,699.99,400055815978
+4.7,1251.0,True,Apple,Apple - iPhone 6s 32GB - Rose Gold (Verizon),True,499.99,499.99,400055815985
+4.7,1251.0,True,Apple,Apple - iPhone 6s 32GB - Gold (Verizon),True,499.99,499.99,400055815992
+4.7,1251.0,True,Apple,Apple - iPhone 6s 32GB - Silver (Verizon),True,499.99,499.99,400055816005
+4.7,461.0,True,Apple,Apple - iPhone 8 256GB - (PRODUCT)RED™ Special Edition (Verizon),True,899.99,899.99,400055816012
+4.7,1262.0,True,Samsung,Samsung - Galaxy S8 64GB - Arctic Silver (AT&T),True,654.99,654.99,887276208978
+4.7,1262.0,True,Samsung,Samsung - Galaxy S8 64GB - Midnight Black (AT&T),True,654.99,654.99,887276202457
+4.7,1262.0,True,Samsung,Samsung - Galaxy S8 64GB - Orchid Gray (AT&T),True,654.99,654.99,887276214726
+4.7,1711.0,True,Samsung,Samsung - Galaxy S8 64GB - Arctic Silver (Sprint),False,699.99,699.99,887276213682
+4.7,1711.0,True,Samsung,Samsung - Galaxy S8 64GB - Midnight Black (Sprint),False,699.99,699.99,887276201627
+4.7,1711.0,True,Samsung,Samsung - Galaxy S8 64GB - Orchid Gray (Sprint),False,699.99,699.99,887276207674
+4.7,3736.0,True,Samsung,Samsung - Galaxy S8 64GB - Orchid Gray (Verizon),False,672.0,672.0,887276207667
+4.7,3736.0,True,Samsung,Samsung - Galaxy S8 64GB - Midnight Black (Verizon),True,672.0,672.0,887276201078
+4.7,349.0,True,Apple,Apple - iPhone SE 32GB - Space Gray (AT&T),False,399.99,399.99,190198296498
+4.7,19.0,True,Samsung,Samsung - Galaxy J7 16GB - Black (AT&T),True,239.99,239.99,887276200972
+4.7,1583.0,True,Apple,Apple - iPhone X 256GB - Space Gray (AT&T),True,1199.99,1199.99,400060096645
+4.7,1583.0,True,Apple,Apple - iPhone X 256GB - Silver (AT&T),True,1199.99,1199.99,400060096713
+4.7,501.0,True,Apple,Apple - iPhone 8 256GB - Space Gray (AT&T),True,899.99,899.99,400060096959
+4.7,501.0,True,Apple,Apple - iPhone 8 256GB - Gold (AT&T),True,899.99,899.99,400060096973
+4.7,501.0,True,Apple,Apple - iPhone 8 256GB - Silver (AT&T),True,899.99,899.99,400060097017
+4.7,1243.0,True,Apple,Apple - iPhone 8 64GB - Space Gray (AT&T),True,749.99,749.99,400060097093
+4.7,1243.0,True,Apple,Apple - iPhone 8 64GB - Gold (AT&T),True,749.99,749.99,400060097109
+4.7,1243.0,True,Apple,Apple - iPhone 8 64GB - Silver (AT&T),True,749.99,749.99,400060097154
+4.7,210.0,True,Apple,Apple - iPhone 8 256GB - Space Gray (Sprint),False,899.99,899.99,400060098007
+4.7,210.0,True,Apple,Apple - iPhone 8 256GB - Gold (Sprint),False,899.99,899.99,400060098021
+4.7,210.0,True,Apple,Apple - iPhone 8 256GB - Silver (Sprint),False,899.99,899.99,400060098076
+4.7,916.0,True,Apple,Apple - iPhone 8 64GB - Space Gray (Sprint),False,749.99,749.99,400060098151
+4.7,916.0,True,Apple,Apple - iPhone 8 64GB - Gold (Sprint),False,749.99,749.99,400060098168
+4.7,916.0,True,Apple,Apple - iPhone 8 64GB - Silver (Sprint),False,749.99,749.99,400060098205
+4.7,2303.0,True,Apple,Apple - iPhone 7 32GB - Jet Black (Sprint),False,599.99,599.99,400060098526
+4.7,986.0,True,Apple,Apple - iPhone X 64GB - Space Gray (Verizon),True,1049.99,1049.99,400060099011
+4.7,986.0,True,Apple,Apple - iPhone X 64GB - Silver (Verizon),True,1049.99,1049.99,400060099073
+4.7,461.0,True,Apple,Apple - iPhone 8 256GB - Space Gray (Verizon),True,899.99,899.99,400060099165
+4.7,461.0,True,Apple,Apple - iPhone 8 256GB - Gold (Verizon),True,899.99,899.99,400060099172
+4.7,461.0,True,Apple,Apple - iPhone 8 256GB - Silver (Verizon),True,899.99,899.99,400060099233
+4.7,1246.0,True,Apple,Apple - iPhone 8 64GB - Space Gray (Verizon),True,749.99,749.99,400060099318
+4.7,1246.0,True,Apple,Apple - iPhone 8 64GB - Gold (Verizon),True,749.99,749.99,400060099325
+4.7,1246.0,True,Apple,Apple - iPhone 8 64GB - Silver (Verizon),True,749.99,749.99,400060099370
+4.7,3087.0,True,Apple,Apple - iPhone 7 32GB - Jet Black (Verizon),True,599.99,599.99,400060099707
+4.7,7.0,True,LG,LG - V30 64GB - Cloud Silver (Verizon),True,839.99,792.0,652810819237
+4.7,837.0,True,Samsung,Samsung - Galaxy S9 64GB - Midnight Black (Verizon),True,792.0,792.0,887276244198
+4.7,837.0,True,Samsung,Samsung - Galaxy S9 64GB - Coral Blue (Verizon),True,792.0,792.0,887276256078
+4.7,837.0,True,Samsung,Samsung - Galaxy S9 64GB - Lilac Purple (Verizon),True,792.0,792.0,887276256054
+4.7,308.0,True,Samsung,Samsung - Galaxy S9 64GB - Midnight Black (Sprint),False,829.99,829.99,887276245966
+4.7,308.0,True,Samsung,Samsung - Galaxy S9 64GB - Coral Blue (Sprint),False,829.99,829.99,887276252292
+4.7,308.0,True,Samsung,Samsung - Galaxy S9 64GB - Lilac Purple (Sprint),False,829.99,829.99,887276255064
+4.7,366.0,True,Samsung,Samsung - Galaxy S9 64GB - Midnight Black (AT&T),True,789.99,789.99,887276247052
+4.7,366.0,True,Samsung,Samsung - Galaxy S9 64GB - Coral Blue (AT&T),True,789.99,789.99,887276254555
+4.7,366.0,True,Samsung,Samsung - Galaxy S9 64GB - Lilac Purple (AT&T),True,789.99,789.99,887276254562
+4.7,82.0,True,Samsung,Samsung - Galaxy S9 64GB - Sunrise Gold (Verizon),True,792.0,792.0,887276256061
+4.7,26.0,True,Motorola,Motorola - Moto G6 with 32GB Memory Cell Phone - Black (Verizon),True,240.0,240.0,723755019386
+4.7,308.0,True,Samsung,Samsung - Galaxy S9 64GB - Sunrise Gold (Sprint),False,829.99,829.99,887276282442
+4.8,343.0,True,Apple,Apple - iPhone 6s 128GB - Rose Gold (AT&T),True,599.99,599.99,400054393002
+4.8,297.0,True,Apple,Apple - iPhone 6s 128GB - Rose Gold (Sprint),False,599.99,599.99,400054394009
+4.8,381.0,True,Apple,Apple - iPhone 6s 128GB - Rose Gold (Verizon),True,599.99,599.99,400054395013
+4.8,2446.0,True,Apple,Apple - iPhone 7 32GB - Rose Gold (AT&T),True,599.99,599.99,400055803418
+4.8,2446.0,True,Apple,Apple - iPhone 7 32GB - Gold (AT&T),True,599.99,599.99,400055803555
+4.8,2446.0,True,Apple,Apple - iPhone 7 32GB - Silver (AT&T),True,599.99,599.99,400055803579
+4.8,2446.0,True,Apple,Apple - iPhone 7 32GB - Black (AT&T),True,599.99,599.99,400055803586
+4.8,211.0,True,Apple,Apple - iPhone 6s Plus 32GB - Space Gray (AT&T),True,599.99,599.99,400055803593
+4.8,211.0,True,Apple,Apple - iPhone 6s Plus 32GB - Rose Gold (AT&T),True,599.99,599.99,400055803630
+4.8,211.0,True,Apple,Apple - iPhone 6s Plus 32GB - Gold (AT&T),True,599.99,599.99,400055803647
+4.8,211.0,True,Apple,Apple - iPhone 6s Plus 32GB - Silver (AT&T),True,599.99,599.99,400055803685
+4.8,1351.0,True,Apple,Apple - iPhone 7 Plus 32GB - Rose Gold (AT&T),True,719.99,719.99,400055804217
+4.8,1351.0,True,Apple,Apple - iPhone 7 Plus 32GB - Gold (AT&T),True,719.99,719.99,400055804224
+4.8,1351.0,True,Apple,Apple - iPhone 7 Plus 32GB - Silver (AT&T),True,719.99,719.99,400055804231
+4.8,1351.0,True,Apple,Apple - iPhone 7 Plus 32GB - Black (AT&T),True,719.99,719.99,400055804248
+4.8,343.0,True,Apple,Apple - iPhone 6s 128GB - Space Gray (AT&T),True,599.99,599.99,400055804262
+4.8,1736.0,True,Apple,Apple - iPhone 8 Plus 64GB - (PRODUCT)RED™ Special Edition (AT&T),True,849.99,849.99,400055804279
+4.8,343.0,True,Apple,Apple - iPhone 6s 128GB - Gold (AT&T),True,599.99,599.99,400055804286
+4.8,343.0,True,Apple,Apple - iPhone 6s 128GB - Silver (AT&T),True,599.99,599.99,400055804293
+4.8,1301.0,True,Apple,Apple - iPhone 8 Plus 256GB - (PRODUCT)RED™ Special Edition (AT&T),True,999.99,999.99,400055804316
+4.8,3273.0,True,Apple,Apple - iPhone 7 Plus 128GB - Jet Black (AT&T),True,819.99,819.99,400055804385
+4.8,3273.0,True,Apple,Apple - iPhone 7 Plus 128GB - Rose Gold (AT&T),True,819.99,819.99,400055804415
+4.8,3273.0,True,Apple,Apple - iPhone 7 Plus 128GB - Gold (AT&T),True,819.99,819.99,400055804439
+4.8,3273.0,True,Apple,Apple - iPhone 7 Plus 128GB - Silver (AT&T),True,819.99,819.99,400055804446
+4.8,3273.0,True,Apple,Apple - iPhone 7 Plus 128GB - Black (AT&T),True,819.99,819.99,400055804460
+4.8,151.0,True,Apple,Apple - iPhone 6s Plus 32GB - Space Gray (Sprint),False,599.99,599.99,400055807065
+4.8,2437.0,True,Apple,Apple - iPhone 7 Plus 128GB - Jet Black (Sprint),False,819.99,819.99,400055807102
+4.8,151.0,True,Apple,Apple - iPhone 6s Plus 32GB - Rose Gold (Sprint),False,599.99,599.99,400055807171
+4.8,151.0,True,Apple,Apple - iPhone 6s Plus 32GB - Gold (Sprint),False,599.99,599.99,400055807218
+4.8,151.0,True,Apple,Apple - iPhone 6s Plus 32GB - Silver (Sprint),False,599.99,599.99,400055807225
+4.8,1560.0,True,Apple,Apple - iPhone 7 Plus 32GB - Rose Gold (Sprint),False,719.99,719.99,400055807546
+4.8,1560.0,True,Apple,Apple - iPhone 7 Plus 32GB - Gold (Sprint),False,719.99,719.99,400055807553
+4.8,1560.0,True,Apple,Apple - iPhone 7 Plus 32GB - Silver (Sprint),False,719.99,719.99,400055807584
+4.8,1560.0,True,Apple,Apple - iPhone 7 Plus 32GB - Black (Sprint),False,719.99,719.99,400055808895
+4.8,297.0,True,Apple,Apple - iPhone 6s 128GB - Space Gray (Sprint),False,599.99,599.99,400055809045
+4.8,1467.0,True,Apple,Apple - iPhone 8 Plus 64GB - (PRODUCT)RED™ Special Edition (Sprint),False,849.99,849.99,400055809069
+4.8,297.0,True,Apple,Apple - iPhone 6s 128GB - Gold (Sprint),False,599.99,599.99,400055809083
+4.8,297.0,True,Apple,Apple - iPhone 6s 128GB - Silver (Sprint),False,599.99,599.99,400055809090
+4.8,637.0,True,Apple,Apple - iPhone 8 Plus 256GB - (PRODUCT)RED™ Special Edition (Sprint),False,999.99,999.99,400055809120
+4.8,2437.0,True,Apple,Apple - iPhone 7 Plus 128GB - Rose Gold (Sprint),False,819.99,819.99,400055809489
+4.8,2437.0,True,Apple,Apple - iPhone 7 Plus 128GB - Gold (Sprint),False,819.99,819.99,400055809496
+4.8,2437.0,True,Apple,Apple - iPhone 7 Plus 128GB - Silver (Sprint),False,819.99,819.99,400055809502
+4.8,2437.0,True,Apple,Apple - iPhone 7 Plus 128GB - Black (Sprint),False,819.99,819.99,400055809519
+4.8,436.0,True,Apple,Apple - iPhone 6s Plus 32GB - Space Gray (Verizon),True,599.99,599.99,400055809663
+4.8,2751.0,True,Apple,Apple - iPhone 7 Plus 128GB - Jet Black (Verizon),True,819.99,819.99,400055809809
+4.8,2751.0,True,Apple,Apple - iPhone 7 Plus 128GB - Rose Gold (Verizon),True,819.99,819.99,400055810102
+4.8,436.0,True,Apple,Apple - iPhone 6s Plus 32GB - Rose Gold (Verizon),True,599.99,599.99,400055815886
+4.8,436.0,True,Apple,Apple - iPhone 6s Plus 32GB - Gold (Verizon),True,599.99,599.99,400055815909
+4.8,436.0,True,Apple,Apple - iPhone 6s Plus 32GB - Silver (Verizon),True,599.99,599.99,400055815916
+4.8,17.0,True,Apple,Apple - iPhone 6s Plus 128GB - Space Gray (Verizon),True,699.99,699.99,400055816029
+4.8,17.0,True,Apple,Apple - iPhone 6s Plus 128GB - Rose Gold (Verizon),True,699.99,699.99,400055816036
+4.8,17.0,True,Apple,Apple - iPhone 6s Plus 128GB - Gold (Verizon),True,699.99,699.99,400055816043
+4.8,17.0,True,Apple,Apple - iPhone 6s Plus 128GB - Silver (Verizon),True,699.99,699.99,400055816050
+4.8,1454.0,True,Apple,Apple - iPhone 7 Plus 32GB - Rose Gold (Verizon),True,719.99,719.99,400055816128
+4.8,1454.0,True,Apple,Apple - iPhone 7 Plus 32GB - Gold (Verizon),True,719.99,719.99,400055816135
+4.8,1454.0,True,Apple,Apple - iPhone 7 Plus 32GB - Silver (Verizon),True,719.99,719.99,400055816142
+4.8,1454.0,True,Apple,Apple - iPhone 7 Plus 32GB - Black (Verizon),True,719.99,719.99,400055816159
+4.8,381.0,True,Apple,Apple - iPhone 6s 128GB - Space Gray (Verizon),True,599.99,599.99,400055816166
+4.8,1634.0,True,Apple,Apple - iPhone 8 Plus 64GB - (PRODUCT)RED™ Special Edition (Verizon),True,849.99,849.99,400055816173
+4.8,381.0,True,Apple,Apple - iPhone 6s 128GB - Gold (Verizon),True,599.99,599.99,400055816180
+4.8,381.0,True,Apple,Apple - iPhone 6s 128GB - Silver (Verizon),True,599.99,599.99,400055816197
+4.8,1172.0,True,Apple,Apple - iPhone 8 Plus 256GB - (PRODUCT)RED™ Special Edition (Verizon),True,999.99,999.99,400055816210
+4.8,2751.0,True,Apple,Apple - iPhone 7 Plus 128GB - Gold (Verizon),True,819.99,819.99,400055816272
+4.8,2751.0,True,Apple,Apple - iPhone 7 Plus 128GB - Silver (Verizon),True,819.99,819.99,400055816289
+4.8,2751.0,True,Apple,Apple - iPhone 7 Plus 128GB - Black (Verizon),True,819.99,819.99,400055816296
+4.8,4.0,True,LG,LG - X Power 16GB - Black (Sprint),False,309.99,309.99,652810519861
+4.8,1875.0,True,Samsung,Samsung - Galaxy S8+ 64GB - Orchid Gray (AT&T),True,754.99,754.99,887276214795
+4.8,1875.0,True,Samsung,Samsung - Galaxy S8+ 64GB - Arctic Silver (AT&T),True,754.99,754.99,887276209197
+4.8,1875.0,True,Samsung,Samsung - Galaxy S8+ 64GB - Midnight Black (AT&T),True,754.99,754.99,887276202297
+4.8,1961.0,True,Samsung,Samsung - Galaxy S8+ 64GB - Arctic Silver (Sprint),False,779.99,779.99,887276213651
+4.8,1961.0,True,Samsung,Samsung - Galaxy S8+ 64GB - Midnight Black (Sprint),False,779.99,779.99,887276202280
+4.8,1961.0,True,Samsung,Samsung - Galaxy S8+ 64GB - Orchid Gray (Sprint),False,779.99,779.99,887276206790
+4.8,3654.0,True,Samsung,Samsung - Galaxy S8+ 64GB - Midnight Black (Verizon),True,768.0,768.0,887276201450
+4.8,3654.0,True,Samsung,Samsung - Galaxy S8+ 64GB - Arctic Silver (Verizon),True,768.0,768.0,887276206653
+4.8,3654.0,True,Samsung,Samsung - Galaxy S8+ 64GB - Orchid Gray (Verizon),True,768.0,768.0,887276207001
+4.8,56.0,True,Apple,Apple - iPhone SE 128GB - Rose Gold (AT&T),True,499.99,499.99,190198296726
+4.8,56.0,True,Apple,Apple - iPhone SE 128GB - Silver (AT&T),True,499.99,499.99,190198296702
+4.8,56.0,True,Apple,Apple - iPhone SE 128GB - Gold (AT&T),True,499.99,499.99,190198296719
+4.8,57.0,True,Apple,Apple - iPhone SE 128GB - Gold (Verizon),True,499.99,499.99,190198296795
+4.8,88.0,True,Samsung,Samsung - Galaxy S8 Active 64GB - Meteor Gray (AT&T),False,849.99,849.99,887276224169
+4.8,1736.0,True,Apple,Apple - iPhone 8 Plus 64GB - Space Gray (AT&T),True,849.99,849.99,400059991029
+4.8,1467.0,True,Apple,Apple - iPhone 8 Plus 64GB - Space Gray (Sprint),False,849.99,849.99,400059991036
+4.8,1634.0,True,Apple,Apple - iPhone 8 Plus 64GB - Space Gray (Verizon),True,849.99,849.99,400059991050
+4.8,1301.0,True,Apple,Apple - iPhone 8 Plus 256GB - Space Gray (AT&T),True,999.99,999.99,400060096386
+4.8,1301.0,True,Apple,Apple - iPhone 8 Plus 256GB - Gold (AT&T),True,999.99,999.99,400060096393
+4.8,1301.0,True,Apple,Apple - iPhone 8 Plus 256GB - Silver (AT&T),True,999.99,999.99,400060096447
+4.8,1736.0,True,Apple,Apple - iPhone 8 Plus 64GB - Gold (AT&T),True,849.99,849.99,400060096591
+4.8,1736.0,True,Apple,Apple - iPhone 8 Plus 64GB - Silver (AT&T),True,849.99,849.99,400060096638
+4.8,1145.0,True,Apple,Apple - iPhone X 64GB - Space Gray (AT&T),True,1049.99,1049.99,400060096805
+4.8,1145.0,True,Apple,Apple - iPhone X 64GB - Silver (AT&T),True,1049.99,1049.99,400060096867
+4.8,1351.0,True,Apple,Apple - iPhone 7 Plus 32GB - Jet Black (AT&T),True,719.99,719.99,400060097253
+4.8,2446.0,True,Apple,Apple - iPhone 7 32GB - Jet Black (AT&T),True,599.99,599.99,400060097437
+4.8,637.0,True,Apple,Apple - iPhone 8 Plus 256GB - Space Gray (Sprint),False,999.99,999.99,400060097475
+4.8,637.0,True,Apple,Apple - iPhone 8 Plus 256GB - Gold (Sprint),False,999.99,999.99,400060097482
+4.8,637.0,True,Apple,Apple - iPhone 8 Plus 256GB - Silver (Sprint),False,999.99,999.99,400060097536
+4.8,1467.0,True,Apple,Apple - iPhone 8 Plus 64GB - Gold (Sprint),False,849.99,849.99,400060097680
+4.8,1467.0,True,Apple,Apple - iPhone 8 Plus 64GB - Silver (Sprint),False,849.99,849.99,400060097727
+4.8,749.0,True,Apple,Apple - iPhone X 256GB - Space Gray (Sprint),False,1199.99,1199.99,400060097734
+4.8,749.0,True,Apple,Apple - iPhone X 256GB - Silver (Sprint),False,1199.99,1199.99,400060097796
+4.8,898.0,True,Apple,Apple - iPhone X 64GB - Space Gray (Sprint),False,1049.99,1049.99,400060097871
+4.8,898.0,True,Apple,Apple - iPhone X 64GB - Silver (Sprint),False,1049.99,1049.99,400060097925
+4.8,1560.0,True,Apple,Apple - iPhone 7 Plus 32GB - Jet Black (Sprint),False,719.99,719.99,400060098311
+4.8,1172.0,True,Apple,Apple - iPhone 8 Plus 256GB - Space Gray (Verizon),True,999.99,999.99,400060098571
+4.8,1172.0,True,Apple,Apple - iPhone 8 Plus 256GB - Gold (Verizon),True,999.99,999.99,400060098595
+4.8,1172.0,True,Apple,Apple - iPhone 8 Plus 256GB - Silver (Verizon),True,999.99,999.99,400060098632
+4.8,1634.0,True,Apple,Apple - iPhone 8 Plus 64GB - Gold (Verizon),True,849.99,849.99,400060098809
+4.8,1634.0,True,Apple,Apple - iPhone 8 Plus 64GB - Silver (Verizon),True,849.99,849.99,400060098861
+4.8,1249.0,True,Apple,Apple - iPhone X 256GB - Space Gray (Verizon),True,1199.99,1199.99,400060098878
+4.8,1249.0,True,Apple,Apple - iPhone X 256GB - Silver (Verizon),True,1199.99,1199.99,400060098939
+4.8,1454.0,True,Apple,Apple - iPhone 7 Plus 32GB - Jet Black (Verizon),True,719.99,719.99,400060099479
+4.8,1796.0,True,Samsung,Samsung - Galaxy Note8 64GB - Midnight Black (Verizon),True,936.0,936.0,887276224107
+4.8,1796.0,True,Samsung,Samsung - Galaxy Note8 64GB - Orchid Gray (Verizon),True,936.0,936.0,887276231259
+4.8,674.0,True,Samsung,Samsung - Galaxy Note8 64GB - Midnight Black (AT&T),True,949.99,899.99,887276226736
+4.8,674.0,True,Samsung,Samsung - Galaxy Note8 64GB - Orchid Gray (AT&T),True,949.99,899.99,887276233314
+4.8,800.0,True,Samsung,Samsung - Galaxy Note8 64GB - Orchid Gray (Sprint),False,999.99,999.99,887276230665
+4.8,800.0,True,Samsung,Samsung - Galaxy Note8 64GB - Midnight Black (Sprint),False,999.99,999.99,887276226217
+4.8,1796.0,True,Samsung,Samsung - Galaxy Note8 64GB - Deepsea Blue (Verizon),True,936.0,936.0,887276231150
+4.8,800.0,True,Samsung,Samsung - Galaxy Note8 64GB - Deepsea Blue (Sprint),False,999.99,999.99,887276230658
+4.8,674.0,True,Samsung,Samsung - Galaxy Note8 64GB - Deepsea Blue (AT&T),True,949.99,899.99,887276233321
+4.8,1286.0,True,Samsung,Samsung - Galaxy S9+ 64GB - Lilac Purple (Verizon),True,912.0,912.0,887276255880
+4.8,1286.0,True,Samsung,Samsung - Galaxy S9+ 64GB - Coral Blue (Verizon),True,912.0,912.0,887276255903
+4.8,1286.0,True,Samsung,Samsung - Galaxy S9+ 64GB - Midnight Black (Verizon),True,912.0,912.0,887276244211
+4.8,567.0,True,Samsung,Samsung - Galaxy S9+ 64GB - Midnight Black (Sprint),False,949.99,949.99,887276245775
+4.8,567.0,True,Samsung,Samsung - Galaxy S9+ 64GB - Coral Blue (Sprint),False,949.99,949.99,887276255163
+4.8,567.0,True,Samsung,Samsung - Galaxy S9+ 64GB - Lilac Purple (Sprint),False,949.99,949.99,887276255156
+4.8,673.0,True,Samsung,Samsung - Galaxy S9+ 64GB - Midnight Black (AT&T),True,914.99,914.99,887276248035
+4.8,673.0,True,Samsung,Samsung - Galaxy S9+ 64GB - Coral Blue (AT&T),True,914.99,914.99,887276254357
+4.8,673.0,True,Samsung,Samsung - Galaxy S9+ 64GB - Lilac Purple (AT&T),True,914.99,914.99,887276254371
+4.8,13.0,True,Samsung,Samsung - Galaxy J7 TOP - Black (Verizon),True,240.0,240.0,887276254814
+4.8,567.0,True,Samsung,Samsung - Galaxy S9+ 64GB - Sunrise Gold (Sprint),False,949.99,949.99,887276282367
+4.8,50.0,True,LG,LG - G7 ThinQ with 64GB Memory Cell Phone - Platinum Gray (Verizon),True,750.0,750.0,652810830478
+4.8,16.0,True,Samsung,Samsung - Galaxy S9 64GB - Sunrise Gold (AT&T),True,789.99,789.99,887276254593
+4.8,29.0,True,Samsung,Samsung - Galaxy S9+ 64GB - Sunrise Gold (AT&T),True,914.99,914.99,887276254364
+4.9,85.0,True,Samsung,Samsung - Galaxy S9+ 64GB - Sunrise Gold (Verizon),True,912.0,912.0,887276255897
+5.0,3.0,True,Apple,Apple - iPhone 6s Plus 128GB - Space Gray (Sprint),False,699.99,699.99,400055807423
+5.0,3.0,True,Apple,Apple - iPhone 6s Plus 128GB - Rose Gold (Sprint),False,699.99,699.99,400055807430
+5.0,3.0,True,Apple,Apple - iPhone 6s Plus 128GB - Gold (Sprint),False,699.99,699.99,400055807447
+5.0,3.0,True,Apple,Apple - iPhone 6s Plus 128GB - Silver (Sprint),False,699.99,699.99,400055807454
+5.0,1.0,True,ZTE,ZTE - Max XL 16GB - Gray (Sprint),False,229.99,179.99,885913105314
+,,True,Kyocera,Kyocera - DuraTR 8GB (Sprint),False,379.99,379.99,067215026263
+,,True,Samsung,Samsung - Galaxy J7 Refine (2018) - Gold (Sprint),False,329.99,329.99,887276268477
+,,True,LG,LG - V35 ThinQ™ - Black (AT&T),True,899.99,899.99,652810830201
+,,True,Motorola,Motorola - Moto E5 Plus with 32GB Memory Cell Phone - Black (Sprint),False,329.99,329.99,723755019881
