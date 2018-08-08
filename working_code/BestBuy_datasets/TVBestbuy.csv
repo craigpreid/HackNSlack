@@ -1,0 +1,66 @@
+customerReviewAverage,customerReviewCount,inStoreAvailability,manufacturer,name,onlineAvailability,regularPrice,salePrice,screensize,upc
+1.0,1,True,SunBriteTV,"SunBriteTV - Signature Series - 55"" Class - LED - Outdoor - Partial Sun - 2160p - 4K UHD TV with HDR",True,4499.99,4499.99,55,810347023095
+1.0,1,True,SunBriteTV,"SunBriteTV - Signature Series - 55"" Class - LED - Outdoor - Partial Sun - 2160p - 4K UHD TV with HDR",True,4499.99,4499.99,55,810347023149
+1.0,1,False,SunBriteTV,"SunBriteTV - Signature Series - 55"" Class - LED - Outdoor - Partial Sun - 2160p - 4K UHD TV with HDR",False,4499.99,4499.99,55,810347023156
+2.0,1,False,SunBriteTV,"SunBriteTV - Veranda Series - 75"" Class - LED - Outdoor - Full Shade - 2160p - 4K UHD TV with HDR",True,4999.99,4999.99,75,810347022340
+2.8,4,True,VIZIO,"VIZIO - 75"" Class - LED - P-Series - 2160p - Smart - 4K UHD TV with HDR",True,2299.99,1999.99,75,845226016707
+3.3,6,False,LG,"LG - 65"" Class - OLED - W7 Series - 2160p - Smart - 4K UHD TV with HDR",False,6999.99,6999.99,65,719192610989
+3.4,5,True,LG,"LG - 55"" Class - OLED - E8PUA Series - 2160p - Smart - 4K UHD TV with HDR",True,2999.99,2699.99,55,719192621008
+3.4,26,True,Hisense,"Hisense - 55"" Class - LED - H9 Plus Series - 2160p - Smart - 4K UHD TV with HDR",True,699.99,699.99,55,888143003443
+3.8,41,True,Hisense,"Hisense - 55"" Class - LED - H8E Series - 2160p - Smart - 4K UHD TV with HDR",True,469.99,399.99,55,888143003818
+4.0,1,True,SunBriteTV,"SunBriteTV - Pro Series - 49"" Class - LED - Outdoor - Full Sun - 1080p - HDTV",True,4295.98,4295.98,49,810347022081
+4.0,1,False,SunBriteTV,"SunBriteTV - Pro Series - 49"" Class - LED - Outdoor - Full Sun - 1080p - HDTV",True,4295.98,4295.98,49,810347022074
+4.0,1,False,SunBriteTV,"SunBriteTV - Pro Series - 49"" Class - LED - Outdoor - Full Sun - 1080p - HDTV",True,4295.98,4295.98,49,810347022098
+4.0,5,True,Westinghouse,"Westinghouse - 40"" Class - LED - 1080p - HDTV - DVD Combo",False,229.99,229.99,40,813784021228
+4.0,4,False,VIZIO,"VIZIO - 65"" Class - LED - P Series Quantum - 2160p - Smart - 4K UHD TV with HDR",True,2299.99,2099.99,65,845226016868
+4.0,1,True,Samsung,"Samsung - 58"" Class - LED - NU7100 Series - 2160p - Smart - 4K UHD TV with HDR",True,699.99,649.99,58,887276268729
+4.1,43,True,Sony,"Sony - 75"" Class - LED - X850F Series - 2160p - Smart - 4K UHD TV with HDR",True,2999.99,2499.99,75,027242909946
+4.1,7,True,Hisense,"Hisense - 65"" Class - LED - H8E Series - 2160p - Smart - 4K UHD TV with HDR",True,749.99,699.99,65,888143003832
+4.2,419,True,Westinghouse,"Westinghouse - 43"" Class - LED - 2160p - Smart - 4K UHD TV with HDR",True,299.99,249.99,43,813784020641
+4.2,26,True,VIZIO,"VIZIO - 50"" Class - LED - E-Series - 2160p - Smart - 4K UHD TV with HDR",True,439.99,439.99,50,845226016493
+4.2,9,True,VIZIO,"VIZIO - 70"" Class - LED - E-Series - 2160p - Smart - 4K UHD TV with HDR",True,1049.99,899.99,70,845226016554
+4.3,315,True,Hisense,"Hisense - 60"" Class - LED - H6 Series - 2160p - Smart - 4K UHD TV with HDR",True,449.99,449.99,60,888143003276
+4.3,210,True,Westinghouse,"Westinghouse - 32"" Class - LED - 720p - Smart - HDTV",True,169.99,129.99,32,813784021198
+4.3,79,True,Westinghouse,"Westinghouse - 24"" Class - LED - 720p - HDTV",True,119.99,79.99,24,813784021204
+4.3,21,True,Westinghouse,"Westinghouse - 24"" Class - LED - 720p - HDTV - DVD Combo",True,149.99,149.99,24,813784021211
+4.3,33,True,LG,"LG - 75"" Class - LED - SK8070PUA Series - 2160p - Smart - 4K UHD TV with HDR",True,2499.99,2499.99,75,719192621077
+4.3,51,True,VIZIO,"VIZIO - 55"" Class - LED - E-Series - 2160p - Smart - 4K UHD TV with HDR",True,499.99,499.99,55,845226016455
+4.3,47,True,VIZIO,"VIZIO - 55"" Class - LED - P-Series - 2160p - Smart - 4K UHD TV with HDR",True,899.99,799.99,55,845226016684
+4.3,96,True,VIZIO,"VIZIO - 65"" Class - LED - P-Series - 2160p - Smart - 4K UHD TV with HDR",True,1299.99,1199.99,65,845226016691
+4.3,28,True,Hisense,"Hisense - 55"" Class - LED - H6 Series - 2160p - Smart - 4K UHD TV with HDR",True,449.99,379.99,55,819130023045
+4.4,1279,True,Sony,"Sony - 48"" Class - LED - 1080p - Smart - HDTV",True,449.99,449.99,48,027242896482
+4.4,1293,True,VIZIO,"VIZIO - 50"" Class - LED - E-Series - 2160p - Smart - 4K UHD Home Theater Display with HDR",False,399.99,399.99,50,845226014581
+4.4,102,True,Westinghouse,"Westinghouse - 32"" Class - LED - 720p - HDTV - DVD Combo",True,169.99,149.99,32,813784021099
+4.4,102,True,Samsung,"Samsung - 50"" Class (49.5"" Diag.) - LED - 1080p - Smart - HDTV",False,399.99,399.99,50,887276222493
+4.4,728,True,Sharp,"Sharp - 60"" Class - LED - 2160p - Smart - 4K UHD TV with HDR",True,529.99,529.99,60,888143003290
+4.4,7,True,Samsung,"Samsung - 43"" Class - LED - LS003 Series - 2160p - Smart - 4K UHD TV with HDR",True,1299.99,1299.99,43,887276240176
+4.4,25,True,Sharp,"Sharp - 50"" Class - LED - 1080p - Smart - HDTV Roku TV",True,349.99,329.99,50,600603229930
+4.4,40,True,Samsung,"Samsung - 65"" Class - LED - Q9F Series - 2160p - Smart - 4K UHD TV with HDR",True,3799.99,3499.99,65,887276255279
+4.4,16,True,Sony,"Sony - 85"" Class - LED - X850F Series - 2160p - Smart - 4K UHD TV with HDR",True,4499.99,3999.99,85,027242909939
+4.4,51,True,VIZIO,"VIZIO - 43"" Class - LED - E-Series - 2160p - Smart - 4K UHD TV with HDR",True,349.99,339.99,43,845226016448
+4.4,44,True,VIZIO,"VIZIO - 65"" Class - LED - E-Series - 2160p - Smart - 4K UHD TV with HDR",True,799.99,799.99,65,845226016462
+4.4,35,True,LG,"LG - 65"" Class - LED - UK6300 Series - 2160p - Smart - 4K UHD TV with HDR",True,999.99,899.99,65,719192621145
+4.4,2651,True,Westinghouse,"Westinghouse - 32"" Class - LED - 720p - HDTV",True,149.99,99.99,32,813784020047
+4.5,1493,True,Sony,"Sony - 40"" Class - LED - 1080p - Smart - HDTV",True,379.99,379.99,40,027242896499
+4.5,9166,True,Insignia™,"Insignia™ - 32"" Class - LED - 720p - Smart - Roku TV",True,179.99,179.99,32,600603198120
+4.5,4564,True,Sharp,"Sharp - 50"" Class - LED - 1080p - Smart - HDTV Roku TV",False,399.99,329.99,50,600603199738
+4.5,8346,True,Insignia™,"Insignia™ - 39"" Class - LED - 1080p - Smart - HDTV Roku TV",True,279.99,229.99,39,600603198168
+4.5,703,True,Hisense,"Hisense - 43"" Class - LED - H7 Series - 2160p - Smart - 4K UHD TV with HDR",True,349.99,297.99,43,888143001241
+4.5,13,True,VIZIO,"VIZIO - 39"" Class - LED - D-Series - 720p - HDTV",True,199.99,199.99,39,845226043208
+4.5,13,False,Sony,"Sony - 100"" Class - LED - Z9D Series - 2160p - Smart - 4K UHD TV with HDR",False,59999.99,59999.99,100,027242896475
+4.5,1392,True,VIZIO,"VIZIO - 70"" Class - LED - E-Series - 2160p - Smart - 4K UHD Home Theater Display with HDR",True,1199.99,1199.99,70,845226014253
+4.5,658,True,Insignia™,"Insignia™ - 24"" Class - LED - 720p - Smart - HDTV Roku TV",True,149.99,119.99,24,600603212406
+4.5,1563,True,Sharp,"Sharp - 32"" Class - LED - 720p - Smart - HDTV Roku TV",True,199.99,149.99,32,600603213250
+4.5,28,True,Samsung,"Samsung - 65"" Class - LED - Curved - Q8C Series - 2160p - Smart - 4K UHD TV with HDR",True,2999.99,2999.99,65,887276197302
+4.5,210,True,LG,"LG - 55"" Class - LED - SJ8500 Series - 2160p - Smart - 4K UHD TV with HDR",True,1099.99,1099.99,55,719192609679
+4.5,428,True,LG,"LG - 49"" Class - LED - 1080p - HDTV",True,329.99,300.99,49,719192614673
+4.5,447,True,LG,"LG - 43"" Class - LED - 1080p - HDTV",True,279.99,250.99,43,719192613416
+4.5,17,True,Samsung,"Samsung - 55"" Class - LED - LS003 Series - 2160p - Smart - 4K UHD TV with HDR",True,1999.99,1999.99,55,887276222592
+4.5,10,True,Samsung,"Samsung - 65"" Class - LED - LS003 Series - 2160p - Smart - 4K UHD TV with HDR",True,2799.99,2799.99,65,887276222608
+4.5,1153,True,Sony,"Sony - 60"" Class - LED - X690E Series - 2160p - Smart - 4K UHD TV with HDR",True,799.99,699.99,60,027242906037
+4.5,136,True,TCL,"TCL - 43"" Class - LED - 4 Series - 2160p - Smart - 4K UHD TV with HDR Roku TV",True,299.99,279.99,43,846042007627
+4.5,480,True,VIZIO,"VIZIO - 24"" Class - LED - D-Series - 1080p - Smart - HDTV",True,139.99,139.99,24,845226016110
+4.5,49,True,Hisense,"Hisense - 65"" Class - LED - H9 Series - 2160p - Smart - 4K UHD TV with HDR",True,1299.99,896.99,65,888143002347
+4.5,170,True,Insignia™,"Insignia™ - 39"" Class - LED - 720p - HDTV",True,199.99,149.99,39,600603229411
+4.5,179,True,Insignia™,"Insignia™ - 19"" Class - LED - 720p - HDTV",True,79.99,69.99,19,600603229398
+4.5,113,True,Sharp,"Sharp - 43"" Class - LED - 1080p - Smart - HDTV Roku TV",True,299.99,299.99,43,600603229923
